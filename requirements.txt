@@ -1,0 +1,3 @@
+# Dashboard-free offline workflow uses Python standard library.
+# Optional for verified HTTPS certificate handling in live API calls:
+certifi

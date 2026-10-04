@@ -1,0 +1,1044 @@
+[PDF page 1]
+E02_stronghold | HTML reading copy
+Page 1
+Stronghold – Backbone Hosting
+Reading copy of a publicly filed HTML contract exhibit. Original HTML is enclosed. Page numbers below belong to this reading
+copy.
+https://www.sec.gov/Archives/edgar/data/1856028/000114036124044717/ef20037928_ex10-1.htm
+EX-10.1
+2
+ef20037928_ex10-1.htm
+EXHIBIT 10.1
+Exhibit 10.1
+Hosting Agreement
+THIS HOSTING AGREEMENT (this “Agreement”) is made this 29th day of October, 2024 by and between Stronghold
+Digital Mining Hosting, LLC, a
+Delaware limited liability company (“Stronghold”) and Backbone Mining Solutions LLC. a Delaware limited liability
+company, (“BMS,” and, together with Stronghold, each a “Party” and, collectively, the “Parties”).
+WHEREAS, BMS owns the BMS
+Equipment as set forth in Exhibit A (the “Bitcoin Miners” and the “PDUs”), and the Bitcoin Miners and PDUs will be
+delivered to Stronghold’s Scrubgrass power plant located at 2151
+Lisbon Road, Kennerdell, Pennsylvania 16374 (“Scrubgrass”) at BMS’s sole cost and expense, and will be installed
+and operating at Scrubgrass;
+WHEREAS, Stronghold will
+maintain, host, and operate the Bitcoin Miners and PDUs on behalf of BMS during the Term (as defined herein) in
+accordance with the terms and conditions set forth herein;
+WHEREAS, certain defined terms
+set forth herein are set forth in Exhibit B and are incorporated by reference herein;
+NOW, THEREFORE, in
+consideration of the foregoing and the promises set forth below, for good and valuable consideration, the receipt
+and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+| 1.
+Services.
+| 1.1.
+Installation and Facility Services. To the extent not
+previously installed, as soon as practicably possible following Stronghold’s receipt of the Bitcoin Miners and PDUs,
+Stronghold will provide racking infrastructure and install the Bitcoin Miners and PDUs. Stronghold covenants and
+agrees
+to supply electrical power and Internet access for the Bitcoin Miners and PDUs at Scrubgrass. Notwithstanding the
+foregoing, BMS agrees that Stronghold will not be liable for any delays in the hosting or installation of the Bitcoin
+Miners and PDUs unless such delays are caused by the gross negligence or willful misconduct of Stronghold. BMS
+agrees that Stronghold may contract to sell capacity and energy to additional parties and may contract with third
+parties to
+
+
+[PDF page 2]
+E02_stronghold | HTML reading copy
+Page 2
+provide similar services; provided, however, that such contracts do not breach or cause a breach under this
+Agreement.
+| 1.2.
+Hosting Services. Upon delivery of the Bitcoin Miners
+and PDUs to Scrubgrass, Stronghold agrees to unload, install, provision, maintain, and operate the Bitcoin Miners
+and PDUs at Scrubgrass as instructed in writing by BMS, so long as such instruction is commercially reasonable. In
+the
+event that BMS does not provide instruction in writing, Stronghold will use its commercially reasonable judgement
+in performing such services. Stronghold agrees to supply power, rack space, ambient cooling, and miner reboots,
+subject to
+other terms found in this Agreement.
+1
+| 1.3.
+Mining. Subject to the terms hereof, Stronghold shall
+direct mined tokens derived from the operation of the Bitcoin Miners and PDUs to a wallet that is controlled by
+BMS. Stronghold shall be granted view-only rights to the wallet that is controlled by BMS. BMS shall determine the
+pool to
+which the Bitcoin Miners’ and PDUs’ hashpower shall be directed.
+| 1.4.
+Identification. BMS will ensure that all Bitcoin Miners
+and PDUs are labelled or otherwise marked such that Stronghold can identify that BMS is the owner of such Bitcoin
+Miners and PDUs.
+| 1.5.
+Site Security. Stronghold will provide adequate and
+reasonable site security at Scrubgrass in accordance with industry standards.
+| 2.
+Term and Termination.
+| 2.1.
+Term. The term of this Agreement (the “Hosting Term”)
+shall commence on November 1, 2024, and shall remain effective until December 31, 2025. The term of this
+Agreement shall automatically renew for additional one (1) year periods (such renewal period(s), together with the
+Hosting Term, the
+“Term”) unless one party notifies the other in writing at least sixty (60) days prior to the conclusion of the
+then-current Term
+| 2.2.
+Termination; Exclusion of Certain Bitcoin Miners and PDUs.
+| 2.2.1.
+Solely upon the occurrence of an Event of Default that has not been cured (to the extent a cure is permissible)
+within fifteen (15) days under this Agreement, Stronghold or BMS
+may terminate this Agreement.
+
+
+[PDF page 3]
+E02_stronghold | HTML reading copy
+Page 3
+| 1.
+The following events shall constitute an “Event of Default” under this Agreement: failure by any Party to make
+payment on undisputed amounts when due; failure to maintain any Bitcoin Miner or PDU
+as required hereunder; a material breach of the representations and warranties contained in this Agreement; a
+material breach of any covenant or provision of this Agreement, a Party shall file a voluntary petition or commence
+a case in
+bankruptcy in a proceeding under any bankruptcy or insolvency law or seek relief under the provisions of any other
+insolvency, reorganization or similar law either now existing or that may in the future exist, providing for the
+winding up
+or termination of its existence as a limited liability company, or shall make a general assignment for the benefit of
+its creditors; and an involuntary petition or filing to commence a case or proceeding under any bankruptcy or
+insolvency
+law shall have been filed by any creditor of a Party (or other third-party with adequate standing to make such
+filing). Provided, however, that the events of default listed above shall not constitute an Event of Default to the
+extent cured
+within fifteen (15) days.
+2
+| 2.
+If a Party, in good faith, disputes any payment called for herein, that Party shall submit to the other Party, by the
+due date, full payment of the undisputed portion of the payment, and written
+documentation identifying and substantiating the disputed amount. If Party does not report a dispute within fifteen
+(15) calendar days following the date when the payment is due to be paid, that Party shall have waived its right to
+dispute
+the invoice or charge. The Parties agree to use their respective commercially reasonable efforts to resolve any
+dispute within ten (10) days after a Party receives written notice of a dispute from the other Party. Any disputed
+amounts
+resolved in favor of BMS shall be credited to the Actual Payment Amount due to or by BMS for the next month
+following resolution of the dispute. Any disputed amounts resolved in favor of Stronghold shall be offset against
+the Actual
+Payment Amount due to or by BMS for the next month following resolution of the dispute.
+| 2.2.2.
+This Agreement shall no longer apply to any Bitcoin Miner or PDU, and such Bitcoin Miner or PDU shall be excluded
+from any calculations used to determine any payments, profits
+or fees, that (i) is not in working order, (ii) is “Economically Obsolete” (as defined herein), or (iii) is removed and
+replaced pursuant to Section 5.3.
+| 1.
+“Economically Obsolete” shall mean when a Bitcoin Miner or PDU has an Implied Bitcoin Mining Revenue that is
+less than the Agreement Cost of Power for three (3) consecutive months or if a Bitcoin
+Miner or PDU is not in working order.
+| 2.
+“Not in working order” means not functioning normally for more than thirty (30) consecutive days after Stronghold
+provides written notice to BMS that a Bitcoin Miner or PDU is not functioning
+
+
+[PDF page 4]
+E02_stronghold | HTML reading copy
+Page 4
+properly which written notice shall include calculations related to the performance of that Bitcoin Miner or PDU.
+BMS shall have the right to replace that Bitcoin Miner or PDU with a replacement Bitcoin Miner or PDU or to repair
+that
+Bitcoin Miner or PDU to bring it to normal function. Stronghold shall hold a space at the Mining Facility for that
+Bitcoin Miner or PDU to be replaced or repaired for thirty (30) days after notice is given to BMS.
+| 3.
+In each case, BMS shall have thirty (30) days to either (i) in the case of 2.2.2.1, provide a new Bitcoin Miner or PDU
+that is not Economically Obsolete; or (ii) in the case of 2.2.2.2, provide a
+replacement Bitcoin Miner or PDU or provide necessary spare parts to cure any defects in the applicable Bitcoin
+Miner or PDU.
+| 4.
+In the event a Bitcoin Miner or PDU is removed and replaced pursuant to Section 5.3, this Agreement shall apply to
+the
+replacement Bitcoin Miner or PDU supplied by BMS commencing upon delivery of such replacement Bitcoin Miner
+or PDU by BMS to Stronghold at Scrubgrass.
+3
+| 2.2.3.
+Additional Remedies.
+| 1.
+If BMS fails to make any undisputed payment required hereunder and such payment failure has not been remedied
+in accordance with Section 2.2.1
+above, within thirty (30) days, then in addition to any other rights and remedies it may have, Stronghold shall have
+the right, with written notice to BMS, to redirect mining revenue from the Bitcoin Miners and PDUs, or to collect
+100% of
+electricity sales (or any combination thereof) for Stronghold’s sole account (such redirection of mining or electricity
+revenue shall be known as “Stronghold Self Operation”).
+| 2.
+Should Stronghold’s Net Self Operation Income earned in the first thirty (30) days of Stronghold Self Operation
+equal or exceed 105% of the undisputed payment that BMS failed to pay to Stronghold,
+the Parties shall consider BMS’s failure to pay that undisputed amount to be cured. “Net Self Operation Income” is
+calculated as (x) the product of the gross revenues received by Stronghold during Stronghold Self Operation and
+the BMS
+Share applicable during the month prior to BMS’s failure to make an undisputed failure payment minus (y) the
+product of the Total Cost and the BMS Share applicable
+during the month prior to BMS’s failure to make an undisputed failure payment. For the avoidance of doubt, once
+the non-payment of the undisputed amount is cured, Stronghold shall redirect the mining revenue as per the
+original terms of
+this Agreement, subject to Section 2.2.3.4 below.
+| 3.
+Should Stronghold not receive 105% of the undisputed payment that BMS failed to make to Stronghold earned in
+the first thirty (30) days of Stronghold Self Operation, as calculated in Section 2.2.3.2, then upon five (5) Business
+Days’ notice to BMS, Stronghold may in its sole discretion, in additional to any other rights and remedies it may
+have, (a) reconfigure for
+
+
+[PDF page 5]
+E02_stronghold | HTML reading copy
+Page 5
+Stronghold’s use, or (b) remove and store at BMS’s expense, all or any portion of the Bitcoin Miners and PDUs
+without any cost, obligation or liability of Stronghold to BMS until such undisputed payment owed by BMS is made.
+| 4.
+Should BMS fail to make more than one undisputed payment required hereunder and such second payment failure
+is not remedied in accordance with Section
+2.2.1 above, then, in addition to any other rights and remedies it may have, Stronghold shall have the right, in its
+sole discretion, with written notice to BMS, to immediately (a) reconfigure for Stronghold’s
+use, or (b) remove and store at BMS’s expense, all or any portion of the Bitcoin Miners and PDUs without any cost,
+obligation or liability of Stronghold to BMS until such undisputed payment is made, without the obligation to
+comply with in
+Stronghold Self Operation or offset any unpaid amounts with any Stronghold Self Operation Income prior to taking
+such action.
+4
+| 2.3.
+The Parties agree that in the event of a termination of this Agreement as provided for herein, neither Party shall
+have a duty or obligation to mitigate unless otherwise
+indicated in this Agreement.
+| 2.4.
+Access; Removal of Property. Upon the occurrence of an
+Event of Default, BMS shall, upon written notice to Stronghold, immediately have the right to access the Mining
+Facility during the Access Period (as defined herein) for the purpose of removing any of the Bitcoin Miners and
+PDUs from the
+Mining Facility at BMS’s sole cost and expense; provided, however, that should the Access Period be tolled due to
+stay by the Court in a bankruptcy, insolvency or
+similar debtor proceeding, after any such stay is lifted, BMS shall have any time that remained before the tolling to
+conclude the exercise of the rights and removal of the Bitcoin Miners and PDUs for the Access Period. Stronghold
+will
+not unreasonably withhold access to Scrubgrass or otherwise obstruct the process of removing the Bitcoin Miners
+and PDUs. Should BMS fail to remove the Bitcoin Miners and PDUs in the time provided above, Stronghold shall be
+permitted, at
+its sole discretion, to (i) operate the Bitcoin Miners and PDUs and keep 100% of the proceeds generated by the
+Bitcoin Miners and PDUs from the end of such period until the Bitcoin Miners and PDUs are actually removed or (ii)
+remove all
+Bitcoin Miners and PDUs and return them to BMS, for which BMS shall immediately reimburse Stronghold for its
+costs and expenses to do so, and Stronghold shall not have liability for the condition of the Bitcoin Miners and
+PDUs delivered
+to BMS, so long as such Bitcoin Miners were maintained as specified herein and, with respect to the removal and
+return or storage of the Bitcoin Miners and PDUs, absent Stronghold’s gross negligence or willful misconduct in
+performing
+such tasks. As used herein, the term “Access Period” shall mean the period beginning on the date set forth in the
+written notice required pursuant to this Section 2.4
+and ending on the earlier to occur of (i) ninety (90) days from the date set forth in BMS’s notice of exercise or (ii)
+ninety (90) days after the expiration or earlier termination of this Agreement in accordance with its terms.
+| 2.4.1.
+
+
+[PDF page 6]
+E02_stronghold | HTML reading copy
+Page 6
+During the exercise of BMS’s rights pursuant hereto, Stronghold shall permit BMS and its agents and nominees to
+gain access to Scrubgrass and the Mining Facility for the
+purpose of enforcing its security interest in the Bitcoin Miners and PDUs, including, without limitation, protecting,
+removing, or disposing of or liquidating the Bitcoin Miners and PDUs.
+| 2.4.2.
+BMS shall have access to Scrubgrass and the Mining Facility during the Access Period at no charge to BMS.
+| 2.5.
+Stronghold Waiver and Release. Stronghold hereby waives
+in favor of BMS:
+| 2.5.1.
+all rights, if any, of distraint, levy and execution which Stronghold may now or hereafter have against the Bitcoin
+Miners and PDUs;
+5
+| 2.5.2.
+all statutory liens, security interests, or other liens, if any, which Stronghold may now have or hereafter have in the
+Bitcoin Miners and PDUs; and
+| 2.5.3.
+all other interests or claims of every nature whatsoever, if any, which Stronghold may now or hereafter have in or
+against the Bitcoin Miners and PDUs for any rent, storage
+charges, or other sums due, or to become due, to Stronghold by BMS.
+| 2.6.
+No Bitcoin Miners or PDUs Deemed Fixtures. The Bitcoin
+Miners and PDUs may be stored, used, or installed at the Mining Facility but shall not be deemed a fixture or part
+of the real estate but rather at all times be deemed personal property, whether or not the Bitcoin Miners or PDUs
+become so
+related to Scrubgrass and/or the Mining Facility that an interest therein arises under real estate law.
+| 3.
+Fees and Payment.
+| 3.1.
+Before the first day of every calendar month during the Hosting Term, BMS will pay to Stronghold $600,000 (the
+“Upfront Monthly Payment”) in immediately available cash as set
+forth in Section 3.4. Notwithstanding anything to the contrary herein, the first Upfront Monthly Payment shall not
+be required to be paid by BMS until November 30,
+2024, and at no point in time during the Hosting Term shall the aggregate amount of Upfront Monthly Payments
+outstanding exceed $600,000.
+| 3.2.
+As Bitcoins are mined by the Bitcoin Miners and PDUs, BMS, through its mining pool, shall send earned rewards on
+a daily basis to a pool subaccount, in accordance with the full
+pay per share (“FPPS”) method. If there are significant deviations between the FPPS payout to Stronghold and the
+expected payout based on performance, Stronghold may request an audit with which BMS shall cooperate.
+Subsequently, BMS shall
+
+
+[PDF page 7]
+E02_stronghold | HTML reading copy
+Page 7
+cause the mining pool to then transfer a quantity of Bitcoin, which will be calculated as the product of total earned
+rewards and the difference between 100% and the prevailing “BMS Share” (as defined herein), to the designated
+wallet of
+Stronghold if the total earned rewards exceeds .01 BTC (the “Reward Limit”), except on the last day of each
+month, in which the Reward Limit is reduced to .001 BTC. For the avoidance of doubt, any partial BTC that is not
+paid to Stronghold
+on a certain day will be paid to Stronghold the next time BTC is paid to Stronghold; provided that BMS’s minimum
+thresholds for pool subaccount pay-outs are met.
+| 3.3.
+Not later than twenty (21) days after the end of each month (the “True-up Date”), Stronghold shall provide to BMS
+the calculations of the “Monthly Service Fees” (as defined
+herein) and the “Actual Payment Amount” (as defined herein). If the Actual Payment Amount is less than 0,
+Stronghold will deliver an invoice to BMS for an amount equal to the Actual Payment Amount multiplied by
+negative one, which BMS will pay to Stronghold within five (5) Business Days of receiving the invoice. If the Actual
+Payment Amount is greater than 0, Stronghold will pay to BMS an amount
+equal to the Actual Payment Amount within two (2) Business Days of the True-up Date.
+6
+| 3.4.
+Stronghold and BMS shall provide information regarding their fiat accounts and bitcoin public key addresses to be
+used for payments required hereunder via separate cover.
+| 3.5.
+All fees are exclusive of taxes, including, but not limited to, sales, use, transfer, privilege, excise, VAT, GST,
+consumption and other similar taxes, fees, duties,
+governmental assessments, impositions and levies imposed on the transaction in question (including, without
+limitation, access and use of the Bitcoin Miners and PDUs and the delivery of Services), all of which BMS shall pay
+in full, or
+reimburse Stronghold for payments made on BMS’s behalf; provided that BMS shall not be liable for taxes arising
+from Stronghold’s income. Any payments due to
+Stronghold shall be accounted for in accordance with this Section 3.
+| 3.6.
+Deposit. BMS will deposit with Stronghold simultaneously
+with the execution of this Agreement the sum of US$7,800,000.00 (the “Deposit”) (equal to US$70 per MW
+multiplied by 50 MW and ninety-three (93) days (three (3)
+months) and twenty-four (24) hours), which Deposit, inclusive of any accrued and unpaid interest, shall be
+returned to BMS within one (1) Business Day following the end of the Hosting Term.
+| 3.7.
+The Deposit shall bear interest at a rate per annum equal to the Interest Rate. Accrued interest on the Deposit
+shall be payable in arrears on each applicable Interest Payment
+Date; provided that (i) interest accrued pursuant to this Section 3.7 shall be payable on
+demand and (ii) at the time the Deposit is returned to BMS pursuant to Section 3.6, accrued interest on the Deposit
+shall be payable on the date of such return.
+| 3.8.
+
+
+[PDF page 8]
+E02_stronghold | HTML reading copy
+Page 8
+The accrued interest on the Deposit shall be due and payable in kind on each Interest Payment Date.
+Notwithstanding the foregoing or anything to the contrary contained herein,
+so long as no Event of Default has occurred and is continuing, on each date on which interest is to be paid in
+accordance with Section 3.7, such interest shall be
+paid in kind on each such date by capitalizing and adding such interest to the then outstanding amount of the
+Deposit (“PIK Interest”) and any interest to be so capitalized pursuant to this Section
+3.8 shall be capitalized on the relevant date provided for payment herein and added to the then outstanding
+amount of the Deposit so as to increase the amount of the Deposit, which Deposit amount shall be refunded in
+accordance with Section 3.6. For purposes of this Agreement, from the date so capitalized, PIK Interest capitalized
+pursuant to this Section 3.8 shall bear interest in accordance with this Section 3.8 as if it had originally been part
+of the amount
+of the Deposit and all references herein to the amount of the Deposit shall include PIK Interest.
+7
+| 3.9.
+To the extent permitted by law and notwithstanding anything to the contrary in this Section 3, upon the
+occurrence and during the continuance of an Event of Default, the
+principal of, and all accrued and unpaid interest on, the Deposit shall bear interest, from the date such Event of
+Default occurred until the date such Event of Default is cured or waived in writing in accordance herewith, at a rate
+per
+annum equal at all times to 24.0%.
+| 4.
+Access.
+| 4.1.
+Access to Facilities. Other than as provided in Section 2.4, BMS shall not be permitted access to Scrubgrass other
+than through a supervised tour and upon prior written notice to Stronghold no less than forty-eight
+(48) hours in advance and such access shall occur during normal business hours. BMS may be permitted
+supervised access to Scrubgrass to provide repairs to Bitcoin Miners and PDUs that are not in working order or
+“Economically Obsolete,”
+in accordance with 2.2.2 above, or to replace any Bitcoin Miner or PDU at the request of BMS in accordance with
+Section 5.3. BMS will be solely responsible for
+any damage or loss caused by anyone acting for or on its behalf while at the Mining Facility except to the extent of
+any contributory negligence on the part of Stronghold.
+| 4.2.
+Hazardous Conditions. If, in the reasonable discretion
+of Stronghold, its employees, or its agents, any hazardous conditions arise on, from, or affecting Scrubgrass,
+Stronghold is hereby authorized to suspend service under this Agreement for the affected site without subjecting
+Stronghold to
+any liability. Stronghold shall provide written notice of any such suspension of service to BMS within a reasonable
+time. In the event of an emergency, and upon prior written notice to BMS, Stronghold may rearrange, remove, or
+relocate
+Bitcoin Miners and PDUs without any liability to BMS. For the avoidance of doubt, BMS shall not be liable or
+responsible for any obligations under this Agreement during such period of suspended service.
+| 4.3.
+
+
+[PDF page 9]
+E02_stronghold | HTML reading copy
+Page 9
+Intermittent Outages. BMS acknowledges that Stronghold
+may curtail the Bitcoin Miners and PDUs upon the occurrence and continuation of a Force Majeure event, during
+outages for maintenance purposes, in the event Stronghold identifies a hazardous condition, or if Stronghold
+determines that it
+is in the best interest of, and more economical for, all Parties to the Agreement to sell power to the grid.
+Stronghold agrees to provide written notice to BMS of any of the foregoing events, as specified in this Agreement.
+8
+| 5.
+Removal, Relocation and Replacement of the Bitcoin Miners and PDUs.
+| 5.1.
+Relocation by Stronghold. Stronghold may, from time to
+time, relocate Bitcoin Miners and PDUs within Scrubgrass to the extent Stronghold reasonably determines that
+such relocation is necessary to protect the Bitcoin Miners and PDUs from hazardous conditions, due to
+commercially unacceptable
+interference (as defined in Section 5.2), or to perform maintenance work on the Bitcoin Miners and PDUs.
+Stronghold agrees to provide written notice of any such
+relocation as soon as reasonably practical (or as set forth in Section 5.2 for commercially unacceptable
+interference). Stronghold must receive prior written
+approval from BMS to relocate the Bitcoin Miners and PDUs for any other reason. In any case, the site of relocation
+shall afford comparable environmental conditions for the Bitcoin Miners and PDUs, comparable accessibility to the
+Bitcoin
+Miners and PDUs, and comparable security conditions for the Bitcoin Miners and PDUs. Stronghold shall not
+arbitrarily or capriciously relocate the Bitcoin Miners and PDUs. If the Bitcoin Miners and PDUs are relocated
+according to this Section 5.1, the cost of relocating the Bitcoin Miners and PDUs shall be borne exclusively by
+Stronghold.
+| 5.2.
+Commercially Unacceptable Interference. If at any time
+any Bitcoin Miners and PDUs cause commercially unacceptable interference to other equipment at Scrubgrass and
+such interference cannot be cured within ten (10) days, Stronghold may, with prior written notice to BMS, relocate
+such Bitcoin
+Miners and PDUs at BMS’s sole expense. Interference as used herein means either (i) damages to Stronghold
+network infrastructure, (ii) damages to energy sources throughout Scrubgrass, and/or (iii) significant negative
+impact on other
+miners’ hash rate performance or (iv) to other equipment, goods or material at Scrubgrass
+| 5.3.
+Equipment Removal and Replacement. During the Term or
+any renewal Term, BMS shall have the right to replace Bitcoin Miners and PDUs at Scrubgrass if BMS reasonably
+determines that such replacement will be economically beneficial. For the avoidance of doubt, a replacement
+Bitcoin Miner will
+be deemed economically beneficial if such replacement Bitcoin Miner (i) has the same or higher hash rate capacity
+as the replaced Bitcoin Miner and (ii) has the same or better efficiency than the replaced Bitcoin Miners and PDUs.
+In that
+
+
+[PDF page 10]
+E02_stronghold | HTML reading copy
+Page 10
+event, Stronghold agrees, at BMS’s sole cost upon not less than thirty (30) Business Days’ notice, to remove the
+Bitcoin Miners and PDUs that are being replaced and arrange for the delivery of such removed Bitcoin Miners and
+PDUs to BMS
+upon the delivery by BMS of the replacement Bitcoin Miners and PDUs to Stronghold at Scrubgrass.
+| 6.
+BMS Responsibilities.
+| 6.1.
+Insurance. BMS acknowledges that Stronghold is not an
+insurer, and the Bitcoin Miners and PDUs in respect of which BMS holds title are not covered by any insurance
+policy held by Stronghold. BMS is responsible for obtaining insurance coverage for such Bitcoin Miners and PDUs
+for up to the
+full replacement cost of the Bitcoin Miners and PDUs during the Hosting Term, and BMS’s failure to maintain the
+insurance coverage as required by this provision shall be a material breach of this Agreement. BMS shall assume
+responsibility for all costs related to damage to Stronghold’s personnel and/or property as a result of BMS’s gross
+negligence. In respect of those Bitcoin Miners and PDUs covered by BMS, BMS’s insurance must be primary and
+non-contributory with respect to the Bitcoin Miners and PDUs and shall contain a waiver of subrogation clause in
+favor of Stronghold and shall name Stronghold as an additional insured.
+9
+| 6.2.
+Equipment in Good Working Order. BMS represents and
+warrants that all Bitcoin Miners and PDUs delivered to Stronghold under the Agreement are functioning properly
+and suitable for use at the Mining Facility. To the extent that any Bitcoin Miner or PDU is deemed to be
+malfunctioning
+because that Bitcoin Miner or PDU fails to perform properly (“Nonconforming”), BMS may direct Stronghold to
+attempt to repair that Nonconforming Bitcoin Miner or PDU with all spare parts to be provided by BMS or may
+replace that
+Nonconforming Bitcoin Miner or PDU with a Replacement Bitcoin Miner or PDU provided at BMS’s sole cost and
+expense. It is understood that BMS is responsible for any costs associated with the troubleshooting and repair of
+Nonconforming
+Bitcoin Miners and PDUs including labor, parts and replacement of Nonconforming Bitcoin Miners or PDUs.
+Stronghold is not responsible in any way for installation delays or loss of profits as a result of Nonconforming
+Bitcoin Miners or
+PDUs. Once the Bitcoin Miners and PDUs are delivered by BMS to Stronghold, confirmed by both Parties hereto to
+be in good working order, and installed and operational, Stronghold shall ensure the ongoing services as stated in
+this
+Agreement. For the avoidance of doubt, this provision shall not apply in the event any defect and/or unsuitability of
+use of the Bitcoin Miners or PDUs is caused by the gross negligence or willful misconduct of Stronghold.
+| 6.3.
+Compliance with Laws. BMS’s use of Scrubgrass and the
+Associated Equipment located at the Scrubgrass shall conform to all applicable Law, including international Law,
+the Law of the jurisdictions in which BMS is doing business and where Scrubgrass is located. As used herein, “Law”
+means any
+
+
+[PDF page 11]
+E02_stronghold | HTML reading copy
+Page 11
+law, statute, rule, protocol, procedure, exchange rule, tariff, decision, requirement, writ, order decree or
+judgement adopted by or any interpretation hereof by any court, government agency, regulatory body,
+instrumentality or any other
+entity, including an electric utility, retail electric provider, regional transmission organization or independent
+system operator. In the event that there is a new Law or a change in Law that causes Stronghold to directly or
+indirectly
+incur new or additional costs in connection with this Agreement, which cost exceeds more than $10,000 per
+month, Stronghold shall notify BMS as soon as reasonably practicable, and BMS shall have ten (10) days to decide
+whether to accept
+or reject such pass through costs. If BMS rejects the pass through costs, then either Party may terminate this
+Agreement without incurring further liabilities or obligations to the other Party (notwithstanding obligations due
+prior to
+and up until the time where notice of termination is provided). If BMS does not reject the pass through costs, then
+Stronghold may pass through such costs to BMS without markup. BMS shall timely cooperate in any audit or review
+of BMS’s
+compliance with the terms hereof conducted by or on behalf of Stronghold, responding accurately and completely
+to all inquiries, and providing any requested documents.
+10
+| 7.
+Limitation of Liability.
+| 7.1.
+STRONGHOLD MAKES NO WARRANTIES OR GUARANTEES RELATED TO THE AVAILABILITY OF THE SERVICES OR THE
+OPERATING TEMPERATURE OF SCRUBGRASS. THE SERVICES AND THE MINING FACILITY
+PROVIDED BY STRONGHOLD ARE PROVIDED “AS IS.” STRONGHOLD DOES NOT PROVIDE MECHANICAL COOLING OR
+BACKUP POWER AND THE FACILITY IS SUBJECT TO SWINGS IN LOCAL TEMPERATURE, WIND, HUMIDITY, ETC.
+INTERNET ACCESS IS NOT REDUNDANT OR PROTECTED AND
+IS NOT GUARANTEED AT ALL TIMES.
+| 7.2.
+THE PARTIES HERETO MAKE NO WARRANTY WHATSOEVER, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED
+TO, (A) WARRANTY OF MERCHANTABILITY; (B) WARRANTY OF FITNESS FOR A PARTICULAR
+PURPOSE; OR (C) NON-INFRINGEMENT; OR (D) WARRANTY AGAINST INTERFERENCE. STRONGHOLD DOES NOT
+WARRANT THAT (A) THE SERVICE SHALL BE AVAILABLE 24/7 OR FREE FROM INTERRUPTIONS; OR (B) THE SERVICE
+SHALL PROVIDE ANY FUNCTION NOT DESIGNATED
+HEREIN OR IN ANY OTHER DOCUMENTATION. STRONGHOLD DOES NOT WARRANT THAT THE ASSOCIATED
+EQUIPMENT SHALL MEET BMS’S REQUIREMENTS OTHER THAN AS SET OUT HEREIN. STRONGHOLD DOES NOT
+WARRANT THAT THE SERVICES WILL BE UNINTERRUPTED, ERROR-FREE,
+OR COMPLETELY SECURE.
+| 7.3.
+BMS further acknowledges that cryptocurrency price movements, mining difficulty adjustments, blockchain
+network forks, blockchain network attacks, blockchain service
+interruptions, protocol functionality upgrades and modifications, changes in Law, and legal and regulatory risks
+(“External Risks”) could have a material adverse impact on the value of cryptocurrencies, cryptocurrency mining,
+the Bitcoin
+
+
+[PDF page 12]
+E02_stronghold | HTML reading copy
+Page 12
+Miners and PDUs, and the Hosting Services. Each Party assumes responsibility for all respective External Risks, and
+further, each Party hereby disclaims all liability for any losses that may arise from the other Party as a result
+thereof,
+unless otherwise indicated in this Agreement.
+| 7.4.
+STRONGHOLD DOES NOT AND CANNOT CONTROL THE FLOW OF DATA TO OR FROM STRONGHOLD’S NETWORK
+AND OTHER PORTIONS OF THE INTERNET, OR ON ANY BLOCKCHAIN NETWORK. SUCH FLOW DEPENDS IN
+LARGE PART ON THE PERFORMANCE OF INTERNET SERVICES PROVIDED OR CONTROLLED BY THIRD PARTIES. AT
+TIMES, ACTIONS OR INACTIONS OF SUCH THIRD PARTIES CAN IMPAIR OR DISRUPT BMS’S CONNECTIONS TO THE
+INTERNET (OR PORTIONS THEREOF). ALTHOUGH
+STRONGHOLD WILL USE COMMERCIALLY REASONABLE EFFORTS TO TAKE ALL ACTIONS IT DEEMS APPROPRIATE TO
+REMEDY AND AVOID SUCH EVENTS, STRONGHOLD CANNOT GUARANTEE THAT SUCH EVENTS WILL NOT OCCUR.
+ACCORDINGLY, STRONGHOLD DISCLAIMS ANY AND ALL
+LIABILITY RESULTING FROM OR RELATED TO SUCH EVENTS.
+11
+| 7.5.
+EXCEPT FOR LIABILITIES ARISING OUT OF STRONGHOLD’S GROSS NEGLIGENCE OR WILLFUL MISCONDUCT,
+STRONGHOLD SHALL HAVE NO OBLIGATION, RESPONSIBILITY, OR LIABILITY FOR ANY OF THE
+FOLLOWING: (A) ANY INTERRUPTION OR DEFECTS IN THE BITCOIN MINERS OR PDUS CAUSED BY FACTORS OUTSIDE
+OF STRONGHOLD’S REASONABLE CONTROL; (B) AND LOSS, DELETION, OR CORRUPTION OF BMS’S DATA OR FILES;
+(C) ANY LOST REVENUE OR PROFITS TO BMS
+DURING NETWORK OR POWER OUTAGES, LIMITATIONS, OR CURTAILMENT, BITCOIN MINER OR PDU FAILURES, OR
+OTHER FACTORS OUTSIDE OF STRONGHOLD’S CONTROL; (D) DAMAGES RESULTING FROM ANY ACTIONS OR
+INACTIONS OF BMS OR ANY THIRD PARTY NOT UNDER
+STRONGHOLD’S CONTROL; OR (E) DAMAGES RESULTING FROM BITCOIN MINERS, PDUS OR ANY THIRD-PARTY
+EQUIPMENT.
+| 7.6.
+Disclaimers. BMS understands and acknowledges that, in
+some situations, Bitcoin Miner or PDU functionality may be unavailable due to factors outside of Stronghold’s
+reasonable control. This includes, but is not limited to network failures, pool operator failures, denial of service
+attacks,
+currency network outages, blockchain network outages or failures, hacking or malicious attacks on the crypto
+networks or exchanges, power outages, or acts of God. NOTWITHSTANDING SECTION
+7.5 OF THIS AGREEMENT, STRONGHOLD SHALL HAVE NO OBLIGATION, RESPONSIBILITY, AND/OR LIABILITY FOR
+ANY INTERRUPTION OR DEFECTS IN ASSOCIATED EQUIPMENT FUNCTIONALITY. NOTWITHSTANDING SECTION 7.5
+OF THIS AGREEMENT, IN NO EVENT SHALL STRONGHOLD HAVE ANY LIABILITY UNDER ANY CIRCUMSTANCES FOR:
+(A) ANY LOSS, DELETION, OR CORRUPTION OF BMS’S DATA OR FILES WHATSOEVER; (B) ANY
+LOST REVENUE TO BMS DURING OUTAGES, CURTAILMENT EQUIPMENT FAILURES, ETC.; (C) ANY INTERNET FAILURE
+OR OUTAGE; (D) DAMAGES RESULTING FROM ANY ACTIONS OR INACTIONS OF BMS OR ANY THIRD PARTY NOT
+UNDER STRONGHOLD’S CONTROL; (E) DAMAGES
+RESULTING FROM ANY THIRD-PARTY EQUIPMENT; OR (F) UNFORESEEABLE DELAYS OR ISSUES THAT MIGHT CAUSE
+THE MINING FACILITY NOT TO BE PREPARED TO INSTALL AND HOST THE BITCOIN MINERS, PDUS AND OTHER BMS
+EQUIPMENT CONTEMPLATED TO BE DELIVERED
+
+
+[PDF page 13]
+E02_stronghold | HTML reading copy
+Page 13
+HEREUNDER IMMEDIATELY UPON ARRIVAL OR WITHIN THE TIMELINE EXPECTED BY BMS, OR ANY LOSS OF PROFITS
+OR INCURRENCE OF EXPENSES RELATED TO SUCH DELAYS IN DELIVERY.
+12
+| 8.
+Limitations on Liability. IN NO
+EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY OR ANY OTHER PERSON, FIRM, OR ENTITY IN ANY
+RESPECT, FOR ANY INDIRECT, CONSEQUENTIAL, SPECIAL, INCIDENTAL, RELIANCE, EXEMPLARY, OR PUNITIVE
+DAMAGES, INCLUDING LOSS OF PROFITS OF ANY
+KIND OR NATURE WHATSOEVER, LOSS OF BUSINESS, LOSS OF DATA OR COST OF COVER OF ANY KIND OR NATURE
+WHATSOEVER, ARISING OUT OF OR RELATING TO THE SUBJECT OF THIS AGREEMENT INCLUDING MISTAKES,
+NEGLIGENCE, ACCIDENTS, ERRORS, OMISSIONS,
+INTERRUPTIONS, OR DEFECTS IN TRANSMISSION, OR DELAYS, INCLUDING, BUT NOT LIMITED TO, THOSE COSTS
+AND LIABILITIES WHICH MAY BE CAUSED BY REGULATORY OR JUDICIAL AUTHORITIES ARISING OUT OF OR
+RELATING TO THIS AGREEMENT OR THE OBLIGATIONS OF
+SUCH PARTY PURSUANT TO THIS AGREEMENT, EVEN IF ADVISED OF THE POSSIBILITY THEREOF. EXCEPT FOR
+LIABILITIES ARISING OUT OF GROSS NEGLIGENCE OR WILLFUL MISCONDUCT, EACH PARTY’S LIABILITIES UNDER
+THIS AGREEMENT, WHETHER UNDER CONTRACT LAW,
+TORT LAW, WARRANTY, OR OTHERWISE, SHALL BE LIMITED TO DIRECT DAMAGES NOT TO EXCEED $1,000,000.00.
+| 9.
+Indemnity.
+| 9.1.
+BMS shall indemnify, hold harmless and defend Stronghold and their respective affiliates, subsidiaries, employees,
+agents, directors, owners, executives, representatives, and
+subcontractors from any and all third-party liability, claim, judgement, loss, cost, expense or damage, including
+reasonable attorneys’ fees and legal expenses, arising out of or relating to the Bitcoin Miners, PDUs or BMS’s use,
+management, upgrade, and/or modification thereof, the operation of the Bitcoin Miners or PDUs, any damage to
+Bitcoin Miners or PDUs which occurs during the de-installation, storage or packing processes, and for any injuries
+or damages
+sustained by any person or property due to any direct or indirect act, omission, negligence or misconduct of BMS,
+its agents, representatives, employees, contractors and their employees and subcontractors and their employees,
+including due
+to a breach of this Agreement by BMS.
+| 9.2.
+Stronghold shall indemnify, hold harmless and defend BMS, its subsidiaries, employees, agents, directors, owners,
+executives, representatives, and subcontractors from any and
+all third-party liability, claim, judgement, loss, cost, expense or damage, including reasonable attorneys’ fees and
+legal expenses, arising out of or relating to any direct or indirect act, omission, negligence or misconduct of
+Stronghold,
+its agents, representatives, employees, contractors and their employees and subcontractors and their employees,
+including due to a breach of this Agreement by Stronghold.
+| 9.3.
+Neither Stronghold nor BMS shall enter into any settlement or resolution with a third party related to any claim
+arising from or related to this Agreement for which an
+
+
+[PDF page 14]
+E02_stronghold | HTML reading copy
+Page 14
+indemnification obligation attaches under this Section 9.3 without the other Party’s prior written consent, which
+shall not be unreasonably withheld.
+13
+| 10.
+Confidentiality.
+| 10.1.
+Protection of Information. During the Term of this
+Agreement, each party (as applicable, the “Disclosing Party”) may share or otherwise make available its
+confidential or proprietary information, whether written or oral, or that of a third party (“Confidential Information”)
+with the other
+Party (the “Receiving Party”) for purposes of performing under this Agreement or discussing other business
+opportunities of mutual interest. The Receiving Party agrees, at all times during the Hosting Term of this
+Agreement and
+thereafter, to hold in confidence, and using not less than the same standard of care that Receiving Party uses to
+protect its own Confidential Information of a similar nature but in no event less than reasonable care, and not to (i)
+use,
+except to the extent necessary to perform under this Agreement, or (ii) disclose to any person, firm, corporation or
+other entity (other than Receiving Party’s directors, officers, employees, professional advisers, consultants,
+subcontractors and other agents with a need to know and who are bound by obligations of confidentiality
+substantially as restrictive as those set forth in this Agreement (“Representatives”)), without written authorization
+from the
+Disclosing Party in each instance, any of the Disclosing Party’s Confidential Information obtained or accessed
+during the Term of this Agreement. If the Receiving Party learns or has reason to believe that Confidential
+Information of the
+Disclosing Party has been used, disclosed or accessed by an unauthorized party or lost or misplaced, the Receiving
+Party will immediately give notice of such event to the Disclosing Party.
+| 10.2.
+Exceptions; Compulsory Disclosure. The obligations
+imposed on the Receiving Party by this Section 10.2 will not apply to any information that: (i) is already in the
+possession of the Receiving Party as shown by
+documentation dated prior to the date hereof; (ii) is or becomes publicly available through no fault of the Receiving
+Party; (iii) was independently developed by the Receiving Party without any use of or reference to the Disclosing
+Party’s Confidential Information; or (iv) is obtained from a third person without breach by such third person of an
+obligation of confidence with respect to the Confidential Information disclosed. In the event the Receiving Party is
+requested pursuant to, or required by, law, legal order or regulatory obligation, to disclose any Confidential
+Information of the Disclosing Party, the Receiving Party shall be permitted to disclose Confidential Information
+subject to the
+following requirements: (a) except to the extent prohibited by law, the Receiving Party has provided the Disclosing
+Party with prompt notice of such disclosure in order to enable Disclosing Party to seek a protective order or
+otherwise
+prevent or restrict such disclosure and has reasonably cooperated with Disclosing Party with respect thereto, at
+Disclosing Party’s sole cost.
+| 10.3.
+
+
+[PDF page 15]
+E02_stronghold | HTML reading copy
+Page 15
+Exclusions; Survival. Section 11.11 is not applicable to breaches of this Section 10.3. This Section
+10.3 shall survive the termination of this Agreement for a period of one (1) year after the termination of the
+Agreement; provided, however,
+trade secrets of the Disclosing Party shall remain secret for so long as the Disclosing Party holds them as so.
+14
+| 11.
+Miscellaneous.
+| 11.1.
+Representations. Each of the Parties hereto represents
+and warrants that (i) it is duly formed as an entity in good standing under the law of the state of its formation and
+is authorized to do business in the locations contemplated herein, (ii) it has the requisite power, authorization and
+authority to enter into this Agreement; and (iii) the execution of this Agreement is a legal, valid and binding
+obligation on the Parties. The execution and delivery of, and performance of the obligations under and with respect
+to this
+Agreement (A) have been duly authorized by all necessary actions on the part of such Party, (B) do not
+contravene, violate, or constitute a default under any applicable Law, any of such Party’s organizational
+documents, or any agreement,
+indenture, or other instrument to which such Party is a party or by which it may be bound, (C) do not require the
+approval of or notice to any governmental authority, (D) not violate any applicable Laws or regulations, or cause a
+breach
+of any agreements with any third parties.
+| 11.2.
+Reserved.
+| 11.3.
+BMS Representations. BMS represents and warrants that,
+to BMS’s knowledge, that it owns and has good title to the Bitcoin Miners and PDUs free and clear of any mortgage,
+pledge, lien, charge, security interest, claim or other encumbrance. BMS further represents and warrants the
+neither it or
+any of its subsidiaries nor, to BMS’s knowledge, any director, officer, agent, employee, affiliate, or person acting on
+behalf of BMS or its subsidiaries: has violated or will violate any applicable anti-bribery or anti-corruption Law,
+including the U.S. Foreign Corruption Practices Act; has violated or will violate any applicable money laundering
+Laws; or is or will become subject to any U.S. sanctions administered by the Office of Foreign Asset Control of the
+U.S.
+Treasury Department. BMS represents and warrants that it will comply with all obligations required by any
+software used by the Bitcoin Miners and PDUs or to monitor the performance of or to configure the Bitcoin Miners
+and PDUs under
+this Agreement. BMS represents and warrants that BMS will own, control and operate its own digital asset wallet
+that it will use to receive proceeds of mining by its Bitcoin Miners under this Agreement, that BMS is solely and
+exclusively
+responsible to secure and protect that wallet, and that BMS will not engage or permit any transaction involving,
+relating to, originating, or terminating in that wallet or any public network address controlled or created thereby,
+that is
+
+
+[PDF page 16]
+E02_stronghold | HTML reading copy
+Page 16
+illegal, immoral, unethical, or violates any Laws, or harms any third party. BMS represents and warrants that its
+Bitcoin Miners, PDUs and the proceeds therefrom will be used at all times in a manner that is compliant with all
+applicable
+laws and regulations, and only for lawful purpose. BMS represents and warrants that it will not allow its right and
+title to the Bitcoin Miners or PDUs to be impaired by making any pledge of the Bitcoin Miners or PDUs to secure any
+obligation, allowing any lien to be created against the Bitcoin Miners or PDUs, or granting any security interest or
+similar legal interest to any party that would give any other party besides BMS full legal right title and interest in
+the Bitcoin Miners or PDUs without the express prior written consent of Stronghold. BMS represents and warrants
+that it has exclusive control over firmware operating the Bitcoin Miners and that it takes full responsibility for the
+results of any firmware upgrades that may damage or impair the use of any Bitcoin Miners that may affect the
+operation of any other equipment, or that may violate any Laws. BMS will comply at all times with all applicable
+laws and
+regulations. BMS acknowledges that Stronghold exercises no control whatsoever over the content of the
+information passing through BMS’s Bitcoin Miners, or the cryptocurrency transactions that may be created by or
+pass through the Bitcoin
+Miners.
+15
+| 11.4.
+Stronghold Representations. Stronghold represents and
+warrants that it will provide the Hosting Services at Scrubgrass in a professional and workmanlike manner
+consistent with the terms and conditions of this Agreement. Except as expressly set forth herein, STRONGHOLD
+MAKES NO WARRANTIES OR
+GUARANTEES RELATED TO THE AVAILABILITY OF HOSTING SERVICES OR OPERATING TEMPERATURE OF THE
+SCRUBGRASS FACILITY. THE HOSTING SERVICES AND FACILITY ARE PROVIDED ON AN “AS-IS” BASIS. STRONGHOLD
+DOES NOT PROVIDE MECHANICAL COOLING OR BACKUP
+POWER AND THE SCRUBGRASS FACILITY IS SUBJECT TO SWINGS IN LOCAL TEMPERATURE, WIND, HUMIDITY, AND
+OTHER CONDITIONS. SERVICE PROVIDER MAKES NO WARRANTIES, WITH RESPECT TO GOODS AND SERVICES
+SUBJECT TO THIS AGREEMENT, INCLUDING AND (A)
+WARRANTY OF MERCHANTABILITY; (B) WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE; (C) WARRANTY OF
+NONINFRINGEMENT AND (D) WARRANTY AGAINST INTERFERENCE. STRONGHOLD DOES NOT WARRANT THAT (A)
+THE HOSTING SERVICE WILL BE FREE FROM INTERRUPTION;
+(B) THE HOSTING SERVICE WILL MEET BMS’S REQUIREMENTS OTHER THAN AS EXPRESSLY SET FORTH HEREIN; OR
+(C) THE HOSTING SERVICE WILL PROVIDE ANY FUNCTION NOT EXPRESSLY DESIGNATED AND SET FORTH HEREIN.
+| 11.5.
+Whole Agreement. This Agreement represents the whole
+agreement between the Parties with respect to the subject matter herein and supersede and replace all prior or
+contemporaneous communications, agreements and understandings between them related thereto. The Parties
+have not made or
+relied upon any representations, understandings, or other agreements other than those contained in this
+Agreement. No course of prior dealing between the parties shall be relevant or admissible to supplement, explain,
+or vary any of the
+terms of this Agreement. BMS acknowledges and agrees that it has not, and will not, rely upon any
+representations, understandings or other agreements not specifically set forth in this Agreement.
+| 11.6.
+
+
+[PDF page 17]
+E02_stronghold | HTML reading copy
+Page 17
+Waiver, Severability. The waiver of any breach or
+default does not constitute the waiver of any subsequent breach or default. If any provision of this Agreement is
+held to be illegal or unenforceable, it shall be deemed amended to conform to the applicable laws or regulations,
+or, if it
+cannot be so amended without materially altering the intention of the parties, it shall be stricken and the
+remainder of this Agreement shall continue in full force and effect.
+16
+| 11.7.
+Amendment. Amendments, modifications, or supplements to
+this Agreement must be in writing signed by authorized representatives of both Parties.
+| 11.8.
+Force Majeure. Neither Party shall be liable in any way
+for delay, failure in performance, loss or damage due to any of the following force majeure conditions; fire, strike,
+embargo, explosion, power failure, flood, lightning, war, water, electrical storms, labor disputes, civil disturbances,
+governmental regulations, orders, decrees, enforcement actions or other requirements, acts of civil or military
+authority, acts of God, acts of public enemies, changes in laws or regulations in any way adversely affecting
+Scrubgrass,
+government acts or orders in any way adversely affecting Scrubgrass, a regulatory change in any way adversely
+affecting Scrubgrass, losses of power at Scrubgrass not reasonably foreseeable by Stronghold, line-breaks to the
+Bitcoin Miners,
+PDUs and/or other equipment at Scrubgrass not reasonably foreseeable by Stronghold, or other causes beyond its
+reasonable control, whether or not similar to the foregoing.
+| 11.9.
+Exclusive Jurisdiction and Venue. Each Party hereby
+irrevocably consents and agrees that any legal action, suit or proceeding arising out of or in any way in connection
+with this Agreement may be instituted or brought in the courts of the State of New York or in the United States
+District
+Court for the Southern District of New York, and by execution and delivery of this Agreement, each party hereby
+irrevocably accepts and submits to, for itself and in respect of its property, generally and unconditionally, the
+non-exclusive jurisdiction of any such court, and to all proceedings in such courts. The Parties hereby expressly
+waive any objections to venue on forum non conveniens grounds.
+| 11.10.
+Governing Law. This agreement shall be governed by the
+internal laws of the State of New York (without regard to the conflict of laws principles of such state, except as to
+the effect of Sections 5-1401 and 5-1402 of the New York General Obligations Law).
+| 11.11.
+WAIVER OF JURY TRIAL. EACH PARTY HEREBY, TO THE FULLEST
+EXTENT PERMITTED BY LAW, WAIVES ITS RIGHTS TO A JURY TRIAL OF ANY CLAIM OR CAUSE OF ACTION BASED
+UPON, ARISING OUT OF OR RELATED TO THIS AGREEMENT.
+| 11.12.
+Relationship of the Parties. The Parties agree that
+
+
+[PDF page 18]
+E02_stronghold | HTML reading copy
+Page 18
+their relationship hereunder is in the nature of independent contractors. Neither Party shall be deemed to be the
+agent, partner, joint venturer nor employee of the other, and neither shall have any authority to make any
+agreements or
+representations on the other’s behalf. Each Party shall be solely responsible for the payment of compensation,
+insurance and taxes of its own personnel, and such personnel are not entitled to the provisions of any employee
+benefits from
+the other party. Neither Party shall have any authority to make any agreements or representations on the other’s
+behalf without the other’s written consent. Additionally, Stronghold shall not be responsible for any costs and
+expenses
+arising from BMS’s performance of its duties and obligations pursuant to this Agreement, and BMS shall not be
+responsible for any costs and expenses arising from Stronghold’s performance of its duties and obligations
+pursuant to this
+Agreement.
+17
+| 11.13.
+Third-Party Beneficiaries. Nothing in this Agreement is
+intended, nor shall anything herein be construed to confer any rights, legal or equitable, in any person or entity
+other than the Parties hereto and their respective successors and permitted assigns.
+| 11.14.
+Interpretation. Any rule of construction to the effect
+that ambiguities are to be resolved against the drafting party shall not apply to the interpretation and construction
+of this Agreement, and this Agreement shall be construed as having been jointly drafted by the parties. The titles
+and
+headings for particular paragraphs, sections and subsections of this Agreement have been inserted solely for
+reference purposes and shall not be used to interpret or construe the terms of this Agreement.
+| 11.15.
+Counterparts. This Agreement may be executed in one or
+more counterparts delivered electronically, each of which shall be deemed an original, but which together shall
+constitute one and the same document.
+| 11.16.
+Survival. Other than the survival period set forth in Section 10 which shall supersede this Section 11.16, only
+Sections 2.3,
+2.4, 2.5, 2.6, 3, 7, 8, 9,
+11.10, 11.11, 11.14 and 11.19 shall survive
+termination of this Agreement.
+| 11.17.
+Assignment. This Agreement shall inure to the benefit
+of the Parties’ successors and assigns and no merger, sale of all or substantially all assets or stock or other
+transfer shall terminate this Agreement. Neither Party shall assign this Agreement or its rights hereunder without
+the prior
+written consent of the other Party, which consent may be withheld in the exercise of its sole discretion.
+| 11.18.
+
+
+[PDF page 19]
+E02_stronghold | HTML reading copy
+Page 19
+Notice. All written notices required to be given by any
+Party under this Agreement shall be given via email to the Parties at the email address set forth below.
+Stronghold
+Email: matthew.smith@strongholddigitalmining.com and
+tom.tyree@strongholddigitalmining.com for written notices;
+tom.tyree@strongholddigitalmining.com and
+accountspayable@strongholddigitalmining.com for invoices
+BMS
+Email: bgagnon@bitfarms.com; posorio@bitfarms.com, jlucas@bitfarms.com
+and all invoices to payable@bitfarms.com
+18
+| 11.19.
+Intellectual Property: Except for the rights expressly
+granted herein, this Agreement does not transfer from Stronghold to BMS any Stronghold technology, and all right,
+title and interest in and to Stronghold technology will remain solely with Stronghold. Except for the rights expressly
+granted herein, this Agreement does not transfer from BMS to Stronghold any BMS technology, and all right, title
+and interest in and to BMS technology will remain solely with BMS. The Parties each agrees that it will not, directly
+or
+indirectly, reverse engineer, decompile, disassemble or otherwise attempt to derive source code or other trade
+secrets from the other Party.
+| 11.20.
+Bi-lateral Non-interference. The Parties each warrants
+that neither Party shall interfere with the operations of the other unless otherwise provided in this Agreement, or
+unless required by Law, or a legal order, or to prevent an emergency that would impact safety, security, or
+property
+rights.
+| 11.21.
+Further Assurances. Each Party agrees to provide such
+information, execute and deliver any instruments and documents and to take such other actions as may be
+necessary or reasonably requested by the other Party which are not inconsistent with the provisions of this
+Agreement and which do not
+involve the assumptions of obligations other than those provided for in this Agreement in order to give full effect to
+this Agreement and to carry out the intent of this Agreement.
+19
+IN WITNESS WHEREOF, the undersigned has executed this Agreement as of the date first written above.
+STRONGHOLD DIGITAL MINING HOSTING, LLC
+By:
+/x/ Gregory Beard
+Name: Gregory A. Beard
+
+
+[PDF page 20]
+E02_stronghold | HTML reading copy
+Page 20
+Title: Authorized Person
+BACKBONE MINING SOLUTIONS LLC..
+By:
+/x/ Jeffrey Lucas
+Name: Jeffrey Lucas
+Title: President & Chief Financial Officer
+[Signature Page to Hosting Agreement]
+20
+EXHIBIT A
+BMS EQUIPMENT
+Miner Model
+TH per Miner
+Total # of Units
+Total PH/s
+Bitmain T21 Miners, or similar
+190-233
+10,000
+1,900 – 2,330
+Total
+10,000
+1,900 – 2,330
+PDU Model
+Total # of Units
+BITF-150-415V-RPDU, or similar
+850
+Total
+850
+Ex. A-1
+EXHIBIT B
+DEFINED TERMS
+“Actual Payment Amount” means the BMS Share of Power Revenue (as defined herein) minus
+the BMS Share of Cost (as defined herein) minus reimbursement for taxes set forth in Section 3.5 plus the Upfront
+Monthly Payment.
+“Agreement Cost of Power” means the amount determined by calculating the quotient of a) “Agreement Dollar
+Cost of Power” (defined herein) multiplied by 110% and b) “Calculation MWh” (defined herein).
+“Agreement Dollar Cost of Power” means all fuel costs, operations and maintenance expenses, general and
+administrative expenses, and financing charges
+
+
+[PDF page 21]
+E02_stronghold | HTML reading copy
+Page 21
+incurred by the plant, with the following adjustments and exceptions: (i) sales to Pennsylvania Tier II Alternative
+Energy Credits will be excluded from the reported fuel cost, and they will be replaced with an accrual calculated as
+the product of
+the difference of the Calculation MWh and the number of megawatt-hours imported from the grid, a 0.85 factor,
+and the weighted-average net price received by Stronghold for its 100,000 most-recently sold Pennsylvania Tier II
+Alternative Energy
+Credits; (ii) the cost of importing power from the grid, which is netted out of revenue for the purposes of reporting,
+will increase the Agreement Dollar Cost of Power; (iii) capacity revenue will be added back, reducing the
+Agreement Dollar Cost
+of Power; (iv) reactive energy revenue will be added back, reducing the Agreement Dollar Cost of Power; (v)
+revenue from sales of ash will be added back, reducing the Agreement Dollar Cost of Power; (vi) any general and
+administrative expenses of
+Stronghold that flow through the books of Scrubgrass, will be excluded from the Agreement Dollar Cost of Power;
+(vii) any one-time costs, including major plant upgrades, may be excluded from the Agreement Dollar Cost of
+Power; and (viii)
+depreciation, amortization, impairments, and other similar non-cash expenses will not be included in the
+Agreement Dollar Cost of Power.
+“Agreement Revenue” means “Mining Revenue” (as defined herein) plus “Power
+Revenue” (as defined herein).
+“Associated Equipment” means electrical infrastructure at Scrubgrass that facilitates the operation of the Bitcoin
+Miners and/or PDUs and does not
+otherwise include the power generation facility.
+“Average Grid Price” means the average grid pricing realized at Scrubgrass.
+“Average Monthly Transaction Fees as a % of Block Reward” means the average of the daily Bitcoin network
+transaction fees during the month (per
+https://explorer.btc.com/stats/fee).
+“Business Day” means a day other than a day on which the banks in Toronto, Ontario, Canada, the State of New
+York or the State of Delaware are
+authorized or obligated to be closed.
+“Calculation MWh” means the sum of the number of megawatt hours sold to the grid and the number of megawatt
+hours delivered to the Mining Facility.
+Ex. B-1
+“Curtailment Electricity” means, in respect of each hour when Stronghold elects to curtail the Bitcoin Miners, the
+amount calculated by determining the
+difference between (x) the average number of megawatts used by the Bitcoin Miners and the Associated
+Equipment over the most recent twenty-four (24)-hour period and (y) the number of megawatts used by the
+Bitcoin Miners and the Associated Equipment
+for the hour then-being measured.
+“BMS Share” equals 50%.
+“BMS Share of Cost” mean the product of the Total Cost and the BMS Share.
+“BMS Share of Mining Revenue” means the product of the Mining Revenue and the BMS Share.
+“BMS Share of Power Revenue” means the product of the Power Revenue and the BMS Share.
+
+
+[PDF page 22]
+E02_stronghold | HTML reading copy
+Page 22
+“Grid Fees” means fees in addition to the Average Grid Price that may be charged at Scrubgrass, additional fees
+that may be charged from time to time
+in respect of balancing transmission congestion, balancing transmission losses and balancing operating revenue.
+“Hash Price” shall mean the quotient of (x) the product of the average daily close Bitcoin price during the month
+(per
+https://finance.yahoo.com/quote/BTC-USD/history?p=BTC-USD) and the prevailing block subsidy and
+86,400,000,000,000,000 and (1+ Average Monthly Transaction Fees as a % of Block Reward and (y) the product of
+the average difficulty (per
+https://btc.com/stats/diff) and 4,294,967,296.
+“Implied Bitcoin Mining Revenue” means the quotient of (x) the product of Hash Price and 1,000,000 and (y) the
+product of “Specification Miner
+Efficiency” (as defined herein) and 24.36.
+“Interest Period” means the period commencing on the date BMS provides the Deposit to Stronghold pursuant to
+Section 3.6 of the Agreement and ending on
+the last Business Day of each March, June, September and December (commencing with the last Business Day of
+the first full calendar quarter ended after the date hereof); provided
+that no Interest Period shall extent beyond the date the Deposit is refunded pursuant to Section 3.6 of the
+Agreement.
+“Interest Rate” means an interest rate per annum equal to (i) the sum of the SOFR Rate and 1.00%.
+“Interest Payment Date” means the last day of each calendar quarter therefor and the date on which the Deposit
+is refunded pursuant to Section 3.6.
+“Mining Facility” means the data center collocated at Scrubgrass.
+“Mining Revenue” means the revenue generated, collectively, by all of the Bitcoin Miners expressed in terms of
+total Bitcoins produced multiplied by the price of Bitcoin on Coinbase.com at 4:00 p.m. Eastern time on a given
+date.
+Ex. B-2
+“Monthly Service Fees” means Profit multiplied by the BMS Share for each
+month.
+“Power Revenue” means the product of a) Curtailment Electricity and b) the Average Grid Price less Grid Fees, as
+calculated on an hourly basis during
+each month (i.e., Curtailment Electricity x (Average Grid Price – Grid Fees).
+“Profit” means the difference between Agreement Revenue and “Total Cost” (as defined herein) (i.e., Agreement
+Revenue – Total Cost).
+“SOFR Administrator” means CME Group Benchmark Administration Limited as administrator of the
+forward-looking term Secured Overnight Financing Rate
+(SOFR) (or a successor administrator).
+“SOFR Rate” means the SOFR Reference Rate for a tenor comparable to the applicable Interest Period on the day
+(such day, the “Periodic SOFR Determination Day”) that is two (2) Business Days prior to the first day of such
+Interest Period, as such rate is published by the SOFR Administrator; provided, however, that if as of 5:00 p.m.,
+New York City time, on any Periodic SOFR Determination Day, the SOFR Reference Rate for the applicable tenor
+has not been published by the SOFR Administrator, then the SOFR
+Rate will be the SOFR Reference Rate for such tenor as published by the SOFR Administrator on the first preceding
+Business Day for which such SOFR Reference Rate for such tenor was published by the SOFR Administrator so long
+
+
+[PDF page 23]
+E02_stronghold | HTML reading copy
+Page 23
+as such first preceding
+Business Day is not more than three (3) Business Days prior to such Periodic SOFR Determination Day;
+“SOFR Reference Rate” means the forward-looking term rate based on SOFR.
+“Specification Miner Efficiency” represents the efficiency of a Bitcoin Miner, measured in joules per terahash.
+“Stronghold Net Revenue” is the Agreement Revenue minus the Monthly Service
+Fees for each month.
+“Total Cost” means the product of the “Utilized MWh” (as defined herein) and the Agreement Cost of Power.
+“Utilized MWh” means the sum of the Curtailment Electricity and the number of megawatt-hours delivered to the
+Bitcoin Miners and the Associated
+Equipment.
+Ex. B-3

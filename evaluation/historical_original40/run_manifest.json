@@ -1,0 +1,56 @@
+{
+  "summary": {
+    "as_of": "2026-10-01",
+    "alert_days": 30,
+    "contracts": 40,
+    "confirmed_cutoff_count": 4,
+    "confirmed_cutoff_matches": 4,
+    "model_status_counts": {
+      "no_fixed_cutoff": 15,
+      "review_required": 16,
+      "cutoff_computed": 9
+    },
+    "reference_status_counts": {
+      "no_fixed_cutoff": 13,
+      "review_required": 13,
+      "cutoff_computed": 14
+    },
+    "model_alert_counts": {
+      "not_applicable": 6,
+      "human_review": 28,
+      "cutoff_passed_verify_current_term": 6
+    },
+    "reference_alert_counts": {
+      "human_review": 36,
+      "cutoff_passed_verify_current_term": 3,
+      "not_applicable": 1
+    },
+    "tests_passed": 13,
+    "tests_total": 13
+  },
+  "provenance": {
+    "prediction_sha256": "b6d8f609f5d9b756f8036b6c929111b2f24c3243a376ceece030931e76d11dfe",
+    "reference_sha256": "fef9fbf14c835aaf691074176de578ebc2e4cb99cb86136accbda90865b8be8e",
+    "prompt_sha256": "e7b8fcda5b87b0f59e163326df76672f905481e3f2bd837e9752102acfac9292",
+    "model": "anthropic/claude-sonnet-4.6",
+    "normalization": "Conservative deterministic parser added after frozen extraction run; not native structured v6 output or model-only end-to-end performance",
+    "month_policy": "Calendar month subtraction clamps to last valid day. Candidate month-end results retain human review.",
+    "scope": "First term only. No assumed current renewal cycle. Reference lane includes PDF-based human interpretation and cannot be counted as model-only accuracy."
+  },
+  "files_sha256": {
+    "reference_inputs.csv": "b46a83948edc88a22bf4960b4874ad6925b37168ff91afd9c654d8a3d979c416",
+    "date_rules_heldout.py": "a7558558fedee0e4e96c60461dc9e05755a5426e9e4157dc12b439615bbb2763",
+    "model_inputs.csv": "e8085115f8da870eb204f45016d12cdc43f7778050743437a6a7b7c61c4d516f",
+    "model_deadlines.csv": "5ab6195eed7527ed1c27984a73f22aec957f31bd988d83bb5ded73785ee521aa",
+    "reference_deadlines.csv": "6ef162b67feb87c7e97e474521d05d1da3f6a29f611436eaec376ccdd4d785e9",
+    "test_alerts.py": "60abda4b5c3656c042ed0591cf9455797f9dc17bc676f0d7eb3614a3d05ec23d",
+    "alert_tests.csv": "133e073b1d1ea241b29e4714463e8ec9b04835a98f66f9babd03eb6473f550e9",
+    "deadline_comparison.csv": "cace9632ce5de92af5a1742307727dfa8bcdc43c0a2bec26b1f8620a5258307f",
+    "normalize_model.py": "5723af5eb6989ef646aed4b8bc58f804a07ad5121f23d5d15ec82583d350bc8b",
+    "prompt_v6.txt": "e7b8fcda5b87b0f59e163326df76672f905481e3f2bd837e9752102acfac9292",
+    "Renewal_Radar_Heldout_Deadline_Results.xlsx": "641e41f2bde573280e99af0647704562650fb937e19534ff8108183c946baf76",
+    "heldout_predictions_frozen.csv": "b6d8f609f5d9b756f8036b6c929111b2f24c3243a376ceece030931e76d11dfe",
+    "frozen_reference_rows.csv": "279b90f18f5e13f3fb0fdf628af61723a8a2b6cc433341642103f3d98ef6b8a7",
+    "README.txt": "9c6cab02022ba783360375150d052b8ec3469c137dbc587f9970c7097d19da58"
+  }
+}

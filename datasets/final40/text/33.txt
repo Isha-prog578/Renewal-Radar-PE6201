@@ -1,0 +1,1529 @@
+[PDF page 1]
+N08_ssga | HTML reading copy
+Page 1
+The Arbitrage Funds – State Street Administration
+Reading copy of a publicly filed HTML contract exhibit. Original HTML is enclosed. Page numbers below belong to this reading
+copy.
+https://archive.fast-edgar.com/20260925/A8BOC22D8C22D2Z2222P22ZZ8SERZ2R2D282/tm2622701d1_ex99-xhxi.htm
+Exhibit (h)(i)
+Execution Version
+AMENDED AND RESTATED ADMINISTRATION AGREEMENT
+This Administration Agreement
+(“Agreement”) dated as of September 24, 2026, and effective as of September 25, 2026, is by and between State
+Street Bank
+and Trust Company, a Massachusetts trust company (the “Administrator”), and The Arbitrage Funds, a Delaware
+statutory trust
+(the “Trust”).
+WHEREAS, the Trust is an
+open-end management investment company currently comprised of multiple series (each, a “Fund” and
+collectively, the “Funds”),
+and is registered with the U.S. Securities and Exchange Commission (“SEC”) by means of a registration statement
+(“Registration
+Statement”) under the Securities Act of 1933, as amended (“1933 Act”), and the Investment Company Act of
+1940, as amended
+(the “1940 Act”);
+WHEREAS, Trust and the Administrator
+had entered into an Administration Agreement, dated as of April 17, 2013 (as amended and in effect, the
+“Arbitrage Administration
+Agreement”);
+WHEREAS, AltShares Trust,
+an open-end management company comprised of two series, AltShares Merger Arbitrage ETF and AltShares
+Event-Driven ETF, and the Administrator
+had previously entered into a separate Administration Agreement, dated as of February 7, 2020 (as amended and
+in effect, the “AltShares
+Administration Agreement”);
+WHEREAS, pursuant to an Agreement
+and Plan of Reorganization intended to qualify as a tax-free reorganization under Section 368(a)(1)(F) of the
+Internal Revenue Code of
+1986, as amended, effective as of September 25, 2026, AltShares Merger Arbitrage ETF and AltShares
+Event-Driven ETF, each then a series
+of AltShares Trust, transferred all of their respective assets and liabilities to, and were reorganized into, newly
+established series
+
+
+[PDF page 2]
+N08_ssga | HTML reading copy
+Page 2
+of the Trust bearing the same respective names, and as a result of such reorganization, AltShares Merger Arbitrage
+ETF and AltShares Event-Driven
+ETF each became a series of the Trust;
+WHEREAS, The Arbitrage Funds
+and the Administrator desire to replace the Arbitrage Administration Agreement with this Amended and Restated
+Administration Agreement;
+WHEREAS, the Trust desires
+to retain the Administrator to furnish certain administrative services to the Trust, and the Administrator is willing to
+furnish such
+services, on the terms and conditions set forth in this Agreement.
+NOW, THEREFORE, in consideration
+of the premises and mutual covenants herein contained, the parties hereto agree as follows:
+| | 1. | Appointment
+of Administrator
+The Trust hereby appoints
+the Administrator to act as administrator to the Trust for purposes of providing certain administrative services for
+the period and on
+the terms set forth in this
+Information
+Classification: Limited Access
+Execution Version
+Agreement. The Administrator accepts such appointment
+and agrees to render the services stated herein.
+The Trust currently consists
+of the Fund(s) as listed in Schedule A to this Agreement and their respective classes of shares. In the event that
+the Trust establishes
+one or more additional Fund(s) with respect to which it wishes to retain the Administrator to act as administrator
+hereunder, the Trust
+shall notify the Administrator in writing. Upon written acceptance by the Administrator, such Fund(s) shall become
+subject to the provisions
+of this Agreement to the same extent as the existing Fund, except to the extent that such provisions (including
+those relating to compensation
+and expenses payable) may be modified with respect to such Fund in writing by the Trust and the Administrator at
+the time of the addition
+of such Fund.
+| | 2. | Delivery
+of Documents
+The Trust will promptly deliver
+to the Administrator copies of each of the following documents and all future amendments and supplements, if
+any:
+
+
+[PDF page 3]
+N08_ssga | HTML reading copy
+Page 3
+| | a. | The Trust’s Declaration of Trust and By-laws (“Governing Documents”);
+| | b. | The Trust’s currently effective Registration Statement under the 1933 Act and the 1940 Act and each
+Prospectus and Statement of Additional Information (“SAI”) relating to the Fund(s) and all amendments and
+supplements thereto
+as in effect from time to time;
+| | c. | Copies
+of the resolutions of the Board of Trustees of the Trust (the “Board”) certified by the Trust’s Secretary authorizing
+(1) the Trust to enter into this Agreement and (2)
+certain individuals on behalf of the Trust to (a) give instructions to the Administrator pursuant
+to this Agreement and (b) sign checks and pay expenses;
+| | d. | A copy of the investment advisory agreement between the Trust and its investment adviser; and
+| | e. | Such other certificates, documents or opinions which the Administrator may, in its reasonable discretion,
+deem necessary or appropriate in the proper performance of its duties.
+| | 3. | Representations
+and Warranties of the Administrator
+The Administrator represents and warrants
+to the Trust that:
+| | a. | It is a Massachusetts trust company, duly organized and existing under the laws of The Commonwealth of
+Massachusetts;
+| | b. | It has the requisite power and authority to carry on its business in The Commonwealth of Massachusetts;
+Information Classification: Limited Access
+2
+Execution Version
+| | c. | All requisite corporate proceedings have been taken to authorize it to enter into and perform this
+Agreement;
+| | d. | No legal or administrative proceedings have been instituted or threatened which would materially impair
+the Administrator’s ability to perform its duties and obligations under this Agreement; and
+| | e. | Its entrance into this Agreement shall not cause a material breach or be in material conflict with any
+other agreement or obligation of the Administrator or any law or regulation applicable to it.
+| | 4. | Representations
+and Warranties of the Trust
+The Trust represents and warrants to
+the Administrator that:
+| | a. | It is a statutory trust, duly organized, existing and in good standing under the laws of its state of
+formation;
+| | b. | It has the requisite power and authority under applicable laws and by its Declaration of Trust and By-laws
+to enter into and perform this Agreement;
+
+
+[PDF page 4]
+N08_ssga | HTML reading copy
+Page 4
+| | c. | All requisite proceedings have been taken to authorize it to enter into and perform this Agreement;
+| | d. | It is an investment company properly registered with the SEC under the
+1940 Act;
+| | e. | The Registration Statement has been filed and will be effective and remain
+effective during the term of this Agreement. The Trust also warrants to the Administrator that as of the effective
+date of this Agreement,
+all necessary filings under the securities laws of the states in which the Trust offers or sells its shares have been
+made;
+| | f. | No legal or administrative proceedings have been instituted or threatened
+which would impair the Trust’s ability to perform its duties and obligations under this Agreement;
+| | g. | Its entrance into this Agreement will not cause a material breach or be in material conflict with any
+other agreement or obligation of the Trust or any law or regulation applicable to it; and
+| | h. | As of the close of business on the date of this Agreement, the Trust is authorized to issue unlimited
+shares of beneficial interest;
+| | i. | Where information provided by the Trust or the Trust’s Investors
+includes information about an identifiable individual (“Personal Information”), the Trust represents and warrants
+that it has obtained all consents
+and approvals, as required by all applicable laws, regulations, by-laws and ordinances that regulate the
+Information Classification: Limited Access
+3
+Execution Version
+collection, processing, use or disclosure
+of Personal Information, necessary to disclose such Personal Information to the Administrator, and as required for
+the Administrator to
+use and disclose such Personal Information in connection with the performance of the services hereunder. The
+Trust acknowledges that the
+Administrator may perform any of the services, and may use and disclose Personal Information outside of the
+jurisdiction in which it was
+initially collected by the Trust, including the United States and that information relating to the Trust, including
+Personal Information
+may be accessed by national security authorities, law enforcement and courts. The Administrator shall be kept
+indemnified by and be without
+liability to the Trust for any action taken or omitted by it in reliance upon this representation and warranty,
+including without limitation,
+any liability or costs in connection with claims or complaints for failure to comply with any applicable law that
+regulates the collection,
+processing, use or disclosure of Personal Information, provided that this indemnification shall not apply to actions
+or omissions of the
+Administrator, its officers or employees in cases of its or their own negligence, bad faith or willful misconduct.
+| | 5. | Administration
+
+
+[PDF page 5]
+N08_ssga | HTML reading copy
+Page 5
+Services
+The Administrator shall
+provide the services as listed on Schedule B, subject to the authorization and direction of the Trust and, in each
+case where appropriate,
+the review and comment by the Trust’s independent accountants and legal counsel and in accordance with
+procedures which may be established
+from time to time between the Trust and the Administrator.
+The Administrator shall perform
+such other services for the Trust that are mutually agreed to by the parties from time to time, for which the Trust
+will pay such fees
+as may be mutually agreed upon, including the Administrator’s reasonable out-of-pocket expenses. The provision
+of such services
+shall be subject to the terms and conditions of this Agreement.
+The Administrator shall provide
+the office facilities and the personnel determined by it to perform the services contemplated herein.
+| | 6. | Compensation
+of Administrator; Expense Reimbursement; Trust Expenses
+The Administrator shall be
+entitled to reasonable compensation for its services and expenses, as agreed upon from time to time in writing
+between the Trust on behalf
+of each applicable Fund and the Administrator.
+The Trust agrees promptly
+to reimburse the Administrator for any equipment and supplies specially ordered by or for the Trust through the
+Administrator and for
+any other expenses not contemplated by this Agreement that the Administrator may incur on the Trust’s behalf at
+the Trust’s
+request or with the Trust’s consent.
+The
+Trust will bear all expenses that are incurred in its operation and not specifically assumed by the Administrator. For
+the avoidance
+of doubt, Trust expenses not assumed by the Administrator include, but are not limited to: organizational
+expenses; cost of services
+of independent accountants
+Information Classification: Limited Access
+4
+Execution Version
+and outside legal and tax counsel (including such
+counsel’s review of the Registration Statement, Form N-CSR, Form N-PORT, Form N-PX, Form N-CEN, proxy
+materials, federal and
+
+
+[PDF page 6]
+N08_ssga | HTML reading copy
+Page 6
+state tax qualification as a regulated investment company and other notices, registrations, reports, filings and
+materials prepared
+by the Administrator under this Agreement); cost of any services contracted for by the Trust directly from parties
+other than the
+Administrator; cost of trading operations and brokerage fees, commissions and transfer taxes in connection with
+the purchase and
+sale of securities for the Trust; investment advisory fees; taxes, insurance premiums and other fees and expenses
+applicable to its
+operation; costs incidental to any meetings of shareholders including, but not limited to, legal and accounting fees,
+proxy filing
+fees and the costs of preparation (e.g., typesetting, XBRL-tagging, page changes and all other print vendor and
+EDGAR charges,
+collectively referred to herein as “Preparation”), printing, distribution and mailing of any proxy materials; costs
+incidental to Board meetings, including fees and expenses of Board members; the salary and expenses of any
+officer, director\trustee
+or employee of the Trust; costs of Preparation, printing, distribution and mailing, as applicable, of the Trust’s
+Registration
+Statements and any amendments and supplements thereto and shareholder reports; cost of Preparation and filing
+of the Trust’s
+tax returns, Form N-1A, Form N-CSR, Form N-PORT, Form N-PX, and Form N-CEN, and all notices, registrations and
+amendments associated
+with applicable federal and state tax and securities laws; all applicable registration fees and filing fees required
+under federal
+and state securities laws; the cost of fidelity bond and D&O/E&O liability insurance; and the cost of independent
+pricing
+services used in computing the
+Fund(s)’ net asset value.
+| | 7. | Instructions
+and Advice
+At
+any time, the Administrator may apply to any officer of the Trust or his or her designee for instructions and may
+consult with the independent
+accountants for the Trust, with respect to any matter arising in connection with the services to be performed by
+the Administrator under
+this Agreement. The Administrator shall be entitled to rely on and may act upon advice of counsel (who may be
+counsel for the Trust)
+on all matters, and shall be without liability for any action reasonably taken or omitted pursuant to such advice.
+The
+Administrator shall not be liable, and shall be indemnified by the Trust, for any action taken or omitted by it in
+good faith and without
+negligence or willful misconduct in reliance upon any such instructions or advice or upon any paper or document
+believed by it to be
+
+
+[PDF page 7]
+N08_ssga | HTML reading copy
+Page 7
+genuine and to have been signed by the proper person or persons. The Administrator shall not be held to have
+notice of any change of
+authority of any person until receipt of written notice thereof from the Fund(s). Nothing in this section shall be
+construed as imposing
+upon the Administrator any obligation to seek such instructions or advice, or to act in accordance with such advice
+when received.
+| | 8. | Limitation
+of Liability and Indemnification
+The Administrator shall
+be responsible for the performance only of such duties as are set forth in this Agreement and, except as otherwise
+provided under Section
+14, shall have no responsibility for the actions or activities of any other party, including other service providers.
+The Administrator
+shall have no liability in respect of any loss, damage or expense suffered by the Trust insofar as such loss, damage
+or expense arises
+from the performance of the Administrator’s duties hereunder in reliance upon records that were maintained for
+the Trust by entities
+other than the
+Information Classification: Limited Access
+5
+Execution Version
+Administrator prior to the Administrator’s appointment as
+administrator for the Trust. The Administrator shall have no liability for any error of judgment or mistake of law or
+for any loss
+or damage resulting from the performance or nonperformance of its duties hereunder unless caused by or
+resulting from the negligence
+or willful misconduct of the Administrator, its officers or employees. No party shall be liable for any special,
+indirect,
+incidental, punitive or consequential damages, including lost profits, of any kind whatsoever (including, without
+limitation,
+attorneys’ fees) under any provision of this Agreement or for any such damages arising out of any act or failure to
+act
+hereunder, each of which is hereby excluded by agreement of the parties regardless of whether such damages
+were foreseeable or
+whether either party or any entity had been advised of the possibility of such damages. In any event, except as
+otherwise agreed to
+in writing by the parties, the Administrator’s cumulative liability for each calendar year (a “Liability Period”)
+with respect to the Trust under this Agreement regardless of the form of action or legal theory shall be limited to
+its total annual
+compensation earned and fees payable hereunder during the preceding Compensation Period, as defined herein,
+for any liability or
+
+
+[PDF page 8]
+N08_ssga | HTML reading copy
+Page 8
+loss suffered by the Trust including, but not limited to, any liability relating to qualification of the Trust as a
+regulated
+investment company or any liability relating to the Trust’s compliance with any federal or state tax or securities
+statute,
+regulation or ruling during such Liability Period. “Compensation Period” shall mean the calendar year ending
+immediately
+prior to each Liability Period in which the event(s) giving rise to the Administrator’s liability for that period have
+occurred. Notwithstanding the foregoing, the Compensation Period for purposes of calculating the annual
+cumulative liability of the
+Administrator for the Liability Period commencing on the date of this Agreement and terminating on December 31,
+2026 shall be the
+date of this Agreement through December 31, 2026, calculated on an annualized basis, and the Compensation
+Period for the Liability
+Period commencing January 1, 2027 and terminating on December 31, 2027, shall be the date of this Agreement
+through December 31,
+2026, calculated on an annualized basis.
+The Administrator shall not
+be responsible or liable for any failure or delay in performance of its obligations under this Agreement arising out
+of or caused, directly
+or indirectly, by circumstances beyond its control, including without limitation, work stoppage, power or other
+mechanical failure, computer
+virus, natural disaster, governmental action or communication disruption.
+The Trust shall indemnify
+and hold the Administrator and its directors, officers, employees and agents harmless from all loss, cost, damage
+and expense, including
+reasonable fees and expenses for counsel, incurred by the Administrator resulting from any claim, demand, action
+or suit in connection
+with the Administrator’s acceptance of this Agreement, any action or omission by it in the performance of its
+duties hereunder,
+or as a result of acting upon any instructions reasonably believed by it to have been duly authorized by the Trust
+or upon reasonable
+reliance on information or records given or made by the Trust or its investment adviser, provided that this
+indemnification shall not
+apply to actions or omissions of the Administrator, its officers or employees in cases of its or their own negligence,
+bad faith or willful
+misconduct.
+The limitation of liability
+and indemnification contained herein shall survive the termination of this Agreement.
+Information Classification: Limited Access
+6
+Execution Version
+
+
+[PDF page 9]
+N08_ssga | HTML reading copy
+Page 9
+| | 9. | Confidentiality
+All information provided
+under this Agreement by a party (the “Disclosing Party”) to the other party (the “Receiving Party”) regarding
+the Disclosing Party’s business and operations shall be treated as confidential. Subject to Section 10 below, all
+confidential
+information provided under this Agreement by Disclosing Party shall be used, including disclosure to third parties,
+by the Receiving
+Party, or its agents or service providers, solely for the purpose of performing or receiving the services and
+discharging the Receiving
+Party’s other obligations under the Agreement or managing the business of the Receiving Party and its Affiliates
+(as defined in
+Section 10 below), including financial and operational management and reporting, risk management, legal and
+regulatory compliance and
+client service management. The foregoing shall not be applicable to any information (a) that is publicly available
+when provided or thereafter
+becomes publicly available, other than through a breach of this Agreement, (b) that is independently derived by
+the Receiving Party without
+the use of any information provided by the Disclosing Party in connection with this Agreement, (c) that is disclosed
+to comply with any
+legal or regulatory proceeding, investigation, audit, examination, subpoena, civil investigative demand or other
+similar process, (d)
+that is disclosed as required by operation of law or regulation or as required to comply with the requirements of
+any market infrastructure
+that the Disclosing Party or its agents direct the Administrator or its Affiliates to employ (or which is required in
+connection with
+the holding or settlement of instruments included in the assets subject to this Agreement), or (e) where the party
+seeking to disclose
+has received the prior written consent of the party providing the information, which consent shall not be
+unreasonably withheld.
+The undertakings and obligations
+contained in this Section shall survive the termination of this Agreement for a period of three (3) years.
+| | 10. | Use
+of Data
+(a)
+In connection with the provision of the services and the discharge of its other obligations under this Agreement,
+the Administrator (which
+term for purposes of this Section 10 includes each of its parent company, branches and affiliates (“Affiliates”)) may
+collect
+and store information regarding the Trust or Fund and share such information with its Affiliates, agents and service
+providers in order
+and to the extent reasonably necessary (i) to carry out the provision of services contemplated under this
+Agreement and other agreements
+
+
+[PDF page 10]
+N08_ssga | HTML reading copy
+Page 10
+between the Trust and the Administrator or any of its Affiliates and (ii) to carry out management of its businesses,
+including, but not
+limited to, financial and operational management and reporting, risk management, legal and regulatory
+compliance and client service management.
+(b) Subject to
+paragraph (d) below, the Administrator and/or its Affiliates may use any Confidential Information of the Customer
+(“Data”)
+obtained by such entities in the performance of their services under this Agreement or any other agreement
+between the Trust and the
+Administrator or one of its Affiliates, including Data regarding transactions and portfolio holdings relating to the
+Trust to develop,
+publish or otherwise distribute to third parties certain investor behavior “indicators” or “indices” that represent
+broad trends in the flow of investment funds into various markets, sectors or investment instruments (collectively,
+the “Indicators”),
+but only so long as (i) the Data is combined or aggregated with (A) information of other customers of the
+Information Classification: Limited Access
+7
+Execution Version
+Administrator and/or (B) information derived
+from other sources, in each case such that the Indicators do not allow for attribution or identification of such Data
+with the Trust,
+(ii) the Data represents less than a statistically meaningful portion of all of the data used to create the Indicators
+and (iii) the Administrator
+publishes or otherwise distributes to third parties only the Indicators and under no circumstance publishes, makes
+available, distributes
+or otherwise discloses any of the Data to any third party, whether aggregated, anonymized or otherwise, except as
+expressly permitted
+under this Agreement.
+(c)
+The Trust acknowledged that the Administrator may seek to realize economic benefit from the publication or
+distribution of the
+Indicators.
+(d)
+Except as expressly contemplated by this Agreement, nothing in this Section 10 shall limit the confidentiality
+and data-protection obligations of the Administrator and its Affiliates under this Agreement and applicable law. The
+Administrator shall
+cause any Affiliate, agent or service provider to which it has disclosed Data pursuant to this Section 10 to comply
+at all times with
+confidentiality and data-protection obligations as if it were a party to this Agreement.
+| | 11. | Compliance
+with Governmental Rules and Regulations; Records
+
+
+[PDF page 11]
+N08_ssga | HTML reading copy
+Page 11
+The Trust assumes full responsibility
+for complying with all securities, tax, commodities and other laws, rules and regulations applicable to it.
+In compliance with the requirements
+of Rule 31a-3 under the 1940 Act, the Administrator agrees that all records which it maintains for the Trust shall at
+all times remain
+the property of the Trust, shall be readily accessible during normal business hours, and shall be promptly
+surrendered upon the termination
+of the Agreement or otherwise on written request except as otherwise provided in Section 13. The Administrator
+further agrees that all
+records that it maintains for the Trust pursuant to Rule 31a-1 under the 1940 Act will be preserved for the periods
+prescribed by Rule
+31a-2 under the 1940 Act unless any such records are earlier surrendered as provided above. Records may be
+surrendered in either written
+or machine-readable form, at the option of the Administrator. In the event that the Administrator is requested or
+authorized by the Trust,
+or required by subpoena, administrative order, court order or other legal process, applicable law or regulation, or
+required in connection
+with any investigation, examination or inspection of the Trust by state or federal regulatory agencies, to produce
+the records of the
+Trust or the Administrator’s personnel as witnesses or deponents, the Trust agrees to pay the Administrator for the
+Administrator’s
+time and expenses, as well as the reasonable fees and expenses of the Administrator’s counsel incurred in such
+production.
+| | 12. | Services
+Not Exclusive
+The services of the Administrator
+are not to be deemed exclusive, and the Administrator shall be free to render similar services to others. The
+Administrator shall be deemed
+to be an independent contractor and shall, unless otherwise expressly provided herein or authorized by the Trust
+from time to time, have
+no authority to act or represent the Trust in any way or otherwise be deemed an agent of the Trust.
+Information Classification: Limited Access
+8
+Execution Version
+| | 13. | Effective
+Period and Termination
+This Agreement shall remain
+in full force and effect for an initial term ending September 30, 2027 (the “Initial Term”). After the expiration of the
+Initial
+Term, this Agreement shall automatically renew for successive 1-year terms (each, a “Renewal Term”) unless a
+written notice
+
+
+[PDF page 12]
+N08_ssga | HTML reading copy
+Page 12
+of non-renewal is delivered by the non-renewing party no later than ninety (90) days prior to the expiration of the
+Initial Term or any
+Renewal Term, as the case may be. During the Initial Term and thereafter, either party may terminate this
+Agreement: (i) in the event
+of the other party’s material breach of a material provision of this Agreement that the other party has either (a)
+failed to cure
+or (b) failed to establish a remedial plan to cure that is reasonably acceptable, within 60 days’ written notice of
+such breach,
+or (ii) in the event of the appointment of a conservator or receiver for the other party or upon the happening of a
+like event to the
+other party at the direction of an appropriate agency or court of competent jurisdiction. Upon termination of this
+Agreement pursuant
+to this paragraph with respect to the Trust or any Fund, the Trust or applicable Fund shall pay Administrator its
+compensation due and
+shall reimburse Administrator for its costs, expenses and disbursements.
+In
+the event of: (i) the Trust’s termination of this Agreement with respect to the Trust or its Fund(s) for any reason
+other than
+as set forth in the immediately preceding paragraph or (ii) a transaction not in the ordinary course of business
+pursuant to which the
+Administrator is not retained to continue providing services hereunder to the Trust or a Fund (or its respective
+successor), the Trust
+or applicable Fund shall pay the Administrator its compensation due through the end of the then-current term
+(based upon the average
+monthly compensation previously earned by Administrator with respect to the Trust or such Fund) and shall
+reimburse the Administrator
+for its costs, expenses and disbursements. Upon receipt of such payment and reimbursement, the Administrator
+will deliver the Trust’s
+or such Fund’s records as set forth herein. For the avoidance of doubt, no payment will be required pursuant to
+clause (ii) of
+this paragraph in the event of any transaction such (a) the liquidation or dissolution of the Trust or a Fund and
+distribution of the
+Trust’s or such Fund’s assets as a result of the Board’s determination in its reasonable business judgment that the
+Trust or such Fund is no longer viable (b) a merger of the Trust or a Fund into, or the consolidation of the Trust or a
+Fund with, another
+entity, or (c) the sale by the Trust or a Fund of all, or substantially all, of the Trust’s or Fund’s assets to another
+entity,
+in each of (b) and (c) where the Administrator is retained to continue providing services to the Trust or such Fund
+(or its respective
+successor) on substantially the same terms as this Agreement.
+Should the Agreement be
+terminated by either party for any reason and if requested by the Trust, the Administrator agrees to continue
+performing the services
+
+
+[PDF page 13]
+N08_ssga | HTML reading copy
+Page 13
+contemplated in this Agreement pursuant to the terms and conditions of this Agreement for such fair
+compensation as shall be agreed upon
+between the Fund and the Administrator (the existing agreed-to compensation at the time of termination shall be
+one indicator of what
+is considered fair compensation) for a reasonable period of time to be agreed upon by the parties in good faith, in
+order to provide for
+the orderly transition of services to an alternative service provider designated by the Trust so that, to the extent
+feasible, the services
+are maintained without interruption. The Trust shall reimburse the Administrator for additional costs (to be
+mutually agreed upon by the
+parties) which are reasonably incurred by the Administrator in the transition. In the event of a merger of the Trust
+or a Fund into, or
+the consolidation of the Trust or a Fund with, another entity, or the sale by the Trust or a Fund
+Information Classification: Limited Access
+9
+Execution Version
+of all, or substantially all, of its assets to
+another entity, the Administrator shall cooperate with the Trust to provide such information and assistance, as
+may be reasonably requested
+by the Trust, to effect any such transaction.
+Termination of this Agreement
+with respect to any one particular Fund shall in no way affect the rights and duties under this Agreement with
+respect to the Trust or
+any other Fund.
+| | 14. | Delegation
+| | a. | The Administrator shall have the right, without the consent
+or approval of the Trust, to employ agents, subcontractors, consultants and other third parties, whether affiliated
+or unaffiliated,
+to provide or assist it in the provision of any part of the services stated herein other than services required by
+applicable law to
+be performed by the Administrator (each, a “Delegate” and collectively, the “Delegates”), without the consent
+or approval of the Trust. The Administrator shall be responsible for the services delivered by, and the acts and
+omissions of, any such
+Delegate as if the Administrator had provided such services and committed such acts and omissions itself. Unless
+otherwise agreed in
+a Fee Schedule, the Administrator shall be responsible for the compensation of its Delegates.
+| | b. | The Administrator will provide the Trust with information regarding
+its global operating model for the delivery of the services on a quarterly or other periodic basis, which information
+shall include the
+identities of Delegates affiliated with the Administrator that perform or may perform parts of the services, and the
+locations from which
+
+
+[PDF page 14]
+N08_ssga | HTML reading copy
+Page 14
+such Delegates perform services, as well as such other information about its Delegates as the Trust may
+reasonably request from time
+to time.
+| | c. | Nothing in this Section 14 shall limit or restrict the Administrator’s
+right to use affiliates or third parties to perform or discharge, or assist it in the performance or discharge, of any
+obligations or
+duties under this Agreement other than the provision of the services.
+| | 15. | Interpretive
+and Additional Provisions
+In connection with the operation
+of this Agreement, the Administrator and the Trust on behalf of each of the Funds, may from time to time agree on
+such provisions interpretive
+of or in addition to the provisions of this Agreement as may in their joint opinion be consistent with the general
+tenor of this Agreement.
+Any such interpretive or additional provisions shall be in a writing signed by all parties, provided that no such
+interpretive or additional
+provisions shall contravene any applicable laws or regulations or any provision of the Trust’s Governing
+Documents. No interpretive
+or additional provisions made as provided in the preceding sentence shall be deemed to be an amendment of the
+Agreement.
+| | 16. | Notices
+Any notice, instruction
+or other instrument required to be given hereunder will be in writing and may be sent by hand, or by facsimile
+transmission, or overnight
+delivery by any recognized
+Information Classification: Limited Access
+10
+Execution Version
+delivery service, to the parties at the following address or such other
+address as may be notified by any party from time to time:
+If to the Trust:
+The Arbitrage Funds
+104 Fifth Avenue, 9th
+Floor
+New York, NY 10011
+Attn: Jonathon Hickey, Chief Financial Officer
+Telephone:
+646-727-4446
+Email: jhickey@wicfunds.com
+
+
+[PDF page 15]
+N08_ssga | HTML reading copy
+Page 15
+With a copy to:
+The Arbitrage Funds
+104 Fifth Avenue, 9th
+Floor
+New York, NY 10011
+Attn: Philip Channen, Chief Compliance Officer
+Telephone: 646-727-4463
+Email: pchannen@wicfunds.com
+If to the Administrator:
+State
+Street Bank and Trust Company
+One Congress Street,
+Boston, MA 02114-2016
+Attention: Andrea J. Griffin, Vice President
+Telephone: 617-662-3590
+Email: ajgriffin@statestreet.com
+With a copy to:
+State
+Street Bank and Trust Company
+Legal Division – Global Services Americas
+1 Congress Street
+Boston, MA 02114-2016
+Attention: Senior Vice President and Senior Managing Counsel
+| | 17. | Amendment
+This Agreement may be amended at any time in writing by
+mutual agreement of the parties hereto.
+Information Classification: Limited Access
+11
+Execution Version
+| | 18. | Assignment
+This Agreement may not be
+assigned by (a) the Trust without the written consent of the Administrator or (b) the Administrator without the
+written consent of the
+Trust, except that the Administrator may assign this Agreement to a successor of all or a substantial portion of its
+business, or to an
+affiliate of the Administrator.
+| | 19. | Successors
+
+
+[PDF page 16]
+N08_ssga | HTML reading copy
+Page 16
+This Agreement shall be binding
+on and shall inure to the benefit of the Trust and the Administrator and their respective successors and permitted
+assigns.
+| | 20. | Data
+Protection
+The Administrator shall implement
+and maintain a comprehensive written information security program that contains appropriate security measures
+to safeguard the personal
+information of the Trust’s shareholders, employees, directors and/or officers that the Administrator receives,
+stores, maintains,
+processes or otherwise accesses in connection with the provision of services hereunder. For these purposes,
+“personal information”
+shall mean (i) an individual’s name (first initial and last name or first name and last name), address or telephone
+number plus
+(a) social security number, (b) driver’s license number, (c) state identification card number, (d) debit or credit card
+number,
+(e) financial account number or (f) personal identification number or password that would permit access to a
+person’s account or
+(ii) any combination of the foregoing that would allow a person to log onto or access an individual’s account.
+Notwithstanding the
+foregoing “personal information” shall not include information that is lawfully obtained from publicly available
+information,
+or from federal, state or local government records lawfully made available to the general public.
+| | 21. | Entire
+Agreement
+This Agreement contains the
+entire understanding between the parties hereto with respect to the subject matter hereof and supersedes all
+previous representations,
+warranties or commitments regarding the services to be performed hereunder whether oral or in writing.
+| | 22. | Waiver
+The failure of a party to
+insist upon strict adherence to any term of this Agreement on any occasion shall not be considered a waiver nor
+shall it deprive such
+party of the right thereafter to insist upon strict adherence to that term or any term of this Agreement or the
+failure of a party hereto
+to exercise or any delay in exercising any right or remedy under this Agreement shall not constitute a waiver of
+any such term, right
+or remedy or a waiver of any other rights or remedies, and no single or partial exercise of any right or remedy
+under this Agreement shall
+prevent any further exercise of the right or remedy or the exercise or any other right or remedy. Any waiver must
+be in writing signed
+
+
+[PDF page 17]
+N08_ssga | HTML reading copy
+Page 17
+by the waiving party.
+Information Classification: Limited Access
+12
+Execution Version
+| | 23. | Severability
+If any provision or provisions
+of this Agreement shall be held to be invalid, unlawful or unenforceable, the validity, legality and enforceability of
+the remaining provisions
+shall not in any way be affected or impaired.
+| | 24. | Governing
+Law
+This Agreement shall be construed
+and the provisions thereof interpreted under and in accordance with the laws of The Commonwealth of
+Massachusetts, without regard to its
+conflicts of laws rules.
+| | 25. | Reproduction
+of Documents
+This Agreement and all schedules,
+exhibits, attachments and amendments hereto may be reproduced by any photographic, xerographic, photostatic,
+microfilm, micro-card, miniature
+photographic or other similar process. The parties hereto all/each agree that any such reproduction shall be
+admissible in evidence as
+the original itself in any judicial or administrative proceeding, whether or not the original is in existence and
+whether or not such
+reproduction was made by a party in the regular course of business, and that any enlargement, facsimile or further
+reproduction of such
+reproduction shall likewise be admissible in evidence.
+| | 26. | Counterparts
+This Agreement may be executed
+in several counterparts, each of which shall be deemed to be an original, and all such counterparts taken together
+shall constitute one
+and the same Agreement. Counterparts may be executed in either original or electronically transmitted form (e.g.,
+faxes or emailed portable
+document format (PDF) form), and the parties hereby adopt as original any signatures received via electronically
+transmitted form.
+| | 27. | Cooperation
+with Trust’s Accountants
+The Administrator shall
+cooperate with the Trust’s independent public accountants and take all reasonable actions in the performance of
+its obligations
+
+
+[PDF page 18]
+N08_ssga | HTML reading copy
+Page 18
+under this Agreement to provide such information, as may be reasonably requested by the Trust from time to time,
+to such accountants for
+the expression of their opinion.
+| | 28. | Limitation
+of Liability of the Trust and Funds
+It is expressly acknowledged
+and agreed that the obligations of the Trust and the Funds under this Agreement are not binding upon any of the
+trustees, officers, employees,
+agents or shareholders of the Trust and the Funds individually, but bind only the property of a relevant Fund and
+no other Fund of the
+Trust. The Transfer Agent agrees to look solely to the assets of the applicable Fund for the satisfaction of any
+liability in respect
+of the Fund under this Agreement and will not seek recourse against such trustees, officers, employees, agents or
+shareholders, or any
+of them, or any of their personal assets for such transaction.
+Information Classification: Limited Access
+13
+Execution Version
+[Remainder of page intentionally left blank.]
+Information Classification: Limited Access
+14
+Execution Version
+IN WITNESS WHEREOF, the parties hereto have caused
+this Agreement to be executed by their officers designated below as of the date first written above.
+THE ARBITRAGE FUNDS
+| By:
+| /s/ Jon Hickey
+| Name:
+| Jon Hickey
+| Title:
+| Chief Financial Officer
+STATE STREET BANK AND TRUST COMPANY
+| By:
+| /s/ Andrea E. Sharp
+| Name:
+| Andrea E. Sharp
+| Title:
+| Managing Director
+
+
+[PDF page 19]
+N08_ssga | HTML reading copy
+Page 19
+Information Classification: Limited Access
+ADMINISTRATION AGREEMENT
+SCHEDULE A
+Listing of Fund(s)
+| Trust/Fund Name
+| Jurisdiction of Formation
+| The Arbitrage Funds
+| Delaware
+Arbitrage Fund
+Water Island Event-Driven Fund
+Water Island Credit Opportunities
+Fund
+AltShares Merger Arbitrage
+ETF
+AltShares Event-Driven ETF
+State
+Street: Select Classification Level
+Information Classification: Limited
+Access
+A-1
+ADMINISTRATION AGREEMENT
+SCHEDULE B
+LIST OF SERVICES
+| I. | Fund Administration Financial Reporting and Treasury Services as described in Schedule B1 attached hereto;
+| II. | Fund Administration Tax Services as described in Schedule B2
+attached hereto;
+| III. | Fund Administration Legal Services as described in Schedule B3 attached hereto;
+| IV. | Fund Administration CFTC Services as described in Schedule B4
+attached hereto; and
+| V. | RESERVED;
+| VI. | N-PORT, N-CEN and Liquidity Risk Management Services as described in Schedule B6 attached hereto;
+State
+Street: Select Classification Level
+Information Classification: Limited Access
+Schedule B1
+Fund Administration –Treasury Services
+| a. | Prepare for the review by designated officer(s) of the Trust financial
+
+
+[PDF page 20]
+N08_ssga | HTML reading copy
+Page 20
+information regarding the Fund(s) that will be included in the Trust’s semi-annual and annual shareholder reports,
+and other periodic
+reports (as mutually agreed upon), including tax footnote disclosures where applicable;
+| b. | Coordinate the audit of the Trust’s financial statements by the Trust’s independent accountants,
+including the preparation of supporting audit workpapers and other schedules;
+| c. | Prepare for the review by designated officer(s) of the Trust financial information required by Form N-1A,
+proxy statements and such other reports, forms or filings as may be mutually agreed upon;
+| d. | Provide sub-certificates in connection with the certification requirements of the Sarbanes-Oxley Act of
+2002 with respect to the services provided by the Administrator;
+| a. | Prepare for the review by designated officer(s) of the Trust annual fund
+expense budgets, perform accrual analyses and roll-forward calculations and recommend changes to fund
+expense accruals on a periodic basis,
+arrange for payment of the Trust’s expenses, review calculations
+of fees paid to the Trust’s investment adviser, custodian, fund accountant, distributor and transfer agent and
+obtain authorization
+of accrual changes and expense payments;
+| e. | Provide periodic testing of the Fund(s) with respect to compliance with
+the Internal Revenue Code’s mandatory qualification
+requirements, the requirements of the 1940 Act and limitations for the Fund(s)
+contained in the Registration Statement for the Fund(s) as may be mutually agreed upon, including quarterly
+compliance reporting to the
+designated officer(s) of the Trust as well as preparation of Board compliance materials;
+| f. | Prepare and furnish total return performance information for the Fund(s), including such information on
+an after-tax basis, calculated in accordance with applicable U.S. securities laws and regulations, as may be
+reasonably requested by Trust
+management;
+| g. | Prepare and disseminate vendor survey information;
+| h. | Prepare and coordinate the filing of Rule 24f-2 notices, including coordination of payment;
+Information Classification: Limited Access
+B1-1
+Execution Version
+| i. | Maintain certain books and records of the Trust as required under Rule 31a-1(b) of the 1940 Act, as may
+be mutually agreed upon.
+Information Classification: Limited Access
+2
+SCHEDULE B2
+Fund Administration Tax Services
+| a. | Prepare annual tax basis provisions for both excise and income tax purposes,
+
+
+[PDF page 21]
+N08_ssga | HTML reading copy
+Page 21
+including wash sales, all other required book/tax differences to be mutually agreed upon by the parties, and all tax
+financial statement
+disclosure;
+| b. | Prepare the Funds’ annual federal, state, and local income and excise
+tax returns and extension requests for review and for execution and filing by the Trust’s independent accountants
+and execution
+and filing by the Trust’s treasurer, including Form 1120-RIC, Form 8613 and Form 1099-MISC;
+| c. | Prepare annual shareholder reporting information relating to Form 1099-DIV;
+| d. | Preparation of financial information relating to Form 1099-DIV, including completion of the ICI Primary
+and Secondary forms, Qualified Dividend Income, Dividends Received Deduction, Alternative Minimum Tax,
+Foreign Tax Credit, United States
+Government obligations;
+| e. | Review and approve periodic income distribution calculations, including
+estimates, and annual minimum distribution calculations (income and capital gain) for both federal and excise tax
+purposes prior to their
+declaration; and
+| f. | Participate in discussions of potential tax issues with the Funds and the Funds’ audit firm.
+Tax services, as described in this Schedule,
+do not include identification of passive foreign investment companies, qualified interest income securities or
+Internal Revenue Code Section
+1272(a)(6) tax calculations for asset backed securities.
+Information Classification: Limited Access
+B2-1
+Execution Version
+SCHEDULE B2(i)
+CONSENT TO DISCLOSE TAX RETURN INFORMATION
+Federal law prohibits our
+disclosing, without your consent, your federal tax return information to third parties or our use of that information
+for purposes other
+than the preparation of your return.
+Subject to the terms and conditions
+of the Administration Agreement dated September 24, 2026, and effective as of September 25, 2026 (the
+“Administration Agreement”)
+between STATE STREET BANK AND TRUST COMPANY (“we” or “State Street”) and THE ARBITRAGE FUNDS (“you”
+or the “Customer”), we may subcontract portions of our Fund Administration Tax Services (the “Tax Services”) to
+State Street affiliates and/or other subcontractors. By signing below, you hereby authorize us to provide any and
+all information, including
+your entire tax return information for all past, present, and future years, that we receive in connection with this
+engagement to the
+
+
+[PDF page 22]
+N08_ssga | HTML reading copy
+Page 22
+State Street affiliates listed on Schedule B2(ii), for the purpose of providing the Tax Services set forth in the
+Administration Agreement
+and for related administration and regulatory compliance purposes.
+Your consent will be valid
+as long as the Administration Agreement remains in effect. Notwithstanding the foregoing, you may revoke your
+consent with regards to
+Tax Services at any time by providing written notice to us. By signing below, you agree that if you revoke your
+consent we may refuse
+to perform Tax Services and/or alter the fees we charge for such Tax Services.
+In lieu of consenting to this
+disclosure, you have the right to request a more limited disclosure of tax return information. In the event that the
+service model changes
+as a result of your revocation or limitation on this consent, you agree to negotiate an equitable adjustment to the
+applicable fee schedule
+in good faith.
+THE ARBITRAGE FUNDS
+| By:
+| Name (printed):
+| Jon
+Hickey
+| Title:
+| Chief
+Financial Officer
+| Date:
+| September 24, 2026
+Information Classification: Limited Access
+2
+SCHEDULE B2(ii)
+| · | State
+Street Corporate Services Mumbai Private Limited
+| · | KPMG LLP
+| · | Grant Thornton LLP
+Information Classification: Limited Access
+B2-3
+SCHEDULE B3
+Fund Administration Legal Services
+| a. | Prepare
+the agenda and resolutions for all requested Board of Trustees (the “Board”),
+
+
+[PDF page 23]
+N08_ssga | HTML reading copy
+Page 23
+Independent Trustees, and committee
+meetings, make presentations to the Board, Independent Trustees, and committee meetings where appropriate or
+upon reasonable request,
+prepare minutes for such Board, Independent Trustees, and committee meetings and attend the Trust’s
+shareholder meetings and prepare
+minutes of such meetings;
+| b. | Prepare for filing with the SEC the following documents: Form N-CSR, Form N-PX and all amendments to the
+Registration Statement, including updates of the Prospectus and SAI for the Fund(s) and any supplements to the
+Prospectus and SAI for
+the Fund(s);
+| c. | Prepare for filing with the SEC proxy statements and provide consultation on proxy solicitation matters;
+| d. | Maintain general Board calendars and regulatory filings calendars;
+| e. | Maintain copies of the Trust’s Declaration of Trust, By-laws and other corporate records of the
+Trust as may be mutually agreed upon;
+| f. | Assist in developing guidelines and procedures to improve overall compliance by the Trust;
+| g. | Assist the Trust in preparing for and the handling of regulatory examinations
+inquiries and investigations of the Trust and work closely with the Trust’s legal counsel in response to any
+non-routine regulatory
+matters;
+| h. | Maintain awareness of significant emerging regulatory and legislative developments that may affect the
+Trust, update the Board and the investment adviser on those developments and provide related planning
+assistance where requested or appropriate;
+| i. | Coordinate the printing of the prospectus and shareholder financial reports;
+| j. | Coordinate with insurance providers, including soliciting bids for Directors
+& Officers/Errors & Omissions (“D&O/E&O”)
+insurance and fidelity bond coverage, file fidelity bonds with the SEC and make related Board presentations; and
+| k. | Provide an in-person representative at regularly scheduled quarterly Board meetings to prepare minutes
+for such Board meetings.
+Information Classification: Limited Access
+B3-1
+SCHEDULE B4
+Fund Administration CFTC Services
+Subject to the authorization and direction
+of the Trust, State Street will provide the CFTC Services set forth on Schedule B4 (the “CFTC Services”) to assist
+the Funds,
+the Trust and/or its affiliates in complying with applicable CFTC compliance testing and reporting requirements.
+Limitation of Responsibilities. With regard
+to the CFTC Services, the Administrator’s responsibilities are limited to the provision of the CFTC Services
+described in Schedule
+
+
+[PDF page 24]
+N08_ssga | HTML reading copy
+Page 24
+B4. These responsibilities do not include: (i) determination of the Trust’s status as a Commodity Pool Operator (a
+“CPO”),
+(ii) the determination of the Trust’s eligibility for an exclusion from classification as a CPO, or (iii) the completion
+and filing
+of the Form CPO-PQR. Where the Trust uses the Services to comply with any law, representation, agreement or
+other obligation, State Street
+makes no representation that any such Services complies with such law, representation, agreement, or other
+obligation, and State Street
+has no obligation of compliance with respect thereto. The Trust should contact its legal counsel for specific
+guidance on compliance
+with the Commodity Exchange Act of 1936, as amended (the “Commodity Exchange Act”). Unless the Trust
+currently subscribes
+to fund administration legal services with the Administrator, the CFTC Services do not include assisting the Trust
+with preparation of
+annual enhanced prospectus disclosures. Assistance with the registration of an entity as a CPO is not included as a
+CFTC Service.
+Responsibilities of the Trust.
+The Trust is responsible for providing authorization and direction to the Administrator with respect to the CFTC
+Services. The Trust is
+responsible for arranging, in each case where appropriate, for the review and comment by Trust’s independent
+accountants and legal
+counsel of CFTC financial information, reports and any filings prepared by the Administrator. In addition, the Trust
+is solely responsible
+for determining Trust’s status as a CPO, and/or Trust’s eligibility for an exclusion from classification as a CPO.
+The Trust shall be responsible for
+accurately and timely supplying the Administrator with complete financial, organizational and other information,
+and/or arranging for
+the provision of such information from third parties, as may be required in order for the Administrator to provide
+the CFTC Services,
+and any information requested by the Administrator in connection with the foregoing. The Administrator is
+authorized and instructed to
+rely upon the information it receives from the Trust or any third party (including, without limitation, the Trust’s
+third party
+administrator(s), custodian(s), prime broker(s), and other service providers to the Trust) authorized by the Trust to
+provide such information
+to the Administrator and on any instructions received from the Trust. The Trust and any third party from which the
+Administrator shall
+receive or obtain certain records, reports and other data included in the CFTC Services provided hereunder are
+solely responsible for
+the contents of such information, including, without limitation, the accuracy thereof, and the Administrator shall be
+entitled to rely
+on such records, reports and other data as provided to the Administrator by the Trust or any third party, and any
+instructions provided
+
+
+[PDF page 25]
+N08_ssga | HTML reading copy
+Page 25
+to the Administrator by the Trust, and shall have no responsibility for making any interpretive determinations with
+respect thereto. The
+Administrator has no responsibility to review, confirm or otherwise assume any duty with respect to the accuracy
+or completeness of any
+such
+State Street: Select Classification Level
+Information Classification: Limited Access
+B4-1
+Execution Version
+information, or instructions, and shall be without liability for any
+loss or damage suffered by the Trust as a result of the Administrator’s reliance on and utilization of such
+information or instructions
+believed by it to be genuine and to have been properly issued by or on behalf of the Trust or such third party. The
+Administrator shall
+have no responsibility and shall be without liability for any loss or damage caused by the failure of the Trust or any
+third party to
+provide it with the information required.
+CFTC financial reporting, compliance testing and exclusion
+filing services
+Subject to the authorization and direction
+of the Trust and, in each case where appropriate, the review and comment by Trust’s independent accountants
+and legal counsel, and
+in accordance with procedures that may be established from time to time between the Trust and the
+Administrator, the Administrator will:
+| | i. | Perform monthly testing for compliance with the CFTC initial margin test and the CFTC net notional test;
+and
+| | ii. | As applicable, prepare the Trust’s initial and annual Rule 4.5 notice of exclusion from classification
+as a CPO under the Commodity Exchange Act and file such initial and annual notice with the National Futures
+Association.
+Information Classification: Limited Access
+2
+SCHEDULE B5
+RESERVED
+State
+Street: Select Classification Level
+Information Classification: Limited Access
+B5-1
+SCHEDULE B6
+Fund Administration
+
+
+[PDF page 26]
+N08_ssga | HTML reading copy
+Page 26
+Form N-PORT (the “Form N-PORT Services”) and Form N-CEN (the “Form N-CEN Services”) Support Services
+(collectively,
+the “Form N-PORT and Form N-CEN Support Services”) and Liquidity Risk Measurement Services and Quarterly
+Portfolio of Investments
+Services (collectively, with the Form N-PORT and Form N-CEN Support Services, and for purposes of this Schedule
+B6, the “Services”)
+| (a) | Standard N-PORT and N-CEN Reporting Solution (Data and Filing):
+| · | Subject to the receipt of all required data, documentation,
+assumptions, information and assistance from the Trust (including from any third parties with whom the Trust will
+need to coordinate
+in order to produce such data, documentation, and information), the Administrator will use required data,
+documentation,
+assumptions, information and assistance from the Trust, the Administrator’s internal systems and, in the case of
+Trusts not
+administered by the Administrator or its affiliates, third party Trust administrators or other data providers,
+including but not
+limited to Third Party Data (as defined below) (collectively, the “Required Data”) to perform necessary data
+aggregations (including any applicable aggregation of risk metrics) and calculations and prepare, as applicable: (i)
+a monthly draft
+Form N-PORT standard template for review and approval by the Trust and (ii) annual updates of
+Form N-CEN for review and approval by the Trust.
+| · | Each Trust acknowledges and agrees that it will be responsible for reviewing and approving each such draft
+N-PORT template and N-CEN update.
+| · | Following review and final approval by the Trust of each such draft
+Form N-PORT template and N-CEN update, and at the direction of and on behalf of each Trust, the Administrator
+will (i) produce an
+.XML formatted file of the completed Form N-PORT and Form N-CEN and maintain a record thereof in accordance
+with this Agreement and (ii) electronically submit such filing to the SEC.
+The Form N-PORT Services will be provided to each portfolio
+(the “Portfolio”) of the Trust(s) as set forth in the attached Annex 1, which shall be executed by the Administrator
+and the Trust(s). The Form N-CEN Services will be provided to each Trust as set forth in the attached Annex 1.
+Annex 1 may
+be updated from time to time upon the written request of the Trust and by virtue of an updated Annex 1 that is
+signed by both
+parties.
+| (b) | Quarterly Portfolio of Investments Services:
+| | · | Subject to the receipt of all Required Data, and as a component of the
+Form N-PORT and Form N-CEN Support Services, the Administrator will use such Required Data from the Trust, the
+Administrator’s
+internal systems and other data providers to prepare a draft portfolio of investments (the “Portfolio of
+Investments”), compliant
+
+
+[PDF page 27]
+N08_ssga | HTML reading copy
+Page 27
+with GAAP, as of the Trust’s first and third fiscal quarter-ends.
+Information Classification: Limited Access
+B6-1
+Execution Version
+| | · | Following review and final approval by the Trust of each such draft Portfolio
+of Investments, and at the direction of and on behalf of each Trust, the Administrator will attach each Portfolio of
+Investments to the
+first and third fiscal quarter-end N-PORT filing that is submitted electronically to the SEC.
+| | (c) | Liquidity Risk Measurement Services:
+| | · | The Administrator will provide the following liquidity risk measurement
+services (“Liquidity Risk Measurement Services”)
+to the Trust:
+| | · | As applicable, the Administrator will provide each Trust with Liquidity
+Risk Measurement Services that will provide calculation of security level exposure, characteristics, liquidity
+analytics, including days
+to liquidate, liquidity scores, fixed income cost to liquidate, stress testing and redemption flow analysis. Liquidity
+analytics will
+be calculated daily, weekly, or monthly (as per written agreement between the Administrator and each Trust) and,
+as applicable, aggregated
+monthly for purposes of inclusion in the Administrator’s standard N-PORT filing template. Services also will
+include the Administrator’s standard liquidity Trust profile report and online access to the Administrator’s dynamic
+risk
+reporting tools via my.statestreet.com which enable Trusts to analyze and generate risk reporting.
+| | · | The Liquidity Risk Measurement Services will be provided to each Portfolio of the Trust(s) as set forth
+in the attached Annex 1, which shall be executed by the Administrator and the Trust(s). Annex 1 may be updated
+from time
+to time upon the written request of the Trust and by virtue of an updated Annex 1 that is signed by both parties.
+Trust Duties,
+Representations and Covenants in Connection with (i) Form N-PORT and Form N-CEN Support Services, (ii) Liquidity
+Risk Measurement Services,
+and (iii) Quarterly Portfolio of Investments Services.
+The provision of the Services to each Trust by
+the Administrator is subject to the following terms and conditions:
+1. The
+parties acknowledge and agree on the following matters:
+The Services depend, directly or indirectly,
+on: (i) Required Data and (ii) information concerning the Trust or its affiliates or any Fund, pooled vehicle, security
+or other investment
+
+
+[PDF page 28]
+N08_ssga | HTML reading copy
+Page 28
+or portfolio regarding which the Trust or its affiliates provide services or is otherwise associated (“Trust Entities”)
+that
+is generated or aggregated by the Administrator or its affiliates in connection with services performed on the
+Trust’s behalf or
+otherwise prepared by the Administrator (“State Street Data,” together with Required Data and Third Party Data
+(as defined
+below), “Services-Related Data”). The Administrator’s obligations, responsibilities and liabilities with respect to
+any State Street Data used in connection with other services received by the Trust shall be as provided in
+Information Classification: Limited Access
+2
+such respective other agreements
+between the Administrator or its affiliates and the Trust relating to such other services (e.g., administration and/or
+custody
+services, etc.) from which the State Street Data is derived or sourced (“Other Trust Agreements”). Nothing in this
+Agreement or any service schedule(s) shall limit or modify the Administrator’s or its affiliates’ obligations to the
+Trust under the Other Trust Agreements.
+In connection with the provision of the
+Form N-PORT and Form N-CEN Support Services, Liquidity Risk Measurement Services, and Quarterly Portfolio of
+Investments Services by the
+Administrator, the Trust acknowledges and agrees that it will be responsible for providing the Administrator with
+any information requested
+by the Administrator, including, but not limited to, the following:
+(A)
+Arranging for the regular provision of all Required Data (including State Street Data, where applicable)
+and related information to the Administrator, in formats compatible with Administrator-provided data templates
+including, without limitation,
+Required Data and the information and assumptions required by the Administrator in connection with a Trust
+reporting profile and onboarding
+checklist, as it, or the information or assumptions required, may be revised at any time by the Administrator, in its
+discretion (collectively,
+the “Onboarding Checklist”) and such other forms and templates as may be used by the Administrator for such
+purposes from
+time to time, for all Funds receiving services under this Agreement, including but not limited to those to be
+reported on Form N-PORT
+and Form N-CEN (as determined by the Trust), including, without limitation, arranging for the provision of data
+from the Trust, its affiliates,
+third party administrators, prime brokers, custodians, and other relevant parties. If and to the extent that Required
+Data is already
+accessible to the Administrator (or any of its affiliates) in its capacity as administrator to one or more Trusts, the
+Administrator
+
+
+[PDF page 29]
+N08_ssga | HTML reading copy
+Page 29
+and the Trust will agree on the scope of the information to be extracted from the Administrator’s or any of its
+affiliate’s
+systems for purposes of the Administrator’s provision of Form N-PORT and Form N-CEN Support Services, Liquidity
+Risk Measurement
+Services, and Quarterly Portfolio of Investments Services, subject to the discretion of the Administrator, and the
+Administrator is hereby
+expressly authorized to use any such information as necessary in connection with providing the Form N-PORT and
+Form N-CEN Support Services
+, Liquidity Risk Measurement Services, and Quarterly Portfolio of Investments Services, hereunder; and
+(B)
+Providing all required information and assumptions not otherwise included in Trust data and assumptions provided
+pursuant to Section
+1(A) above, including but not limited to the Required Data, as may be required in order for the Administrator to
+provide the Services.
+The following are examples of certain
+types of information that each Trust is likely to be required to provide with respect to the Trust and each Fund
+thereof pursuant to Sections
+1(A) and 1(B) above, and each Trust hereby acknowledges and understands that the following categories of
+information are merely illustrative
+examples, are by no means an exhaustive list of all such required information, and are subject to change as a
+result of any amendments
+to Form N-PORT and Form N-CEN or any changes in requirements relating to the provision of Liquidity Risk
+Measurement Services:
+Information Classification: Limited Access
+B6-3
+Execution Version
+| | · | SEC filing classification of the Trust (i.e., small or large filer);
+| | · | Identification of any data sourced from third parties;
+| | · | Identification of any securities reported as Miscellaneous; and
+| | · | Any Explanatory Notes included in N-PORT Section E.
+2.
+Each Trust acknowledges that it has provided to the Administrator all material assumptions used
+by the Trust or that are expected to be used by the Trust in connection with the completion of Form N-PORT and
+Form N-CEN the Liquidity
+Risk Measurement Services, and Quarterly Portfolio of Investments Services, and that it has approved all material
+assumptions used by
+the Administrator in the provision of the Services prior to the first use of the Services. The Trust will also be
+responsible for promptly
+notifying the Administrator of any changes in any such material assumptions previously notified to the
+Administrator by the Trust or otherwise
+
+
+[PDF page 30]
+N08_ssga | HTML reading copy
+Page 30
+previously approved by the Trust in connection with the Administrator’s provision of the Services. The Trust
+acknowledges that the
+completion of Form N-PORT and Form N-CEN the Liquidity Risk Measurement Services, and Quarterly Portfolio of
+Investments Services, and
+the data required thereby, requires the use of material assumptions in connection with many different categories
+of information and data,
+and the use and/or reporting thereof, including, but not limited to the following:
+| | · | Investment classification of positions;
+| | · | Assumptions necessary in converting data extracts;
+| | · | General operational and process assumptions used by the Administrator in performing the Services; and
+| | · | Assumptions specific to the Trust and the Funds.
+Each Trust hereby acknowledges and understands
+that the foregoing categories of information that may involve the use of material assumptions are merely
+illustrative examples of certain
+subject matter areas in relation to which the Trust (and/or the Administrator on its behalf in connection with the
+Services) may rely
+on various material assumptions, and are by no means an exhaustive list of all such subject matter areas.
+3. Each
+Trust acknowledges and agrees on the following matters:
+(A)
+Each Trust has independently reviewed the Services (including, without limitation, the assumptions, market data,
+securities prices,
+securities valuations, tests and calculations used in the Services), and the Trust has determined that the Services
+are suitable for its
+purposes. None of the Administrator or its affiliates, nor their respective officers, directors, employees,
+representatives, agents or
+service providers (collectively, including the Administrator, “State Street Parties”) make any express or implied
+warranties
+or representations with respect to the Services or otherwise.
+(B)
+Each Trust assumes full responsibility for complying with all securities, tax, commodities and
+other laws, rules and regulations applicable to it. The Administrator is not providing, and the Services do not
+constitute, legal, tax,
+investment, or regulatory advice, or accounting or auditing services advice. Unless otherwise agreed to in writing
+by the parties to this
+Information Classification: Limited Access
+4
+Agreement, the Services are of general
+application and the Administrator is not providing any customization, guidance, or recommendations. Where the
+Trust uses Services to comply
+
+
+[PDF page 31]
+N08_ssga | HTML reading copy
+Page 31
+with any law, regulation, agreement, or other Trust obligation, the Administrator makes no representation that any
+Service complies with
+such law, regulation, agreement, or other obligation, and the Administrator has no obligation of compliance with
+respect thereto.
+(C) Each Trust may use the
+Services and any reports, charts, graphs, data, analyses and other results generated by the Administrator in
+connection with the Services
+and provided by the Administrator to the Trust (“Materials”) (a) for the internal business purpose of the Trust or
+the relevant
+Fund relating to the applicable Service or (b) for submission to the U.S. Securities and Exchange Commission, as
+required, of a Form
+N-PORT template and a Form N-CEN update, including any Portfolio of Investments, if applicable. The Trust may
+also redistribute the Materials,
+or an excerpted portion thereof, to its Board of Trustees, investment managers, investment advisers, agents,
+clients, investors or participants,
+as applicable, that have a reasonable interest in the Materials in connection with their relationship with the Trust
+(each a “Permitted
+Person”); provided, however, (i) the Trust may not charge a fee, profit, or otherwise benefit from the redistribution
+of Materials
+to Permitted Persons, (ii) data provided by third party sources such as but not limited to market or index data
+(“Third Party Data”)
+contained in the Materials may not be redistributed other than Third Party Data that is embedded in the
+calculations presented in the
+Materials and not otherwise identifiable as Third Party Data, except to the extent the Trust has separate license
+rights with respect
+to the use of such Third Party Data, or (iii) the Trust may not use the Services or Materials in any way to compete
+or enable any third
+party to compete with the Administrator. No Permitted Person shall have any further rights of use or redistribution
+with respect to,
+or any ownership rights in, the Materials or any excerpted portion thereof.
+Except as expressly provided
+in this Section 3(C), the Trust, any of its affiliates, or any of their respective officers, directors, employees,
+investment managers,
+investment advisers, agents or any other third party, including any client of, or investor or participant in the Trust
+or any Permitted
+Persons (collectively, including the Trust, “Trust Parties”), may not directly or indirectly, sell, rent, lease, license
+or sublicense, transmit, transfer, distribute or redistribute, disclose display, or provide, or otherwise make
+available or permit access
+to, all or any part of the Services or the Materials (including any State Street Data or Third Party Data contained
+therein, except with
+respect to Third Party Data to the extent the Trust has separate license rights with respect to the use of such Third
+Party Data). Without
+
+
+[PDF page 32]
+N08_ssga | HTML reading copy
+Page 32
+limitation, Trust Parties shall not themselves nor permit any other person to in whole or in part (i) modify, enhance,
+create derivative
+works, reverse engineer, decompile, decompose or disassemble the Services or the Materials; (ii) make copies of
+the Services, the Materials
+or portions thereof; (iii) secure any source code used in the Services, or attempt to use any portions of the Services
+in any form other
+than machine readable object code; (iv) commercially exploit or otherwise use the Services or the Materials for the
+benefit of any third
+party in a service bureau or software-as-a-service environment (or similar structure), or otherwise use the Services
+or the Materials
+to perform services for any third party, including for, to, or with consultants and independent contractors; or (v)
+attempt any of the
+foregoing or otherwise use the Services or the Materials for any purpose other than as expressly authorized under
+this Agreement.
+Information Classification: Limited Access
+B6-5
+Execution Version
+(D)
+The Trust shall limit the access and use of the Services and the Materials by any Trust Parties
+to a need-to-know basis and, in connection with its obligations under this Agreement, the Trust shall be
+responsible and liable for all
+acts and omissions of any Trust Parties.
+(E)
+The Services, the Materials and all confidential information of the Administrator (as confidential
+information is defined in the Agreement and other than Third Party Data and Required Data), are the sole property
+of the Administrator.
+The Trust has no rights or interests with respect to all or any part of the Services, the Materials or the
+Administrator’s confidential
+information, other than its use and redistribution rights expressly set forth in Section 3(C) herein. The Trust
+automatically and irrevocably
+assigns to the Administrator any right, title or interest that it has, or may be deemed to have, in the Services, the
+Materials or the
+Administrator’s confidential information, including, for the avoidance of doubt and without limitation, any Trust
+Party feedback,
+ideas, concepts, comments, suggestions, techniques or know-how shared with the Administrator (collectively,
+“Feedback”) and
+the State Street Parties shall be entitled to incorporate any Feedback in the Services or the Materials or to
+otherwise use such Feedback
+for its own commercial benefit without obligation to compensate the Trust.
+(F)
+The Administrator may rely on Services-Related Data used in connection with the Services without
+
+
+[PDF page 33]
+N08_ssga | HTML reading copy
+Page 33
+independent verification. Services-Related Data used in the Services may not be available or may contain errors,
+and the Services may
+not be complete or accurate as a result.
+[Remainder of Page Intentionally Left Blank]
+Information Classification: Limited Access
+6
+ANNEX I
+THE ARBITRAGE FUNDS
+Further to the Administration Agreement
+dated as of September 24, 2026 and effective as of September 25, 2026, between The Arbitrage Funds (the
+“Trust”) and
+State Street Bank and Trust Company (the “Administrator”), the Trust and the Administrator mutually agree to
+update this Annex
+1 by adding/removing Funds and/or Portfolios as applicable:
+| Liquidity Risk Measurement
+Services
+| THE ARBITRAGE FUNDS
+| FREQUENCY
+| Arbitrage Fund
+| Daily
+| Water Island Event-Driven Fund
+| Daily
+| Water Island Credit Opportunities Fund
+| Daily
+| AltShares Merger Arbitrage ETF
+| Daily
+| AltShares Event-Driven ETF
+| Daily
+Form N-PORT Services
+and Quarterly Portfolio of
+Investments Services
+| THE ARBITRAGE FUNDS
+| Service Type
+| Arbitrage Fund
+| Standard N-PORT and N-CEN
+Reporting Solution (Data and Filing)
+| Water Island Event-Driven Fund
+| Standard N-PORT and N-CEN
+
+
+[PDF page 34]
+N08_ssga | HTML reading copy
+Page 34
+Reporting Solution (Data and Filing)
+| Water Island Credit Opportunities Fund
+| Standard N-PORT and N-CEN
+Reporting Solution (Data and Filing)
+| AltShares Merger Arbitrage ETF
+| Standard N-PORT and N-CEN
+Reporting Solution (Data and Filing)
+| AltShares Event-Driven ETF
+| Standard N-PORT and N-CEN
+Reporting Solution (Data and Filing)
+| Form N-CEN Services
+| THE ARBITRAGE FUNDS
+Information Classification: Limited Access
+B6-7
+Execution Version
+IN WITNESS WHEREOF, the undersigned, by their authorized representatives,
+have executed this Annex 1 as of the last signature date set forth below.
+| THE ARBITRAGE FUNDS
+| STATE STREET BANK AND TRUST COMPANY
+| By:
+| /s/
+Jon Hickey
+| By:
+| /s/ Andrea E. Sharp
+| Name: Jon
+Hickey
+| Name:
+| Andrea E. Sharp
+| Title: Chief
+Financial Officer
+| Title:
+| Managing Director
+| Address: 104
+5th Ave
+| Address: 1 Lincoln Street, Boston, MA 02111
+| New
+York, NY 10011
+
+
+[PDF page 35]
+N08_ssga | HTML reading copy
+Page 35
+| Date: September
+24, 2026
+| Date:
+| September 24, 2026
+Information Classification: Limited Access

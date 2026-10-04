@@ -1,0 +1,103 @@
+[PDF page 1]
+E06_bny_services | HTML reading copy
+Page 1
+BNY Mellon – Fund Accounting Amendment
+Reading copy of a publicly filed HTML contract exhibit. Original HTML is enclosed. Page numbers below belong to this reading
+copy.
+https://www.sec.gov/Archives/edgar/data/837276/000168386323003680/f25018d20.htm
+EX-99
+20
+f25018d20.htm
+(G)(1)(C)(II)
+(g)(1)(C)(ii)
+AMENDMENT
+(g)(1)(C)(ii)
+This Amendment is an amendment to the Fund Accounting Agreement dated as of January 6, 2003 (as amended)
+between each entity listed on Exhibit A thereto (each a "Fund" and collectively the "Funds") and The Bank of New
+York Mellon ("BNY") (the "Agreement").
+The date of this Amendment is as of __November 21__, 2022 (the "Effective Date").
+Each intending to be legally bound, and each acknowledging receipt of sufficient consideration with respect to the
+provisions set forth in this Amendment, each Fund and BNY hereby agrees as follows:
+1.Paragraph 8 of the Agreement is amended and restated as follows:
+"8. Term of Agreement.
+(a)As between BNY and a particular Fund, this Agreement shall continue until December 31, 2027 (the "Initial
+Term") and thereafter shall automatically renew for additional successive one (1) year extension periods (each a
+"Renewal Term"), unless and until either BNY or such Fund provides prior written notice to the other party of its
+intention not to renew this Agreement at least one hundred eighty (180) days in advance of the end of the Initial
+Term or the then-current Renewal Term.
+(b)If a Fund or BNY with respect to a particular Fund materially breaches this Agreement (or repeatedly breaches
+this Agreement where such repeated breaches constitute a material breach of this Agreement) (a "Defaulting
+Party") the other party (the "Non-Defaulting Party") may give written notice thereof to the Defaulting Party
+("Breach Notice"), and if such material breach shall not have been remedied within thirty (30) days after the
+Breach Notice is given, then the Non-Defaulting Party may terminate this Agreement by giving written notice of
+termination to the Defaulting Party ("Breach Termination Notice"), in which case this Agreement shall terminate on
+the 30th day following the date the Breach Termination Notice is given, or such later date as may be specified in
+the Breach Termination Notice (but not later than the last day of the Initial Term or then-current Renewal Term, as
+appropriate). In all cases, termination by the Non-Defaulting Party shall not constitute a waiver by the
+Non-Defaulting Party of any other rights it might have under this Agreement or otherwise against the Defaulting
+Party.
+(c)Upon termination of this Agreement with respect to a particular Fund and upon payment of all amounts due to
+BNY with respect to such termination, BNY shall deliver to the Fund all records then the property of the Fund.
+(d)In addition to the termination provisions set forth in Paragraph 8(a) and Paragraph 8(b), and for clarity subject
+to the terms of Paragraph 8(c), a Fund shall have the right to terminate all, but not part, of the services provided to
+it under this Agreement for any reason at any time after January 1, 2023 and before June 30, 2027 by giving BNY
+written notice of such
+termination at least one hundred eighty (180) days prior to the termination date specified in the notice.
+
+
+[PDF page 2]
+E06_bny_services | HTML reading copy
+Page 2
+(e)Notwithstanding any other provision of this Agreement, BNY may terminate this Agreement by written notice to
+a Fund if such Fund shall terminate its custody agreement with The Bank of New York Mellon, effective on the date
+of termination of such custody agreement.
+(f)For clarity, a Fund will be deemed to have terminated this Agreement if any of such Fund's assets are moved to
+a service provider other than BNY without the prior written consent of BNY."
+2.Capitalized terms not defined in this Amendment have their respective meanings as defined in the Agreement.
+3.As hereby amended and supplemented, the Agreement shall remain in full force and effect. In the event of a
+conflict between the terms hereof and the Agreement, this Amendment shall control.
+4.The Agreement, as amended hereby, together with its Exhibits and Schedules, constitutes the complete
+understanding and agreement of the parties with respect to the subject matter thereof and supersedes all prior
+communications with respect thereto.
+5.This Amendment may be executed in one or more counterparts and such execution may occur by manual
+signature on a copy of this Amendment physically delivered, on a copy of this Amendment transmitted by facsimile
+transmission or on a copy of this Amendment transmitted as an imaged document attached to an email, or by
+"Electronic Signature", which is hereby defined to mean inserting an image, representation or symbol of a
+signature into an electronic copy of this Amendment by electronic, digital or other technological methods. Each
+counterpart executed in accordance with the foregoing shall be deemed an original, with all such counterparts
+together constituting one and the same instrument. The exchange of executed counterparts of this Amendment or
+of executed signature pages to counterparts of this Amendment, in either case by facsimile transmission or as an
+imaged document attached to an email transmission, shall constitute effective execution and delivery of this
+Amendment and may be used for all purposes in lieu of a manually executed and physically delivered copy of this
+Amendment.
+6.If any provision of the Agreement including this Amendment is found to be invalid, illegal or unenforceable, no
+other provision of this contract shall be affected and all other provisions shall be enforced to the full extent of the
+law.
+7.This Amendment shall be governed by the laws of the State of New York, without regard to its principles of
+conflicts of laws.
+[Remainder of this page intentionally left blank]
+[Signature page follows]
+-2-
+IN WITNESS WHEREOF, each of the parties hereto has caused this Amendment to be executed as of the Effective
+Date by its duly authorized representative designated below. An authorized representative, if executing this
+Amendment by Electronic Signature, affirms authorization to execute this Amendment by Electronic Signature and
+that the Electronic Signature represents an intent to enter into this Amendment and an agreement with its terms.
+Agreed:
+Each Entity Listed on Exhibit A to the Agreement
+The Bank of New York Mellon
+By:
+/s/ Todd Modic___________
+By:
+/s/ Sean Brumble__________
+Name: Todd Modic
+Name: Sean Brumble
+Title:
+
+
+[PDF page 3]
+E06_bny_services | HTML reading copy
+Page 3
+Senior Vice President
+Title:
+Managing Director
+-3-

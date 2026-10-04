@@ -1,0 +1,22 @@
+Hi Isha Kirti Ghia,
+
+Thanks for your Problem Statement. This is intermediate feedback to assist your project submission on 4 October — what you take from it is fully your call. :)
+
+WHAT I UNDERSTAND YOU ARE BUILDING
+Reads a vendor contract, pulls the renewal date, notice period and whether it auto-renews, and flags when the notice window is closing. Date arithmetic stays a rule.
+
+WHAT IS GOOD
+The AI/not-AI line is drawn exactly where it should be — LLM extracts, the date comparison stays code. And you named the lazy baseline yourself, 'always says yes it auto-renews'.
+
+DATA
+CUAD labels clauses, not dates. A renewal date usually is not in the notice clause — it is effective date plus term. Check all 40 held-out contracts carry an effective or expiration date, or the date logic has nothing to compute from.
+
+OUTCOME METRICS
+Score the three fields separately. One combined right/wrong hides which one broke, and notice period is the one your reminder depends on. Define 'right' for it now — exact match on '30 days'?
+
+COURSE COVERAGE
+1, 2 and 6 in. 3, 4, 5 open. Name the model, and cost per contract across 150 contracts is one line.
+
+I am still reachable — questions by email or WhatsApp.
+
+Cheers and all the best

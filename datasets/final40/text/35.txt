@@ -1,0 +1,90 @@
+[PDF page 1]
+N10_tcg | HTML reading copy
+Page 1
+TCG Strategic Fund – Expense Limitation
+Reading copy of a publicly filed HTML contract exhibit. Original HTML is enclosed. Page numbers below belong to this reading
+copy.
+https://www.sec.gov/Archives/edgar/data/2070546/000182912625009751/tcgstrategic_exg2.htm
+EX-99.(G)(2)
+5
+tcgstrategic_exg2.htm
+EXHIBIT (G)(2)
+Exhibit (g)(2)
+Expense Limitation Agreement
+This Expense Limitation Agreement effective as of the 1st day of December 2025 (the “Agreement”), by and
+among TCG Strategic Income Fund, a Delaware statutory trust (the “Fund”) and TCG Strategic Income Advisor LLC,
+a Delaware limited liability company (the “Adviser”).
+Whereas, the Adviser acts as investment adviser to the Fund pursuant to an investment advisory agreement with
+the Fund dated December 1, 2025 (the “Investment Advisory Agreement”);
+Now, Therefore, in consideration of the Fund engaging the Adviser pursuant to the Investment Advisory Agreement
+and other good and valuable consideration, the parties to this Agreement agree as follows:
+| 1.
+| Capitalized terms not otherwise defined herein shall have the meanings ascribed to them in the Fund’s
+Registration Statement as currently in effect.
+| 2.
+| The Adviser agrees with the Fund to waive its management fees and/or pay or absorb the ordinary operating
+expenses of the Fund (including, for the avoidance of doubt, any payments or reimbursements payable under the
+Administrative Services Agreement dated as of December 1, 2025 by and between the Fund and the Adviser) and
+the initial organizational and offering expenses of the Fund (excluding expenses directly related to the costs of
+making investments, including interest and structuring costs for borrowings and line(s) of credit, taxes, dividends,
+amortization/accretion and interest on securities sold short, brokerage commissions, acquired fund fees and
+expenses (if any), distribution and shareholder servicing fees, expenses related to litigation and potential litigation
+and extraordinary expenses (collectively, “Specified Expenses”)) to the extent necessary to ensure that total
+annual fund operating expenses do not exceed 2.50% per annum of the Fund’s average daily net assets
+attributable to each class of shares (the “Expense Limit”). If the Fund’s total annual fund operating expenses,
+exclusive of the Specified Expenses, in respect of any class of shares for any day, exceed the Expense Limit, the
+Adviser will waive its management fees and/or pay or absorb expenses to the extent necessary to eliminate such
+excess.
+| 3.
+| In addition, the Adviser agrees that the aggregate organizational and offering expenses incurred by the Fund on
+or before the effective date of the Fund’s registration statement shall be borne by the Adviser.
+| 4.
+| The Adviser agrees to waive its management fees and/or pay or absorb the ordinary operating expenses of the
+Fund as set forth in this Agreement for an initial term ending on January 31, 2027. Thereafter, this Agreement will
+automatically renew for successive annual terms, unless terminated as provided in Section 5 of this Agreement.
+| 5.
+
+
+[PDF page 2]
+N10_tcg | HTML reading copy
+Page 2
+| This Agreement may be amended or terminated (i) at any time by the Board of Trustees upon 60 days’ prior
+written notice to the Adviser, or (ii) by the Adviser at the annual expiration date of the agreement upon 60 days’
+prior written notice to the Fund, in each case without payment of any penalty. This Agreement will automatically
+terminate, with respect to the Fund, if the Investment Advisory Agreement for the Fund is terminated.
+| 6.
+| To the extent that the Adviser waives its management fees, or pays or absorbs expenses to the Fund, such fees
+and expenses are not subject to recoupment.
+| 7.
+| The Adviser acknowledges that the Fund will rely on this Agreement (i) in preparing and filing amendments to the
+registration statement for the Fund on Form N-2 with the U.S. Securities and Exchange Commission, (ii) in accruing
+the Fund’s expenses for purposes of calculating its net asset value per share and (iii) for certain other purposes
+and expressly permits the Fund to do so.
+| 8.
+| This Agreement will be construed in accordance with the laws of the state of Delaware and the applicable
+provisions of the Investment Company Act of 1940, as amended (the “1940 Act”). To the extent the applicable law
+of the State of Delaware, or any of the provisions in this Agreement, conflict with the applicable provisions of the
+1940 Act, the applicable provisions of the 1940 will control.
+| 9.
+| This Agreement constitutes the entire agreement between the parties to this Agreement with respect to the
+matters described in this Agreement.
+[Signatures follow on next page]
+2
+In Witness Whereof, the parties to this Agreement have executed this Agreement as of the date first written above.
+TCG STRATEGIC INCOME FUND
+a Delaware statutory Trust
+| By:
+| /s/ Peter McNitt
+| Name:
+| Peter McNitt
+| Title:
+| Principal Executive Officer
+TCG STRATEGIC INCOME ADVISOR LLC
+a Delaware limited liability company
+| By:
+| /s/ Leonard M. Tannenbaum
+| Name:
+| Leonard M. Tannenbaum
+| Title:
+| Manager
+[Signature Page to Expense Limitation Agreement]

@@ -1,0 +1,100 @@
+[PDF page 1]
+N04_virtus | HTML reading copy
+Page 1
+Virtus ETF Trust II – BNY Administration Amendment
+Reading copy of a publicly filed HTML contract exhibit. Original HTML is enclosed. Page numbers below belong to this reading
+copy.
+https://www.sec.gov/Archives/edgar/data/1648403/000199937126010675/ex99-h1c.htm
+EX-99.(H)(1)(C)
+10
+ex99-h1c.htm
+AMENDMENT TO FUND ADMIN. AND ACCOUNTING AGREEMENT (2024-1201)
+Virtus ETF Trust II 485BPOS
+Exhibit 99.(h)(1)(c)
+AMENDMENT
+TO
+FUND ADMINISTRATION AND ACCOUNTING AGREEMENT
+This Amendment (“Amendment”)
+dated December 1, 2024 is by and between VIRTUS ETF TRUST II (the “Trust”) and The Bank of New York Mellon
+(“BNY”).
+BACKGROUND:
+| | A. | The Trust and BNY are parties to a Fund Administration and Accounting Agreement dated December
+17, 2015 (as amended the “Agreement”) relating to BNY’s provision of services to the Trust and its series (each
+a “Series”).
+| | B. | The parties desire to amend the Agreement as set forth herein.
+| | C. | This Background section is incorporated by reference into and made a part of this Amendment.
+TERMS:
+The parties agree that:
+| 1. | Section 11(a) of the Agreement is deleted in its entirety and replaced with the following:
+1. (a)
+This Agreement shall continue through December 1, 2027 (the “Initial Term”). Upon the expiration of the Initial
+Term, this Agreement shall automatically renew for successive terms of two (2) years (each a “Renewal Term”),
+unless the Trust has given written notice to BNY of its intent not to renew and such notice has been received by
+BNY not less
+than ninety (90) days prior to the expiration of the Initial Term or the then-current Renewal Term or BNY has given
+written
+notice to the Trust of its intent not to renew and such notice has been received by the Trust not less than ninety
+(90) days
+prior to the expiration of the Initial Term or the then-current Renewal Term. In the event of termination, the Trust
+shall
+
+
+[PDF page 2]
+N04_virtus | HTML reading copy
+Page 2
+pay BNY such compensation as may be due as of the date of such termination, and shall reimburse BNY for
+disbursements and
+expenses made or incurred by BNY and payable or reimbursable hereunder.
+| 2. | Miscellaneous.
+(a)
+As hereby amended and supplemented, the Agreement shall remain in full force and effect.
+(b)
+The Agreement, as amended hereby, constitutes the complete understanding and agreement of the parties with
+respect to the
+subject matter thereof and supersedes all prior communications with respect thereto.
+(c) The
+parties expressly agree that this Amendment may be executed in one or more counterparts and expressly agree
+that
+such execution may occur by manual signature on a physically delivered copy of this Amendment, by a manual
+signature on a
+copy of this Amendment transmitted by facsimile transmission, by a manual signature on a copy of this
+Amendment transmitted
+as an imaged document attached to an email, or by “Electronic Signature”, which is hereby defined to mean
+inserting
+an image, representation or symbol of a signature into an electronic copy of this Amendment by electronic, digital
+or other
+technological methods. Each counterpart executed in accordance with the foregoing shall be deemed an original,
+with all such
+counterparts together constituting one and the same instrument. The exchange of executed counterparts of this
+Amendment or of
+executed signature pages to counterparts of this Amendment, in either case by facsimile transmission or as an
+imaged document
+attached to an email transmission, shall constitute effective execution and delivery of this Amendment and may be
+used for
+all purposes in lieu of a manually executed and physically delivered copy of this Amendment.
+(d)
+This Amendment shall be governed by the laws of the State of New York, without regard to its principles of
+conflicts of
+laws.
+IN WITNESS WHEREOF,
+each of the parties hereto has caused this Amendment to be executed by its duly authorized representative
+indicated below. An authorized
+representative, if executing this Amendment by Electronic Signature, affirms authorization to execute this
+Amendment by Electronic
+Signature and that the Electronic Signature represents an intent to enter into this Amendment and an agreement
+with its terms.
+
+
+[PDF page 3]
+N04_virtus | HTML reading copy
+Page 3
+VIRTUS ETF TRUST II
+On behalf of its Series identified on Exhibit A of
+the Agreement
+| By: | /s/ Brinton Frith
+Name: Brinton Frith
+Title: Treasurer
+THE BANK OF NEW YORK MELLON
+| By: | /s/ Robert M. Stein, Jr.
+Name: Robert M. Stein, Jr.
+Title: Vice President

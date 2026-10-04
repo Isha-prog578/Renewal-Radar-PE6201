@@ -1,0 +1,14 @@
+﻿test,as_of,expected_alert,actual_alert,expected_cutoff,actual_cutoff,result
+31 days before cutoff,2001-09-18,upcoming,upcoming,2001-10-19,2001-10-19,PASS
+30 days before cutoff,2001-09-19,closing_soon,closing_soon,2001-10-19,2001-10-19,PASS
+On cutoff day,2001-10-19,closing_soon,closing_soon,2001-10-19,2001-10-19,PASS
+Day after cutoff,2001-10-20,cutoff_passed_verify_current_term,cutoff_passed_verify_current_term,2001-10-19,2001-10-19,PASS
+Review overrides closing alert,2001-03-01,human_review,human_review,2001-03-17,2001-03-17,PASS
+Rolling notice has no cutoff,2026-10-01,not_applicable,not_applicable,,,PASS
+Missing event date,2026-10-01,human_review,human_review,,,PASS
+Ambiguous notice unit,2026-10-01,human_review,human_review,,,PASS
+Before bounded window,2026-12-29,window_not_open,window_not_open,2027-04-30,2027-04-30,PASS
+"Inside bounded window, far from cutoff",2027-01-01,upcoming,upcoming,2027-04-30,2027-04-30,PASS
+Closing bounded window,2027-04-01,closing_soon,closing_soon,2027-04-30,2027-04-30,PASS
+Leap-year month clamping,2024-02-01,closing_soon,closing_soon,2024-02-29,2024-02-29,PASS
+Invalid date routes to review,2026-10-01,human_review,human_review,,,PASS

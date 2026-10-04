@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Renewal Radar — What needs your attention</title>
+<meta name="description" content="See which contracts need a decision before they lock you in.">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%230f6b5c'/%3E%3Ccircle cx='16' cy='16' r='9' fill='none' stroke='%23f6f3ec' stroke-width='2'/%3E%3Cpath d='M16 16L23 9' stroke='%23f6f3ec' stroke-width='2'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,500;8..60,600;8..60,700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="styles.css">
+<script defer src="logic.js"></script>
+<script defer src="app.js"></script>
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 32 32"><circle cx="16" cy="16" r="10"/><path d="M16 16L25 7"/><circle cx="16" cy="16" r="2.2" fill="currentColor" stroke="none"/></svg></span>
+      <span class="brand-text">Renewal Radar</span>
+    </div>
+    <div class="search-box">
+      <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="11" cy="11" r="7"/><path d="M21 21l-5-5"/></svg>
+      <input id="search" type="text" placeholder="Search by company name…" aria-label="Search contracts">
+    </div>
+    <div class="topbar-controls">
+      <label class="field-label" for="lane">Showing</label>
+      <select id="lane" aria-label="Which results to show">
+        <option value="reference">Checked results</option>
+        <option value="model">AI results (unchecked)</option>
+      </select>
+      <label class="field-label" for="asof">As of</label>
+      <input type="date" id="asof" value="2026-10-02" aria-label="Date to calculate deadlines from">
+      <button class="btn btn-ghost" id="export" type="button">Export CSV</button>
+    </div>
+  </div>
+</header>
+
+<main>
+
+  <div class="provenance-banner">
+    <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M12 10v7M12 7h.01M22 12a10 10 0 1 1-20 0 10 10 0 0 1 20 0"/></svg>
+    <span>Demonstration dataset — 15 contracts retained from the original held-out set plus 25 selected afterward for clearer visible dates. Assembled after seeing evaluation results, so it is <strong>not</strong> a blind test set. See DATASET.md for the full composition and the separate, untouched evaluation numbers.</span>
+  </div>
+
+  <section class="hero">
+    <div class="hero-text">
+      <p class="eyebrow">Portfolio snapshot · <span id="hero-count">40</span> contracts</p>
+      <h1 id="hero-headline">Loading your contracts…</h1>
+      <p class="hero-sub" id="hero-sub">Checking deadlines and review flags against the as-of date.</p>
+    </div>
+    <div class="hero-stats" role="group" aria-label="Filter by what needs attention">
+      <button class="stat-pill stat-urgent" data-filter="closing_soon">
+        <span class="stat-number" id="stat-urgent">0</span>
+        <span class="stat-label">Act within 30 days</span>
+      </button>
+      <button class="stat-pill stat-review" data-filter="human_review">
+        <span class="stat-number" id="stat-review">0</span>
+        <span class="stat-label">Needs a person to check</span>
+      </button>
+      <button class="stat-pill stat-upcoming" data-filter="upcoming">
+        <span class="stat-number" id="stat-upcoming">0</span>
+        <span class="stat-label">Deadline set, further out</span>
+      </button>
+      <button class="stat-pill stat-clear" data-filter="not_applicable">
+        <span class="stat-number" id="stat-clear">0</span>
+        <span class="stat-label">No fixed deadline to track</span>
+      </button>
+    </div>
+  </section>
+
+  <section class="timeline-card" aria-label="Deadlines by month">
+    <div class="timeline-head">
+      <h2>The next 12 months</h2>
+      <p>Each mark is one contract's notice deadline. Taller and darker means more are due that month.</p>
+    </div>
+    <div class="timeline" id="timeline" role="img" aria-label="Bar chart of upcoming notice deadlines by month"></div>
+    <div class="timeline-foot">
+      <span><i class="dot dot-urgent"></i>Due within 30 days</span>
+      <span><i class="dot dot-upcoming"></i>Due later</span>
+      <span id="timeline-note">Contracts with no fixed deadline or needing a person to check aren't on this timeline.</span>
+    </div>
+  </section>
+
+  <section class="register">
+    <div class="register-head">
+      <h2 id="register-title">All contracts</h2>
+      <div class="chip-row" role="group" aria-label="Filter contracts">
+        <button class="chip active" data-filter="all">All</button>
+        <button class="chip" data-filter="closing_soon">Act now</button>
+        <button class="chip" data-filter="human_review">Needs review</button>
+        <button class="chip" data-filter="upcoming">Upcoming</button>
+        <button class="chip" data-filter="not_applicable">No fixed deadline</button>
+      </div>
+    </div>
+    <p id="result-count" class="result-count"></p>
+    <div class="card-grid" id="card-grid"></div>
+    <div class="empty-state" id="empty-state" hidden>
+      <p>No contracts match this search or filter.</p>
+      <button class="btn btn-ghost" id="reset-filters" type="button">Clear filters</button>
+    </div>
+  </section>
+
+  <footer class="page-footer">
+    <span>Renewal Radar · Isha Kirti Ghia · PE6201</span>
+    <span>This is a demonstration. It does not send reminders or renew/cancel anything — every date here is for a person to confirm.</span>
+  </footer>
+
+</main>
+
+<div class="drawer-backdrop" id="drawer-backdrop" hidden></div>
+<aside class="drawer" id="drawer" role="dialog" aria-modal="true" aria-labelledby="detail-title" hidden>
+  <header class="drawer-head">
+    <div>
+      <p class="eyebrow" id="detail-eyebrow">Contract</p>
+      <h2 id="detail-title">—</h2>
+    </div>
+    <button class="icon-btn" id="close-drawer" aria-label="Close">
+      <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M6 6l12 12M18 6L6 18"/></svg>
+    </button>
+  </header>
+  <div class="drawer-tabs" role="tablist">
+    <button class="drawer-tab active" data-tab="due" role="tab" aria-selected="true">What's due</button>
+    <button class="drawer-tab" data-tab="terms" role="tab" aria-selected="false">Contract terms</button>
+    <button class="drawer-tab" data-tab="evidence" role="tab" aria-selected="false">Evidence from the PDF</button>
+  </div>
+  <div class="drawer-content" id="drawer-content"></div>
+</aside>
+
+<div class="toast" id="toast" role="status" hidden></div>
+
+</body>
+</html>

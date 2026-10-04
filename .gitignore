@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+.env
+results/live*/
+
+*.mp4
+*.mov

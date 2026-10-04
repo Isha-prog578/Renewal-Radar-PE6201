@@ -1,0 +1,21 @@
+{
+  "created_on": "2026-10-01",
+  "count": 10,
+  "selection": "Purposive additional clear-date diagnostic set; expiry and relevant notice terms visible before any new model outputs",
+  "prior_contracts_count": 74,
+  "no_named_contract_overlap": true,
+  "deduplication_scope": "Original document identities and prior company names compared; reformatted PDF hashes alone are not evidence of non-overlap",
+  "full_agreements": 5,
+  "amendments_or_extensions": 5,
+  "automatic_cases": 8,
+  "option_cases": 2,
+  "model_run_status": "Not run",
+  "input_format": "PDF reading copies of full downloaded HTML exhibits; not original PDF layout; originals enclosed",
+  "limitations": [
+    "Not a representative random sample and not a replacement for the original held-out test.",
+    "Base agreements referenced by amendments are not enclosed. Only the uploaded amendment text may be used.",
+    "Some notice rules have approval/default/early-termination conditions. Human review may still be appropriate.",
+    "Historical first or revised terms only; current renewal cycles and subsequent amendments are not verified.",
+    "Review receipt/delivery requirements separately from arithmetic notice boundaries."
+  ]
+}

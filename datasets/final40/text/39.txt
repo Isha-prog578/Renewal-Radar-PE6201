@@ -1,0 +1,190 @@
+[PDF page 1]
+N14_urogen | HTML reading copy
+Page 1
+UroGen – Cenexi Manufacturing Amendment 2
+Reading copy of a publicly filed HTML contract exhibit. Original HTML is enclosed. Page numbers below belong to this reading
+copy.
+https://www.sec.gov/Archives/edgar/data/1668243/000143774924007753/ex_636478.htm
+EX-10.31
+5
+ex_636478.htm
+EXHIBIT 10.31
+ex_636478.htm
+Exhibit 10.31
+CERTAIN INFORMATION CONTAINED IN THIS EXHIBIT, MARKED BY [***], HAS BEEN EXCLUDED BECAUSE THE
+REGISTRANT HAS DETERMINED THE INFORMATION IS BOTH NOT MATERIAL AND IS THE TYPE THAT THE
+REGISTRANT TREATS AS PRIVATE OR CONFIDENTIAL.
+Amendment #2 to Manufacturing and Supply Agreement
+This Amendment #2 to the Manufacturing & Supply Agreement (“Amendment #2”), effective as off its date of last
+signature (“Amendment #2 Effective Date”), is by and between UroGen Pharma Ltd., a company organized and
+existing under the laws of the State of Israel having an address at 9 HaTaasia St., Ra’anana 4365007, Israel
+(“Customer”) and Cenexi-Laboratoires Thissen S.A., a company incorporated in Belgium,having its registered office
+at 2-4-6, Rue de la Papyrée, B-1420 Braine-l'Alleud, also acting hereunder on behalf of its Affiliates
+("Manufacturer").
+WHEREAS, Customer and Manufacturer entered into a certain Manufacturing and Supply Agreement dated April
+24, 2020 (the “Agreement”) regarding the manufacturing by Manufacturer and the purchase by Customer of
+UGN-101;
+WHEREAS, an amendment to the Agreement (the “Amendment #1”) has been signed by and between Customer
+and Manufacturer, effective as March 2nd, 2022 regarding, among other terms, good faith discussions between the
+Parties regarding certain equipment investments by Customer, refurbishment of a workshop at Manufacturer’s
+premises, and dedication of certain manufacturing capacity by Manufacturer; and
+WHEREAS, following conclusive clinical trials and applicable regulatory approvals, UROGEN plans to launch
+UGN-102, for a new therapeutic indication. As a result, the Parties anticipate that volumes of Contract Products
+manufactured by Manufacturer pursuant to the Agreement will increase from 2025.
+WHEREAS, as further set forth herein, the Parties have agreed to:
+-
+revise the MAQ Forecast levels (Exhibit 7 to the Agreement, modified by Amendment #1); and
+-
+the terms and conditions of the planned purchase of the equipment (Exhibit 9 under Amendment #1) with regard
+to the amount, schedule, ownership, use, maintenance costs and status of the equipment in the event of
+termination of the Agreement.
+NOW THEREFORE, in consideration of the above, and for good and valuable consideration the receipt and
+sufficiency of which the parties acknowledge, Customer and Manufacturer agree to amend the Agreement as
+follows:
+ARTICLE N. 1 Equipment Investments
+
+
+[PDF page 2]
+N14_urogen | HTML reading copy
+Page 2
+The following new Section 12.8 is added to the Agreement, immediately following section 12.7 and before article
+13:
+“Section 12.8: Equipment Investments
+12.8.1 Purchase of Dedicated Equipment. Manufacturer shall use best efforts to purchase, install, validate and
+qualify the dedicated equipment described on Exhibit 10 for the execution of the Agreement (the “Dedicated
+Equipment”). Manufacturer shall ensure that the Dedicated Equipment meets the technical specifications which
+will be described in the “Technical Specifications”.
+12.8.2 Installation of Dedicated Equipment. Manufacturer shall install the Dedicated Equipment at the premises of
+Manufacturer, in accordance with the Technical Specifications and all applicable laws, rules and regulations.
+12.8.3 Refurbishment of Manufacturer’s Premises. Manufacturer shall perform the necessary refurbishment work
+on its premises in order to install the Dedicated Equipment in accordance with the refurbishment plan set forth on
+Exhibit 10 (such activities collectively, the “Refurbishment Activities”) and in accordance with the budget set forth
+in Exhibit 10. Manufacturer shall use best efforts to perform the Refurbishment Activities in a diligent manner
+consistent with Exhibit 10 and all applicable laws, rules and regulations. For sake of clarity, the refurbishment of
+Manufacturer’s Premises and the Dedicated Equipment will be purchased and installed according the current
+Manufacturer’s knowledge on the process and Technical Specifications of the Product.
+12.8.4 Validation and Qualification of Dedicated Equipment. Manufacturer shall ensure that all Dedicated
+Equipment is validated and qualified in accordance with the Technical Specifications and Customer’s instructions
+and as is required to use such Dedicated Equipment to manufacture Contract Products in accordance with all
+applicable laws, rules and regulations, including cGMP and the Quality Agreement (the “Qualification Activities”).
+Manufacturer will be responsible for all costs and expenses associated with the Qualification Activities and any
+associated engineering support related thereto.
+12.8.5 Customer’s Financial Contribution. As Customer’s sole financial contribution for the purchase, installation,
+validation and qualification of the Dedicated Equipment as set forth in this Agreement, and the performance of the
+Refurbishment Activities, Customer shall pay Manufacturer’s documented internal and out-of-pocket costs for the
+purchase, delivery and installation of the Dedication Equipment and the performance of the Refurbishment
+Activities, up to a maximum sum of [***]€ (the “Dedicated Equipment Fees” and such maximum amount, the
+“Maximum Dedicated Equipment Fees”). All internal costs shall be expensed in accordance with the budget agreed
+upon on Exhibit 10. In no event shall Customer be responsible for more than the Maximum Dedicated Equipment
+Fees pursuant to this Section 12.8 unless Customer agrees in writing to increase the Maximum Dedicated
+Equipment Fees amount. Manufacturer shall be responsible for all internal and out-of-pocket costs required to
+perform the purchase, delivery and installation of the Dedicated Equipment and the performance of the
+Refurbishment Activities in excess of the Maximum Dedicated Equipment Fees (as such amount may be amended
+in accordance with the foregoing sentence).
+12.8.6 Invoicing and Payment. Manufacturer shall invoice Customer for the anticipated Dedicated Equipment Fees
+in accordance with the invoicing and payment schedule set forth on Exhibit 10 and subject to the maximum
+Dedicated Equipment Fees set forth in Section 12.8.5 above. On a quarterly basis, Manufacturer will provide
+Customer with documentation for the actual Dedicated Equipment Fees incurred by Manufacturer (with reasonable
+supporting documentation). In the event the actual Dedicated Equipment Fees are less than the anticipated
+Dedicated Equipment Fees paid by Customer for such time period, Manufacturer will credit such overpayment
+against the next Dedicated Equipment Fee payment owed to Manufacturer and upon completion of the installation
+of the Dedicated Equipment and performance of the Refurbishment Activities (or earlier upon termination of this
+Agreement in accordance with the termination provisions included in the Agreement), Manufacturer shall promptly
+refund Customer any anticipated Dedicated Equipment Fees paid that exceed the actual Dedicated Equipment
+Fees incurred by Manufacturer. Without limiting the generality of the foregoing, Manufacturer will provide
+Customer with a copy of the invoices for the purchase of the Dedicated Equipment and for the refurbishment of the
+premises, in order to enable control and follow-up between the costs actually incurred and the estimated costs.
+12.8.7 Capital Equipment Plan. The operational procedures and timeframes for the acquisition, installation and
+qualification of the Dedicated Equipment and for the refurbishment of the premises in which it will be installed are
+defined in Exhibit 10. Manufacturer shall use best efforts to perform its obligations under this Section 12.8 with
+
+
+[PDF page 3]
+N14_urogen | HTML reading copy
+Page 3
+respect to the purchase, installation and qualification of the Dedicated Equipment.
+12.8.8 Dedicated Equipment. Manufacturer shall exclusively use the Dedicated Equipment in the manufacture of
+Contract Products for Customer pursuant to this Agreement. Manufacturer shall not use the Dedicated Equipment
+for any other purpose, including to manufacture products for itself or any third party without the prior written
+consent of Customer.
+12.8.9 Ownership of Dedicated Equipment; Insurance; Maintenance. Manufacturer will be the sole owner of the
+Dedicated Equipment. Manufacturer will be responsible for obtaining and maintaining during the Term of the
+Agreement proper insurance coverage for the Dedicated Equipment and Manufacturer will provide evidence of
+such insurance to Customer upon Customer’s request. Manufacturer shall be responsible for any losses, damage,
+theft, or other impairment of the Dedicated Equipment. Manufacturer shall use best efforts to regularly and timely
+maintain all Dedicated Equipment in good working condition. Manufacturer shall be responsible, at its own cost, for
+any maintenance or repairs required to properly maintain the Dedicated Equipment in accordance with industry
+standard.
+12.8.10 Except as set forth below in this Section 12.8.10 or as expressly set forth under Section 12.8.6, upon
+termination of the Agreement in accordance with the termination provisions included in the Agreement, under no
+circumstances will Manufacturer be obliged to reimburse Customer for the Dedicated Equipment Fees.
+Notwithstanding the foregoing, in the event of termination of the Contract, Manufacturer shall pay to Customer a
+partial reimbursement for the Dedicated Equipment Fees based on the amortised value of the Dedicated
+Equipment at such time (the “Amortized Value”), which Amortized Value shall be calculated in accordance with the
+depreciation plan set out in Exhibit 11 to this Amendment #2. In no circumstances shall the Amortized Value be
+less than zero.
+12.8.11 Negotiation of Amended Exhibit 10. Manufacturer will use diligent efforts to prepare a more detailed draft
+of Exhibit 10 for Customer’s review and approval by [***] that includes the following:
+(a) a technical description of the Dedicated Equipment (including Technical Specifications);
+(b) a detailed plan for the acquisition and installation of the Dedicated Equipment and the performance of the
+Refurbishment Activities; and
+(c) a detailed plan for the validation and qualification for the Dedicated Equipment;
+(d) a detailed budget (including rate for internal costs) for the Dedicated Equipment Fees (the “Dedicated
+Equipment Fees Budget”), provided that such Dedicated Equipment Fees Budget complies with the Maximum
+Dedicated Equipment Fees; and
+(e) a detailed timeline for performance of (i) the purchase and installation of the Dedicated Equipment, (ii) the
+performance of the Qualification Activities; and (iii) the performance of the Refurbishment Activities (the “Project
+Timeline”), provided that such overall Project Timeline shall not exceed the time period set forth on Exhibit 10 as
+of the Amendment #2 Effective Date.
+Customer and Manufacturer will negotiate in good faith and use diligent efforts to finalize and execute such
+amended Exhibit 10 by [***].
+ARTICLE N. 2 Term
+Section 18.1 of the Agreement is hereby deleted in its entirety and replaced with the following:
+18.1 The Agreement will be effective as of the Effective Date and, unless earlier terminated as set forth in this
+Agreement, shall remain in full force and effect until April 1, 2027 (the “Initial Term”), and thereafter will
+automatically be renewed for consecutive 24 (twenty-four) month periods (the Initial Term and any renewal
+term(s) together referred to as the “Term”), unless either Party provides the other Party with written notice of
+non-renewal at least 18 (eighteen) months prior to the expiration of the then current Term.
+ARTICLE N. 3 Exhibits
+3.1 The Parties have decided to update applicable MAQ Forecast set in Exhibit 7 of the Agreement, amended by
+Amendment #1. Exhibit 7 of the Agreement is deleted in its entirety and replaced with Exhibit 7 to this
+
+
+[PDF page 4]
+N14_urogen | HTML reading copy
+Page 4
+Amendment #2.
+3.2 A new Exhibit 10 is attached as Exhibit 10 to this Amendment #2.
+3.3 A new Exhibit 11 is attached as Exhibit 11 to this Amendment #2.
+ARTICLE N. 4 Final provisions
+Except as amended above, all other terms and conditions of the Agreement shall remain the same and in full force
+and effect. Capitalized terms used herein which are not defined shall have the respective meanings ascribed to
+them in the Agreement. The Agreement as modified by Amendment #1 and this Amendment #2, constitute the
+entire agreement between the Parties with respect to the subject matter hereof. All references to the term
+“Agreement” in the Agreement shall be deemed to include all of the terms and conditions of Amendment #1 and
+this Amendment #2.
+This Amendment #2 may be executed in counterparts, all of which taken together will be regarded as one and the
+same instrument. Counterparts may be delivered via electronic mail, including AdobeTM Portable Document
+Format (PDF) or any electronic signature complying with the U.S. Federal ESIGN Act of 2000, and any counterpart
+so delivered will be deemed to be original signatures, will be valid and binding upon the Parties, and, upon
+delivery, will constitute due execution of this Amendment #1.
+IN WITNESS WHEREOF, Customer and Manufacturer have executed this Amendment #2 as of the Amendment #2
+Effective Date set forth above.
+UroGen Pharma Ltd.
+Cenexi Laboratories Thissen S.A.
+Name: Marina Konorty
+Name: Jim McPherson Cenexi
+Title: EVP R&D and Technical Operation
+Title: President and CEO Cenexi
+Date: 12/28/2023
+Date: 12/28/2023
+Signature: /s/Marina Konorty
+Signature: /s/Jim McPherson Cenexi
+Exhibits:
+-
+Updated Exhibit 7: updated Prices and MAQ
+-
+Exhibit 10: Dedicated Equipment Description; Installation & Refurbishment Plan; Qualification Plan; Timeline and
+Budget for Dedicated Equipment Fees
+-
+Exhibit 11: Amortisation plan for the Dedicated Equipment

@@ -1,0 +1,43 @@
+{
+  "historical_original40": {
+    "count": 40,
+    "category_correct": 38,
+    "category_denominator": 40,
+    "binary_correct": 34,
+    "binary_denominator": 34,
+    "always_yes_correct": 21,
+    "model_review_yes": 27,
+    "recorded_keyword_correct": 30,
+    "keyword_scope": "Reaggregates archived keyword decisions; full historical unselected PDFs/texts are not enclosed.",
+    "estimated_usd": 2.587803,
+    "eligible_cutoffs": 4,
+    "correct_eligible_cutoffs": 4
+  },
+  "additional10": {
+    "count": 10,
+    "stated_expiry_correct": 10,
+    "category_correct": 10,
+    "primary_notice_manual_matches": 10,
+    "model_review_yes": 2,
+    "scope": "Purposive clearer sample; notice judgments manually adjudicated, not automatically semantically graded."
+  },
+  "additional15": {
+    "count": 15,
+    "stated_expiry_correct": 15,
+    "category_correct": 14,
+    "primary_notice_manual_matches": 15,
+    "model_review_yes": 5,
+    "scope": "Purposive clearer sample; notice judgments manually adjudicated, not automatically semantically graded."
+  },
+  "final40_selected": {
+    "count": 40,
+    "category_matches": 39,
+    "model_review_flags": 14,
+    "scope": "Post-evaluation selection, descriptive reuse of earlier predictions; NOT a newly held-out score."
+  },
+  "checked_input_arithmetic_regressions": {
+    "passed": 40,
+    "total": 40,
+    "scope": "Regression checks on checked inputs; NOT model deadline accuracy."
+  }
+}

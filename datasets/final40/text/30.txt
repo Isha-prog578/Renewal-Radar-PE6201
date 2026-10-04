@@ -1,0 +1,894 @@
+[PDF page 1]
+N05_enova | HTML reading copy
+Page 1
+Enova International – Office Lease Amendment
+Reading copy of a publicly filed HTML contract exhibit. Original HTML is enclosed. Page numbers below belong to this reading
+copy.
+https://www.sec.gov/Archives/edgar/data/1529864/000095017023015853/enva-ex10_1.htm
+EX-10
+2
+enva-ex10_1.htm
+EX-10.1
+EX-10
+Exhibit 10.1
+THIRD AMENDMENT TO LEASE
+(175 W. Jackson - Enova)
+THIS THIRD AMENDMENT TO LEASE (the “Amendment”) is made as of this 21st day of March , 2023 (the “Effective
+Date”), between MARK ZETTI, solely in his capacity as Court Appointed Receiver pursuant to that certain Agreed
+Order Appointing Receiver for Non-Residential Property dated November 27, 2022, between U.S. Bank National
+Association, as Trustee for the benefit of the holders of COMM 2013-CCRE12 Mortgage Trust Commercial
+Pass-Through Certificates, as lead lender for the holders of the Notes, acting by and through LNR Partners, LLC,
+solely in its capacity as special servicer v. BSREP II West Jackson, LLC, a Delaware limited liability company,
+Unknown Owners and Non-Record Claimants, filed in the Circuit Court of Cook County, Illinois, County Department,
+Chancery Division, Mortgage Foreclosure/Mechanics Lien Section, as Case No.: 2022CH09225 (“Landlord”), and
+ENOVA INTERNATIONAL, INC., a Delaware corporation (“Tenant”).
+RECITALS:
+A.
+Landlord and Tenant are parties to a Lease dated as of July 25, 2014 (the “Original Lease”), as amended by a First
+Amendment to Lease dated October , 2015 (the “First Amendment”), and a Second Amendment to Lease dated
+July , 2017 (the “Second Amendment”) (the Original Lease, First Amendment, and Second Amendment are
+collectively referred to herein as the “Lease”), for a premises (the “Existing Premises”) consisting of approximately
+168,141 rentable square feet and known as Suites 500, 560, 650, and 1000 in the building (the “Building”) located
+at 175 West Jackson Boulevard, Chicago, Illinois, 60604, as more particularly described in the Lease.
+B.
+The Term (as defined in the Lease) is scheduled to expire on August 31, 2027.
+C.
+Tenant desires to surrender a portion of the Existing Premises, to expand the Existing Premises, and to extend the
+Term, and Landlord has agreed to such surrender, expansion, and extension of the Term pursuant to the terms
+and conditions set forth in this Amendment.
+AGREEMENT:
+NOW, THEREFORE, Landlord and Tenant, in consideration of the mutual promises and covenants contained in this
+Amendment and in the Lease, and intending to be legally bound by the terms of this Amendment, agree to amend
+the Lease as follows:
+1.
+Surrender of Part of the Existing Premises.
+
+
+[PDF page 2]
+N05_enova | HTML reading copy
+Page 2
+(a)
+As of August 31, 2023 (the “Surrender Date”), Tenant shall vacate and surrender possession of the part of the
+Existing Premises that is known as Suite 1000, contains approximately 68,539 rentable square feet, and is shown
+as the “Surrender Premises” on Exhibit A attached hereto (the “Surrender Premises”), pursuant to the surrender
+provisions within Section 17(g) of the Original Lease as well as in broom clean condition, provided Tenant shall
+maintain keycards for the Premises except for the Surrender Premises. Notwithstanding the foregoing,
+Landlord acknowledges and agrees that, pursuant to Section 10(b) of the Original Lease, Tenant shall have no
+obligation to remove any alterations, modifications or improvements to the Surrender Premises made by or on
+behalf of Tenant prior to the Surrender Date. Notwithstanding the foregoing, Tenant shall have the right to remove
+any of the furniture, trade fixtures, improvements, equipment, artwork, and telecommunication and data room
+furniture and technical equipment from the Surrender Premises, including, without limitation, anything related to
+the Server Room (defined in Section 1(c) below) prior to the Surrender Date. Subject to Tenant leaving the
+Surrender Premises in a broom clean condition, Landlord will accept the Surrender Premises in its AS IS condition
+as of the Surrender Date. Tenant may elect to move those items that it removes to other space within the
+Premises. Upon no less than thirty (30) days advanced written notice to Landlord, Tenant may elect to continue to
+access, use and remove items from the Surrender Premises subsequent to the Surrender Date pursuant to the
+terms of Section 1(b) below and such extension will not be deemed a holdover.
+(b)
+In the event Tenant or any person claiming through Tenant shall continue to occupy the Surrender Premises,
+except as allowed herein, from and after the Surrender Date, such continued occupancy of the Surrender Premises
+shall be deemed to be that of a holdover tenant with respect to the Surrender Premises pursuant to the terms and
+conditions of the Lease related to holdover. Any holdover by Tenant without Landlord’s prior written consent shall
+constitute a default under the Lease and shall be subject to the remedies available to Landlord. Notwithstanding
+the foregoing, in the event that Tenant desires to occupy or use the Surrender Premises including without
+limitation the server room located within the Surrender Premises (“Server Room”) subsequent to the Surrender
+Date, Landlord agrees that upon prior written notice delivered to Landlord not less than thirty (30) days prior to the
+Surrender Date, Tenant may elect to continue to access, use, occupy and remove items from, without charge
+except as otherwise set forth in this Section 1(b), the Surrender Premises until December 31, 2023 (the “Outside
+Date”) and such use of the Surrender Premises will not be considered a holdover. Notwithstanding the foregoing,
+in the event that Tenant desires to use or occupy the Surrender Premises, including without limitation Server Room
+located within the Surrender Premises subsequent to the Outside Date, Landlord agrees that upon prior written
+notice delivered to Landlord not less than fifteen
+(15) days prior to the Outside Date, Tenant may elect to continue to occupy, access, use and remove items from
+the Surrender Premises for up to an additional sixty (60) days (i.e., through February 29, 2024), provided that, with
+respect to the period of time Tenant elects to occupy the Surrender Premises subsequent to the Outside Date,
+Tenant shall be required to pay on a per diem basis (i) Base Annual Rent (as defined in the Lease) with respect to
+the Surrender Premises at the rates which would otherwise be in effect for the Surrender Premises pursuant to the
+terms of the Original Lease as if it was not a holdover and (ii) NNN Expenses (as defined in Section 5(b)(i) below)
+with respect to the Surrender Premises. Notwithstanding anything in the Lease or this Amendment to the contrary,
+during any period of time after the Surrender Date during which Tenant is occupying, accessing, or otherwise using
+the Server Room or any other portion of the Surrender Premises, all of Tenant’s obligations under the Lease
+related to insurance and indemnity shall continue to apply to the entire Surrender Premises and Tenant shall
+reimburse Landlord for all costs related to electric and janitorial service for the Surrender Premises as well as
+janitorial costs related to the Common Area bathrooms located on the 10th floor of the Building. If after the
+Outside Date, Tenant will not operate its business from the Surrender Premises but desires only to access, use or
+remove items from the Server Room during any portion of the sixty (60) day period after the Outside Date, Tenant
+must notify Landlord not less than fifteen (15) days prior to the Outside Date of its election
+2
+I-1932589.12
+
+
+[PDF page 3]
+N05_enova | HTML reading copy
+Page 3
+and will be required to pay on a per diem basis (i) 50% of the Base Annual Rent (as defined in the Lease) with
+respect to the Surrender Premises at the rates which would otherwise be in effect for the Surrender Premises
+pursuant to the terms of the Original Lease as if it was not a holdover and
+(ii) 100% of the NNN Expenses (as defined in Section 5(b)(i) below) with respect to the Surrender Premises.
+(c)
+Except as set forth in Section 1(a) of this Amendment above, Tenant shall have no additional contraction rights.
+The Contraction Option as defined and set forth in the Schedule to the Original Lease is hereby deleted and shall
+be of no further force or effect.
+(d)
+The Right of First Offer, as defined and set forth in the Schedule to the Original Lease, shall remain in full force and
+effect, subject to the terms of this Section 1(d). Notwithstanding anything in the Lease or this Amendment to the
+contrary, commencing on the Effective Date and thereafter throughout the Term (including all extensions), (i) the
+"ROFO Space" (as defined in the Lease) shall mean any single premises located on floors 2 through 9 of the
+Building which is greater than 15,000 rentable square feet or any two or more premises located on a single floor
+within floors 2 through 9 of the Building which premises are contiguous with each other and which exceed 15,000
+rentable square feet in the aggregate and (ii) to the extent that the parties resort to “Baseball Arbitration” to
+determine the FMRV (as defined in the Lease) of the ROFO Space, such process shall proceed pursuant to the
+terms Section 12(c) below. Paragraphs 3, 4, and 5 of the Right of First Offer, as defined and set forth in the
+Schedule to the Original Lease, are hereby deleted and of no further force or effect.
+2.
+Additional Premises.
+(a)
+(i) From and after September 1, 2023 (the “Extension Commencement Date”), Landlord shall lease to Tenant that
+certain premises located on the 6th floor of the Building that contains approximately 35,257 rentable square feet,
+known as Suite 600, and is shown on Exhibit B attached hereto (the “Additional Premises”). Landlord represents
+and warrant to Tenant the rentable square footage of the Premises has been determined in accordance with BOMA
+2017 – Method A. Landlord may remeasure the Existing Premises and/or the Additional Premises from time to time
+in Landlord’s sole discretion; provided, however, that there shall be no change to Tenant’s Base Annual Rent (as
+defined in the Lease) in connection with any revised measurement (regardless of whether an increase or a
+decrease) and the Premises size will not be increased to be in excess of 134,859 rentable square feet for
+determining the Base Annual Rent in any renewal term, but Tenant’s Proportion (as defined in the Lease and
+revised pursuant to Section 5 below) for purposes of calculating additional rent (as defined in the Lease) shall be
+revised accordingly.
+(ii)
+Early Acceptance. Notwithstanding any provision in the Lease or this Amendment to the contrary, at any time after
+the date of full execution and delivery of this Lease Amendment, but upon five (5) days prior written request from
+Tenant, Landlord agrees to deliver to Tenant, and Tenant agrees to accept, the Additional Premises (the date of
+such early delivery and acceptance being the “Acceptance Date”). Notwithstanding anything to the contrary in this
+Amendment, all of Tenant’s obligations under the Lease (as amended by this Amendment) with respect to the
+Additional Premises shall commence as of the Acceptance Date, including, but not limited to, Tenant’s insurance
+and indemnity obligations and all requirements related to Tenant’s construction of the Tenant Improvements
+(defined below), but excluding Tenant’s
+3
+I-1932589.12
+obligation for the payment of Base Annual Rent and NNN Expenses. In the event Tenant exercises its rights under
+this Section 2(a)(ii), Tenant shall be required to pay the costs of janitorial services and electricity services for the
+Additional Premises from and after the Acceptance Date.
+
+
+[PDF page 4]
+N05_enova | HTML reading copy
+Page 4
+(iii)
+The “Additional Premises Delivery Date” shall be the date that is the earlier of (i) the Acceptance Date or (ii) the
+Extension Commencement Date.
+(iv)
+From and after the Additional Premises Delivery Date, the Premises shall include the entire 6th floor of the
+Building. From and after the Surrender Date, all references in the Lease to the “Premises” shall be deemed to be
+the Existing Premises, less the Surrender Premises, plus the Additional Premises. Accordingly, from and after the
+Surrender Date, the Premises shall consist of approximately 134,859 rentable square feet.
+(b)
+Landlord shall deliver the Additional Premises to Tenant in its “AS-IS” condition pursuant to Section 8(b) below.
+Landlord hereby represents and warrants that, to Landlord’s actual knowledge, as of the Additional Premises
+Delivery Date, the Additional Premises will be water tight and that all systems and equipment in or servicing the
+Additional Premises, including without limitation mechanical, plumbing, electrical, life safety, and HVAC, will be in
+good working order and that the Additional Premises will be free from asbestos in violation of laws as of the
+Additional Premises Delivery Date. Landlord represents that it has no reports regarding the presence of asbestos
+within the Additional Premises, except for that certain Phase 1 Environmental Assessment dated July 5, 2013 (the
+“Phase 1”), which Phase 1 was prepared on behalf of a prior lender of the Building and related to the Building as a
+whole.
+3.
+Term. The Term shall be extended so that the Term shall now expire on February 28, 2035 (the “Expiration Date”).
+4.
+Base Annual Rent.
+(a)
+Prior to the Extension Commencement Date, Tenant shall continue to pay Base Annual Rent for the Existing
+Premises pursuant to the terms of the Lease and in the amounts set forth in the Lease.
+(b)
+Commencing on the Extension Commencement Date and continuing through August 31, 2026 (the “Abatement
+Period”), Tenant shall not be required to pay Base Annual Rent for the Premises (i.e., the Existing Premises less the
+Surrender Premises plus the Additional Premises).
+(c)
+Commencing on September 1, 2026 (the “Extension Rent Commencement Date”) and continuing through the
+remainder of the Term (as extended by this Amendment), Tenant shall pay Base Annual Rent for the Premises (i.e.,
+the Existing Premises less the Surrender Premises plus the Additional Premises) pursuant to the terms of the Lease
+and in the amounts set forth in the table below:
+Period
+Base Annual Rent
+Base Monthly Rent
+09/01/23 – 08/31/24
+$0.00
+$0.00
+4
+I-1932589.12
+
+
+[PDF page 5]
+N05_enova | HTML reading copy
+Page 5
+09/01/24 – 08/31/25
+$0.00
+$0.00
+09/01/25 – 08/31/26
+$0.00
+$0.00
+09/01/26 – 08/31/27
+$3,412,867.22
+$284,405.60
+09/01/27 – 08/31/28
+$3,498,188.90
+$291,515.74
+09/01/28 – 08/31/29
+$3,585,643.62
+$298,803.64
+09/01/29 – 08/31/30
+$3,675,284.71
+$306,273.73
+09/01/30 – 08/31/31
+$3,767,166.83
+$313,930.57
+09/01/31 – 08/31/32
+$3,861,346.00
+$321,778.83
+09/01/32 – 08/31/33
+$3,957,879.65
+$329,823.30
+09/01/33 – 08/31/34
+$4,056,826.64
+$338,068.89
+09/01/34 – 02/28/35
+$2,079,123.60*
+$346,520.61
+* The amount of Base Annual Rent for 09/01/34 – 02/28/35 is prorated to account for the partial year.
+5.
+Additional Rent.
+(a)
+
+
+[PDF page 6]
+N05_enova | HTML reading copy
+Page 6
+Existing Premises. Prior to the Surrender Date, Tenant shall continue to pay additional rent only with respect to the
+Existing Premises pursuant to the terms of the Lease, including, but not limited to, Tenant’s Proportion of
+Operating Expenses for the applicable Adjustment Year in excess of the Operating Expenses paid or incurred by
+Landlord during the Base Year and Tenant’s Proportion of Taxes for the applicable Adjustment Year in excess of
+the Taxes paid or incurred by Landlord during the Base Year (as those terms are defined in the Lease). Prior to the
+Surrender Date, Tenant’s Proportion will continue to be 12.06% based upon an Existing Premises of 168,141
+rentable square feet in a Building of 1,394,357 rentable square feet. Prior to the Extension Commencement Date,
+Tenant will not be charged Operating Expenses for the Additional Premises, regardless of whether the Additional
+Premises Delivery Date has occurred.
+(b)
+Premises (i.e., Existing Premises less Surrender Premises plus Additional
+Premises).
+(i)
+Pursuant to the terms of the Lease, and as confirmed by Section 5(a)
+above, prior to the Extension Commencement Date, Tenant’s payment of additional rent shall continue to be
+calculated based on Tenant’s Proportion of Operating Expenses and Taxes for the applicable Adjustment Year in
+excess of the Operating Expenses and Taxes paid or incurred by Landlord during the Base Year (such calculation
+sometimes referred to as a “modified gross” operating expense structure). Commencing on the Extension
+Commencement Date and continuing throughout the remainder of the Term (as extended by this Amendment),
+Tenant shall pay additional rent with respect to the Premises, including, but not limited to, Tenant’s Proportion of
+Operating Expenses and Taxes paid or incurred by Landlord during each calendar year (the “NNN Expenses”)
+without any adjustment or reference to any Base Year. From and after the Surrender Date, Tenant’s Proportion
+shall be 9.67% based upon a Premises of 134,859 rentable square feet in a Building of 1,394,357 rentable square
+feet.
+5
+I-1932589.12
+(ii)
+Commencing as of the Extension Rent Commencement Date, the cap on Controllable Expenses, as defined and set
+forth in Section 3.b.i of the Original Lease, shall not apply to calendar year 2026, and Tenant’s Proportion of
+Operating Expenses for calendar year 2026 shall be based on the actual amount of Operating Expenses for such
+calendar year. For calendar year 2027 and each calendar year of the Term thereafter, Tenant’s Proportion of
+Operating Expenses shall not increase more than four percent (4.0%) per year of the Term, as determined on a
+non-cumulative basis, pursuant to the terms of the Lease.
+(iii)
+Notwithstanding anything contained in this Amendment, Tenant shall not be required to pay any NNN Expenses for
+the Premises during the Abatement Period.
+6.
+Security Deposit. Upon full execution of this Amendment, the letter of credit which Tenant is required to maintain
+under the Lease will be reduced from $500,000 to $400,000. Thereafter, provided that there is no Event of Default
+(as defined in the Lease) on behalf of Tenant under the Lease, commencing on January 1, 2028, and each January
+1 thereafter it will be reduced by an additional $100,000 until the amount is $200,000. If, as of the applicable
+reduction date, an Event of Default by Tenant exists, then no further reduction in the Letter of Credit amount shall
+occur.
+7.
+Utilities and Services. Throughout the Term (as extended by this Amendment), Tenant shall continue to pay the
+cost of utilities and services serving the Premises pursuant to the terms of the Lease.
+
+
+[PDF page 7]
+N05_enova | HTML reading copy
+Page 7
+8.
+Condition of the Premises.
+(a)
+Existing Premises. Tenant is currently in possession of the Existing Premises, and Tenant accepts the Existing
+Premises in its “AS-IS” condition, without relying on any representation, covenant or warranty by Landlord related
+to the condition of the Existing Premises except for Landlord’s ongoing maintenance obligations as provided under
+the Lease. Landlord shall have no obligation to construct any improvements or perform any alterations to the
+Existing Premises in connection with this Amendment.
+(b)
+Additional Premises. Tenant accepts the Additional Premises in its “AS-IS” condition, without relying on any
+representation, covenant or warranty by Landlord related to the condition of the Additional Premises except as
+provided herein and except for Landlord’s ongoing maintenance obligations as provided in the Lease. Landlord
+shall have no obligation to construct any improvements or perform any alterations to the Additional Premises in
+connection with this Amendment. Notwithstanding the foregoing, as of the Additional Premises Delivery Date,
+Landlord hereby represents and warrants that, to Landlord’s actual knowledge, the Additional Premises shall be
+water tight and that all systems and equipment in or servicing the Additional Premises, including without limitation
+mechanical, plumbing, electrical, life safety, and HVAC, shall be in good working order and that the Additional
+Premises will be free from asbestos in violation of laws as of the Additional Premises Delivery Date. To the extent
+on the Additional Premises Delivery Date, the Additional Premises was not water tight and all systems and
+equipment in or servicing the Additional Premises including without limitation mechanical, plumbing, electrical, life
+safety and HVAC was not in good working order and free from asbestos in violation of laws as of the Additional
+Premises Delivery Date, Landlord will be responsible for
+6
+I-1932589.12
+the cost to bring it in compliance with the foregoing. If, as a result of the construction of the Tenant Improvements
+in accordance with the Plans and Specifications (as defined in Section 9(b) below), and not as a result of the
+negligence of Tenant or Tenant’s employees, agents or contractors, any asbestos located in the Additional
+Premises as of the Additional Premises Delivery Date is disturbed such that the asbestos no longer complies with
+applicable laws, then Landlord, at Landlord’s cost and expense, shall cause such asbestos to be removed or
+remediated to the extent necessary to comply with applicable laws.
+9.
+Tenant Improvements.
+(a)
+Tenant, at Tenant's sole expense, but subject to receipt of the Tenant Improvement Allowance (defined below),
+shall be solely responsible for construction of all leasehold improvements in the Premises shown on the Plans and
+Specifications (defined below) (the "Tenant Improvements"). Tenant shall enter into a contract with a general
+contractor (the "General Contractor") for all Tenant Improvements. The General Contractor and all subcontractors
+shall (i) abide by the Landlord's rules and regulations, a copy of which is attached to this Amendment as Exhibit C;
+(ii) carry insurance covering Landlord as an insured party with such coverages and in such amounts as Landlord
+may then reasonably require and with carriers reasonably acceptable to Landlord to insure Landlord against
+liability for injury, death or damage for the Tenant Improvements done by the General Contractor and
+subcontractors; and (iii) be subject to Landlord's prior written approval, which shall not be unreasonably withheld,
+conditioned or delayed. Tenant shall indemnify and hold harmless Landlord from and against all liability, cost,
+expense and damages caused as a result of Tenant's, its General Contractor's or subcontractors' activities in
+constructing the Tenant Improvements, except that the foregoing indemnity shall not cover any amount arising
+from the negligence or willful misconduct of Landlord or its agents. In connection with construction of the Tenant
+Improvements, Tenant shall comply with all provisions of the Lease and this Amendment. All Tenant Improvements
+shall be performed in accordance with the Plans and Specifications, lien-free, in accordance with all laws and
+
+
+[PDF page 8]
+N05_enova | HTML reading copy
+Page 8
+regulations, and in a good and workmanlike manner. In no event will Tenant be liable under this Section 9(a) for
+any consequential, or punitive damages.
+(b)
+Prior to the commencement of any Tenant Improvements, Tenant shall deliver to Landlord the preliminary plans
+and specifications (the "Preliminary Plans and Specifications") showing the Tenant Improvements. Within ten (10)
+days after receipt of the Preliminary Plans and Specifications, Landlord shall deliver notice to Tenant approving or
+rejecting the Preliminary Plans and Specifications. Should Landlord fail to deliver such notice within such ten (10)
+day period, and such failure continues for an additional five (5) days after Tenant’s second written request
+therefore, the Preliminary Plans and Specifications shall be deemed to be accepted by Landlord. If Landlord rejects
+the Preliminary Plans and Specifications, Landlord shall deliver with such notice Landlord's requested revisions to
+the Preliminary Plans and Specifications and an explanation as to what was rejected and the reason. If Landlord
+rejects the Preliminary Plans and Specifications, within ten (10) days after receipt of such notice from Landlord,
+Tenant shall deliver to Landlord revised plans and specifications showing the Tenant Improvements and taking into
+account Landlord's proposed revisions. Within ten (10) days after Landlord's receipt of such revised plans and
+specifications, Landlord shall deliver notice to Tenant approving or rejecting such plans and specifications. Should
+Landlord fail to deliver such notice within such ten (10) day period, and such failure continues for an additional five
+(5) days after
+7
+I-1932589.12
+Tenant’s second written request therefore, the revised plans and specifications shall be deemed to be accepted by
+Landlord. This process shall continue until the parties mutually agree on the plans and specifications. The final,
+mutually agreed upon plans and specifications showing the Tenant Improvements shall be referred to as the "Plans
+and Specifications". Landlord shall not unreasonably withhold its consent or approval.
+(c)
+Within ten (10) days after Landlord and Tenant agree on the Plans and Specifications, Tenant shall submit the
+Plans and Specifications to the applicable governmental entity for approval of the Plans and Specifications, and
+Tenant shall thereafter diligently pursue approval by the applicable governmental entity of the Plans and
+Specifications. If Tenant does not obtain governmental approval of the Plans and Specifications within forty-five
+(45) days after Tenant submits the Plans and Specifications to the applicable governmental entity, Landlord may,
+but is not required to, attempt to obtain the governmental approval of the Plans and Specifications.
+(d)
+(i) Subject to the conditions of this Section 9, Landlord shall pay to Tenant a Tenant Improvement Allowance (the
+“Tenant Improvement Allowance”) in an amount equal to One Million Three Hundred Forty Eight Thousand Five
+Hundred Ninety and 00/100 Dollars ($1,348,590.00), to be used by Tenant toward payment of the cost of the
+Tenant Improvements (the “Tenant’s Cost”) as set forth below. Any cost of the Tenant Improvements over and
+above the Tenant Improvement Allowance, if any, and the cost of any additional Tenant Improvements required by
+Tenant, if any, shall be paid by Tenant. The Tenant’s Cost shall mean all costs incurred by Tenant in connection
+with Tenant’s demolition, modification, design, construction and completion of the Tenant Improvements in
+accordance with the Plans and Specifications, properly payable to bona fide third party unrelated claimants,
+including, without limitation, architects’ and contractors’ fees, insurance and bond premiums, building permits,
+fees and licenses, but exclusive of any consulting fees other than to architects and contractors which are not
+affiliated with Tenant, and exclusive of equipment, trade and business fixtures and other personal property of
+Tenant.
+(ii)
+Provided that an Event of Default by Tenant does not exist under the Lease beyond any applicable notice and cure
+periods, then Landlord shall pay to Tenant the Tenant Improvement Allowance within thirty (30) days after the
+completion of all of the events listed below. Tenant may request that the Tenant Improvement Allowance be paid
+in installments of not less than Twenty Thousand Dollars ($20,000.00), subject to the terms and conditions of this
+
+
+[PDF page 9]
+N05_enova | HTML reading copy
+Page 9
+Section 9(d). However, in no event shall Landlord be required to make more than one (1) installment payment in
+any thirty (30) day period.
+a.
+Tenant delivers to Landlord a certificate from Tenant’s architect or General Contractor stating what part of the
+Tenant Improvements have been substantially completed and confirming that the completed part of the Tenant
+Improvements has been substantially completed in accordance with the Plans and Specifications. Examples of
+parts that have been substantially completed could include without limitation (i) demolition work, (ii) carpeting or
+painting a certain area (iii) wiring, (iv) installing dry wall or (iv) plumbing;
+b.
+Tenant delivers to Landlord an affidavit from the General Contractor stating that all subcontractors and suppliers
+have been paid in full with respect to the completed part of the Tenant Improvements for which Tenant seeks
+reimbursement;
+8
+I-1932589.12
+c.
+Tenant delivers to Landlord lien waivers as required by Landlord for the General Contractor and all subcontractors
+whose contracts are Fifteen Thousand and 00/100 Dollars ($15,000.00) or more with respect to the completed part
+of the Tenant Improvements for which Tenant seeks reimbursement; and
+d.
+Tenant delivers to Landlord a certificate from Tenant’s General Contractor stating the estimated cost of the
+remaining part of the Tenant Improvements that has not been completed and/or for which Tenant has not yet
+sought reimbursement from Landlord.
+(iii)
+If Tenant requests that the Tenant Improvement Allowance be paid in installments, then Landlord shall make the
+installment payments pursuant and subject to the conditions set forth in Section 9(d)(ii) above, but Landlord shall
+be permitted to hold up to ten percent (10%) of the Tenant Improvement Allowance as the final installment
+payment. Landlord shall not be required to make the final installment payment of the Tenant Improvement
+Allowance until all of the events listed below have been satisfied. Tenant shall be required to make all payments
+related to the cost of the Tenant Improvements after Landlord’s installment payments equal ninety percent (90%)
+of the Tenant Improvement Allowance until Landlord is required to make the final installment payment pursuant to
+this Section 9(d)(iii). In addition, regardless of whether or not Tenant elects to have Landlord pay the Tenant
+Improvement Allowance in installments, Tenant shall be responsible for all of Tenant’s Cost in excess of the Tenant
+Improvement Allowance.
+a.
+Substantial completion of the Tenant Improvements and Landlord’s receipt of a certificate from Tenant’s General
+Contractor stating that the Tenant Improvements have been substantially completed;
+b.
+Tenant delivers to Landlord an affidavit from the General Contractor stating that all subcontractors and suppliers
+have been paid in full;
+c.
+Tenant delivers to Landlord lien waivers as required by Landlord for the General Contractor and all subcontractors
+whose contracts are Fifteen Thousand and 00/100 Dollars ($15,000.00) or more; and
+d.
+
+
+[PDF page 10]
+N05_enova | HTML reading copy
+Page 10
+Tenant delivers to Landlord a Certificate of Occupancy or similar certificate, to the extent being issued by the City
+of Chicago, evidencing acceptance of the Premises by the appropriate governmental authorities, if necessary.
+(e)
+Subject to force majeure, paragraph 9(g) below and extension of the Tenant Improvement Allowance Sunset Date
+(defined below) to resolve good faith disputes, any part of the Tenant Improvement Allowance for which Tenant
+has not requested reimbursement and satisfied the condition for reimbursement on or before December 31, 2024
+(the “Tenant Improvement Allowance Sunset Date”) shall be deemed to be forfeited by Tenant and Landlord shall
+have no obligation to pay such portion of the Tenant Improvement Allowance to Tenant.
+(f)
+Should Landlord fail to timely reimburse Tenant for any part of the Tenant Improvement Allowance within thirty
+(30) days after Tenant’s compliance with the terms of Section 9(d)(ii) above, and such failure continues for an
+additional five (5) days after Tenant’s
+9
+I-1932589.12
+second request therefore, then, provided there is not a genuine dispute as to whether Tenant has fulfilled the
+requirements of Section 9(d)(ii) above, Tenant may offset such amount under the Lease against Base Annual Rent
+and other amounts due under the Lease and reduce its payments accordingly until fully offset.
+(g)
+To the extent any liens have been filed in connection with the work by Tenant, Landlord may withhold from the
+Tenant Improvement Allowance the amount of the lien and pay such amount to Tenant when the lien is resolved.
+Subject to the terms and conditions of this Section 9, Landlord will promptly pay to Tenant all amounts of the
+Tenant Improvement Allowance except for the amount of any lien with the withheld amount being paid to Tenant
+once the lien is resolved whether or not the resolution occurs after the Tenant Improvement Allowance Sunset
+Date provided in paragraph 9(e) above.
+10.
+Signage. In addition to Tenant’s signage rights under the Lease, Tenant, at Tenant’s expense, shall have the right
+to place signage identifying Tenant on the existing sign as depicted in Exhibit D at the main entrance of the
+Building, in the location specified on Exhibit D. Tenant’s signage shall be subject to compliance with all applicable
+legal requirements, and subject to Landlord’s prior written approval with respect to the general appearance, color,
+quality and method of installation, such approval not to be unreasonably withheld, conditioned, or delayed.
+Tenant’s sign as depicted on Exhibit D will be as large as any other Tenant (new or in the future) that is leasing
+space that is no larger than the Premises. Tenant’s signs throughout the Building will be updated to address the
+Additional Premises.
+11.
+Building Conference Center. The first sentence of Section 33 of the Original Lease is hereby deleted and replaced
+as follows:
+“Subject to availability, Landlord will provide Tenant with thirty (30) business hours per year requested by Tenant
+of free usage of the conference facility (“Amenity Space”) located in the Building. The Amenity Space includes a
+new conference facility and a new tenant lounge with gaming. Tenant may also reserve the rooftop terrace for
+no-charge for up to thirty (30) hours per year for private events per existing guidelines of the Building and subject
+to availability.”
+12.
+Renewal Option.
+(a)
+
+
+[PDF page 11]
+N05_enova | HTML reading copy
+Page 11
+Provided that an Event of Default does not exist as of the date of exercise of the Renewal Option (defined below)
+nor at the date of the commencement of the Renewal Term (defined below), and Tenant has not done anything nor
+failed to do anything that, with the passage of time and/or the giving of notice, would constitute an Event of
+Default under the Lease, Tenant shall have the right and option (the “Renewal Option”) to renew the Term for one
+(1) additional term of sixty (60) months (the “Renewal Term”). During the Renewal Term, all of the terms and
+conditions of the Lease except for Base Annual Rent shall be the same. Base Annual Rent for the Renewal Term
+shall be the Fair Market Rental Value of the Premises (defined below). Tenant shall exercise its Renewal Option by
+furnishing Landlord written notice no later than three hundred sixty five (365) days before the end of the then
+current Term.
+10
+I-1932589.12
+(b)
+For all purposes hereof, the “Fair Market Rental Value of the Premises” will be the rental rate as determined by
+Landlord, in its reasonable discretion, based upon the then prevailing rent for premises comparable in size and use
+to the Premises, located in centers comparable in size and use to, and in the general vicinity of, the Building,
+taking into consideration all allowances for tenant improvements, moving expenses, landlord expenses, rent
+abatement, brokerage expenses, tenant benefits or any other market concessions which may be commonly
+available at the commencement of the Renewal Term. Landlord will not be required to consider the highest and
+best use for the Premises, or the Building or the underlying land.
+(c)
+Landlord shall, within thirty (30) days of receipt of Tenant's notice of Tenant's intent to exercise the Renewal
+Option, deliver a lease amendment containing the Fair Market Rental Value of the Premises for the Renewal Term.
+All of the other terms and conditions shall remain as provided in the Lease. Tenant shall have ten (10) business
+days to execute the amendment, thus exercising the Renewal Option. Should Tenant disagree with Landlord’s
+interpretation of the Fair Market Rental Value of the Premises, Tenant’s sole remedies shall be to decline to
+exercise the Renewal Option or to have the Fair Market Rental Value of the Premises determined by Baseball
+Arbitration (defined below). Tenant shall send written notice to Landlord of Tenant’s election to decline to exercise
+the Renewal Option or to proceed to Baseball Arbitration within ten (10) business days after Tenant’s receipt of the
+amendment from Landlord setting forth Landlord’s determination of the Fair Market Rental Value of the Premises.
+If Tenant fails to execute the amendment within the ten (10) business day time frame set forth above or if Tenant
+fails to timely deliver to Landlord Tenant’s election to have the Fair Market Rental Value of the Premises
+determined by Baseball Arbitration, then Tenant shall conclusively be deemed to have declined to exercise the
+Renewal Option and the Lease shall end as of the end of the then current Term.
+If Tenant elects to have the Fair Market Rental Value of the Premises determined by Baseball Arbitration, then the
+parties shall proceed to make such determination through “Baseball Arbitration” as follows:
+(i)
+No later than forty-five (45) days after the date Tenant exercises the Renewal Option, Landlord and Tenant shall
+simultaneously present to each other their final determinations of the Fair Market Rental Value of the Premises
+(the “Final Offers”).
+(ii)
+If Landlord and Tenant do not reach agreement on the Fair Market Rental Value of the Premises within five (5) days
+after exchanging the Final Offers, Landlord and Tenant shall mutually select one (1) arbitrator to determine the
+Fair Market Rental Value of the Premises. Such arbitrator shall be a licensed real estate broker with at least five (5)
+years active experience in the greater Chicago, Illinois area with office properties. If Landlord and Tenant cannot
+mutually agree on the choice of arbitrator, each party shall select its own arbitrator, and the two arbitrators shall
+jointly select a third arbitrator, who shall make the sole determination.
+(iii)
+
+
+[PDF page 12]
+N05_enova | HTML reading copy
+Page 12
+The arbitrator so selected under subsection (ii) shall make the final determination of the Fair Market Rental Value
+of the Premises, taking into account the criteria, and following the procedures, set forth in this Section 12. The
+arbitrator shall be required to select either the Final Offer proposed by Landlord or the Final Offer proposed by
+Tenant, without compromise, as the Fair Market Rental Value for the Premises.
+11
+I-1932589.12
+(iv)
+The decision of the arbitrator shall be final and binding upon both Landlord and Tenant as to the Fair Market Rental
+Value of the Premises. The final Base Annual Rent shall be set forth in a separate amendment to the Lease.
+(d)
+Except as set forth in Section 3 and 12(a) of this Amendment above, Tenant shall have no additional right to
+extend the Term. The Extension Options as defined and set forth in the Schedule to the Original Lease are hereby
+deleted and shall be of no further force or effect.
+13.
+Termination Option.
+(a)
+Provided that an Event of Default does not exist as of the date of the Termination Notice (defined below), then
+Tenant shall have the one-time right to terminate the Lease with regard to the entire Premises, as set forth below,
+upon prior written notice to Landlord (the “Termination Notice”). The Termination Notice shall be delivered to
+Landlord, if at all, no later than February 28, 2030. If Tenant timely delivers the Termination Notice and timely
+makes payment to Landlord of the Termination Fee (defined below), then the Term of the Lease shall terminate
+with respect to the entire Premises on February 28, 2031 (the “Termination Date”).
+(b)
+Within thirty (30) days after Landlord’s receipt of Termination Notice from Tenant, Landlord shall calculate a
+termination fee (the “Termination Fee”) in the amount of the sum of (i) the unamortized amount of the brokerage
+commissions and attorneys’ fees paid by Landlord related to this Amendment, (ii) the unamortized amount of the
+Tenant Improvement Allowance, (iii) one (1) month of Base Annual Rent and NNN Expenses at the then-current
+rates, and (iv) an amount equal to all abated Base Annual Rent and NNN Expenses which otherwise would have
+accrued during the Abatement Period. The amounts described in clauses (i) and (ii) above shall be amortized on a
+straight-line basis over a period beginning on the Extension Rent Commencement Date and ending on the
+Expiration Date, at an assumed interest rate of eight percent (8%) per annum. Tenant shall pay the Termination
+Fee to Landlord in two equal installments. The first installment shall be payable to Landlord within thirty (30) days
+after Tenant’s receipt of the Landlord’s calculation of the Termination Fee; the second installment shall be payable
+to Landlord no later than the Termination Date.
+(c)
+The Termination Option as defined and set forth in the Schedule to the Original Lease and the Termination Option
+as defined and set forth in Section 1 of the Second Amendment are hereby deleted and shall be of no further force
+or effect.
+14.
+Notices. All notices required under the Lease shall be deemed to be delivered if sent pursuant to Section 19 of the
+Original Lease to the addresses set forth below.
+Landlord:
+For Rent and Notices:
+Lockbox Services 310719 BSREP II West Jackson LLC 1801 Parkview Drive, 1st Floor Shoreview, MN 55126
+
+
+[PDF page 13]
+N05_enova | HTML reading copy
+Page 13
+12
+I-1932589.12
+With a copy of Notices Only:
+Jones Lang LaSalle Americas, Inc. 175 West Jackson Boulevard Suite 2250
+Chicago, IL 60604 Attn: General Manager
+With a copy of Notices Only:
+Mark Zetti, Receiver – 175 W. Jackson c/o Jones Lang LaSalle Americas, Inc. 6365 Halcyon Way, Suite 970
+Alpharetta, GA 30005
+Tenant:
+Enova International, Inc.
+175 W. Jackson Boulevard, Suite 500
+Chicago, Illinois 60604 Attention: General Counsel
+With a copy to:
+Enova International, Inc.
+175 W. Jackson Boulevard, Suite 500
+Chicago, Illinois 60604 Attention: Director of Facilities
+Reed Smith LLP
+10 S Wacker Drive, 40th Floor Chicago, Illinois 60606
+Attn: Michael P. Lee
+15.
+Commission.
+(a)
+Landlord represents and warrants to Tenant that The Telos Group, LLC (the “Landlord’s Broker”) represents
+Landlord in this transaction. Tenant represents and warrants to Landlord that CBRE (the “Tenant’s Broker”)
+represent Tenant in this transaction. Landlord and Tenant represent and warrant to each other that Landlord’s
+Broker and Tenant’s Broker are the only brokers or finders that either party has had any dealings, negotiations or
+consultations with relating to this Amendment and that no other broker or finder took any part in any dealings,
+negotiations or consultations relating to this Amendment. Landlord shall pay a commission to Landlord’s Broker
+pursuant to a separate agreement between Landlord and Landlord’s Broker. Landlord’s
+13
+I-1932589.12
+Broker shall pay a part of such commission to Tenant’s Broker pursuant to a separate agreement between
+Landlord, Landlord’s Broker and Tenant’s Broker.
+(b)
+Tenant agrees to be responsible for, indemnify, defend and hold harmless Landlord from and against all costs, fees
+(including, without limitation, reasonable attorney’s fees), expenses, liabilities and claims incurred or suffered by
+Landlord arising from any breach by Tenant of Tenant’s foregoing representations and warranties. Landlord agrees
+to be responsible for, indemnify, defend and hold harmless Tenant from and against all costs, fees (including,
+without limitation, reasonable attorney’s fees), expenses, liabilities and claims incurred or suffered by Tenant
+arising from any breach by Landlord of Landlord’s foregoing representations and warranties.
+
+
+[PDF page 14]
+N05_enova | HTML reading copy
+Page 14
+16.
+Lender Consent. Landlord represents that it has obtained all required consents to enter into this Amendment,
+including consent by all holders of mortgages on the Building. Within five (5) days of execution of the Amendment,
+Landlord will file a motion to obtain the approval of this Amendment, including, without limitation, Section 9(d), by
+court order by Circuit Court of Cook County, Illinois in Case No. 2022CH09225 and will work diligently and in good
+faith to obtain such approval and Tenant’s obligations under the Lease will be contingent on Landlord obtaining
+such approval. Concurrent with the Tenant’s execution of this Amendment, Tenant will execute a copy of the
+Subordination, Nondisturbance and Attornment Agreement in the form attached as Exhibit E, and concurrent with
+Landlord’s execution of this Amendment, Landlord will provide Tenant with a fully executed Subordination,
+Nondisturbance and Attornment Agreement in the form attached as Exhibit E from any holder of a mortgage on
+the Building.
+17.
+Affirmation. Landlord acknowledges that as of the date hereof, Tenant has paid all amounts owed under the Lease
+and to Landlord’s actual knowledge no defaults exist on behalf of Tenant under the Lease. Tenant acknowledges
+that as of the date hereof, to Tenant’s actual knowledge no defaults exist on behalf of Landlord under the Lease.
+18.
+Effect of Modification. Except as modified by this Amendment, all of the terms and conditions of the Lease remain
+in full force and effect. If there is any conflict between this Amendment and the Lease, this Amendment shall
+control. Except where the context otherwise requires, all references in this Amendment to the “Lease” shall be
+deemed to include the provisions of this Amendment, including the modifications to the Lease set forth above.
+Capitalized terms not otherwise defined shall have the meanings set forth in the Lease.
+19.
+Captions and Counterparts. The captions and paragraph headings contained in this Amendment are for
+convenience of reference only and shall not be used in construing or enforcing any of the provisions of this
+Amendment. This Amendment may be executed in counterparts and/or with counterpart signature pages, all of
+which together shall constitute a single agreement.
+20.
+Limited Liability of Receiver. Each of the Landlord and Tenant also acknowledge, on behalf of itself and its
+employees, members, and affiliates, that Mark Zetti (“Receiver”) is executing this Amendment solely in Receiver’s
+capacity as court appointed receiver and that, for the payment of any claim or performance of any obligation by
+Receiver or Landlord under the Lease, including without limitation indemnity obligations, there shall be no
+recourse to the assets of Receiver (other than Receiver’s interest in the Premises, if any), nor to any assets of any
+officer,
+14
+I-1932589.12
+member, partner, employee or agent of Receiver, and no action shall be brought against the Receiver (other than
+in its capacity as Receiver for the Building) or Receiver’s officers, members, employees or agents relating to the
+performance of Receiver’s duties under the Agreed Order Appointing Receiver for Non-Residential Property dated
+November 27, 2022 and filed in the Circuit Court of Cook County, Illinois, County Department, Chancery Division,
+Mortgage Foreclosure/Mechanics Lien Section, as Case No.: 2022CH09225.
+[Signatures appear on following pages]
+15
+I-1932589.12
+IN WITNESS WHEREOF, Landlord and Tenant hereby execute this Amendment as of the date written above.
+“LANDLORD”
+
+
+[PDF page 15]
+N05_enova | HTML reading copy
+Page 15
+MARK ZETTI, solely in his capacity as Court Appointed Receiver pursuant to that certain Agreed Order Appointing
+Receiver for Non-Residential Property dated November 27, 2022, between U.S. Bank National Association, as
+Trustee for the benefit of the holders of COMM 2013-CCRE12 Mortgage Trust Commercial Pass-Through
+Certificates, as lead lender for the holders of the Notes, acting by and through LNR Partners, LLC, solely in its
+capacity as special servicer v.
+BSREP II West Jackson, LLC, a Delaware limited liability company, Unknown Owners and Non-Record Claimants,
+filed in the Circuit Court of Cook County, Illinois, County Department, Chancery Division, Mortgage
+Foreclosure/Mechanics Lien Section, as Case No.: 2022CH09225
+Mark Zetti, not individually, but solely in his capacity as Receiver
+16
+I-1932589.12
+“TENANT”
+ENOVA INTERNATIONAL, INC., a
+Delaware corporation
+By: Name: Title:
+17
+I-1932589.12
+Exhibit A
+Surrender Premises – Suite 1000
+18
+I-1932589.12
+Exhibit B Additional Premises – Suite 600
+19
+I-1932589.12
+Exhibit C
+Rules and Regulations Related to Tenant Improvements
+Landlord hereby sets forth the following rules and regulations governing the Tenant Improvements to be done by
+the General Contractor, its employees and any and all subcontractors employed by the General Contractor, and
+Tenant hereby agrees that the General Contractor shall comply with these rules and regulations and any changes
+thereto which may reasonably be made by Landlord. Tenant further agrees to see to it that any and all
+subcontractors employed by the General Contractor comply with the same. Landlord shall make freight and
+construction elevators regularly available to Tenant upon prior written request at no charge.
+(1)
+Permits: All permits and licenses necessary for the prosecution of the Tenant Improvements shall be secured and
+paid for by the General Contractor prior to commencement of the Tenant Improvements.
+(2)
+Work Area: Intentionally omitted.
+(3)
+Keys and Locks. Intentionally omitted.
+(4)
+
+
+[PDF page 16]
+N05_enova | HTML reading copy
+Page 16
+Common Areas: The General Contractor shall carefully protect all improvements in the common areas (as defined
+in the Lease) or areas open to the public and shall pay for repair or replacement of all damaged property therein
+(whether caused by General Contractor or its agents or subcontractors) upon demand by Landlord. The General
+Contractor will not perform any construction activities or store any materials in any common areas or public areas.
+The General Contractor will keep the common areas and vacant spaces of the Building free of construction
+material, dirt and debris at all times.
+(5)
+Water and Electricity During Construction: Intentionally omitted.
+(6)
+Sanitary Facilities: Intentionally omitted.
+(7)
+Dusty Work: The General Contractor shall notify Landlord prior to the commencement of any extremely dusty work
+(e.g., sheet rock cutting, sanding, extensive brooming, etc.) and the General Contractor shall arrange for additional
+filtering capacity on the affected HVAC equipment. Failure to make such prior notification will result in the General
+Contractor absorbing any costs associated with returning any HVAC equipment damaged by dust to its original
+condition.
+(8)
+Work Approval: All drawings, subcontractors and materials must be approved by Landlord prior to the start of
+construction. Subcontractors or materials unacceptable to the Landlord shall not be used. Change orders will be
+submitted to Landlord for approval as needed and Landlord will have a period of five (5) business days to approve
+or respond to change order request, such approval will not be unreasonably withheld. If Landlord does not respond
+in such five (5) business day period, and such failure continues for an additional two (2) business days after
+Tenant’s second written request therefore, it will be deemed to have approved the request.
+20
+I-1932589.12
+(9)
+Disposition of Materials: Any and all unused construction materials shall be disposed of by the General Contractor
+in the same manner as waste or unwanted material, except as may otherwise be directed by Landlord. General
+Contractor shall not use the building trash compactor. The placement of a container or vehicle in which to empty
+trash must be scheduled through the management office. The General Contractor is responsible for keeping the
+area around the trash container clean at all times.
+(10)
+Clean-up: The General Contractor shall at all times on a day-to-day basis keep the Premises and other areas of the
+Building free from accumulations of waste material, debris or rubbish caused by or incidental to the Tenant
+Improvements. Upon completion of the Tenant Improvements, the General Contractor shall promptly remove from
+the Premises and the Building all tools, scaffolding, surplus materials, trash and debris, and shall leave the
+Premises and the Building “broom clean”. Any debris, rubbish, materials or equipment left outside the Premises or
+left anywhere in the Building, shall be disposed of by Landlord, and the General Contractor shall be responsible for
+promptly reimbursing Landlord for the cost thereof.
+(11)
+Working Hours: The General Contractor understands that the Tenant Improvements will be done in a building that
+is occupied by other tenants and that the safety, comfort and quiet enjoyment of the tenants in the Building is the
+highest priority. As such, certain operations must be performed outside the hours of 7:00 a.m. to 6:00 p.m.
+Monday through Saturday to prevent the disturbance or interruption of normal business operations. These
+operations include, but are not limited to:
+
+
+[PDF page 17]
+N05_enova | HTML reading copy
+Page 17
+(a)
+Drilling or cutting of the concrete floor slab;
+(b)
+Drilling or cutting of any concrete structural member;
+(c)
+Sanding, chiseling or leveling of the concrete structure;
+(d)
+Delivery of drywall or large quantities of building materials;
+(e)
+Nailing carpet tack strip;
+(f)
+Testing the Fire Alarm System; and
+(g)
+Any work which generates noise or vibration which may be disruptive to occupants of the Building.
+The General Contractor must obtain prior approval from Landlord to perform work after normal hours of operation
+of the Building. The General Contractor and subcontractors will be required to show identification to security and
+sign-in prior to admittance into the Building after hours.
+(12)
+Workman Conduct: No loud music will be played which can be heard outside the Premises.
+(13)
+Electrical Panel Changes: All additional electrical circuits added to or removed from existing electrical panels or
+any new circuits added to new electrical panels must be
+21
+I-1932589.12
+appropriately marked as to the area and/or equipment serviced by the circuit(s) in question as provided for in
+specifications. All electrical panels which have covers removed for any reason (e.g., so as to allow the addition of
+new circuits) or any new electrical panels which are installed shall be left at the end of each day with all panel
+covers properly in place and all panel doors securely closed. Under no circumstances will power serving other
+tenants’ premises or other areas of the Building be shut off without the specific advance approval of Landlord. All
+electrical work will require as-built drawings to be submitted to the management office upon completion of work.
+(14)
+Welding/Cutting Torch Use: No welding or cutting torch is to be used in the Building without the prior approval of
+Landlord. If such approval is granted by Landlord, the General Contractor must have a fire extinguisher present in
+the Premises at all times when the equipment is being used. Additionally, the General Contractor must perform
+any such work after- hours because of the fumes which may be associated with such welding/cutting torch usage.
+(15)
+Spraying of Varnishes/Lacquer in the Building: No varnishes/lacquers are to be sprayed in the Building without the
+prior approval of the Landlord. Because of their combustible nature, this type of work should normally be done
+off-site. Anyone found spraying these compounds in or around the Building without the approval of the Landlord
+will be required to cease such work.
+(16)
+
+
+[PDF page 18]
+N05_enova | HTML reading copy
+Page 18
+Draining of Sprinkler Lines: Any work which will involve the draining of a sprinkler line or otherwise affect the
+sprinkler system in the Building must be approved in advance by Landlord. In all instances where this is done, the
+system may not be left inoperable overnight. De-energizing of the fire pump related to drainage of the sprinkler
+lines will be done only by Landlord’s personnel.
+(17)
+Deliveries: All deliveries and/or pick-ups by the General Contractor or its vendors must be made through the
+Building loading dock and freight entrance or as otherwise specifically provided by Landlord. All delivery vehicles
+are governed by a one (1) hour parking limitation. Deliveries of drywall and other oversized material must be
+scheduled for delivery on weekends through the management office.
+(18)
+Parking: Landlord will not be responsible for damages or thefts to any vehicles parked in the Building.
+(19)
+Posting of Rules and Regulations: A copy of these rules and regulations, acknowledged and accepted by the
+General Contractor, must be posted in the Premises in a location clearly visible to all workers. It is the General
+Contractor’s responsibility to instruct its employees and all subcontractors to familiarize themselves with these
+rules and to enforce compliance with these rules at all times.
+(20)
+Life Safety System: The General Contractor shall be held responsible for maintaining the integrity of the life safety
+systems in areas of the Building under its construction supervision and within its control.
+Should performance of the Tenant Improvements, including welding, the use of a cutting torch, or any other
+activity, interfere with the fire alarm system wiring or otherwise trigger
+22
+I-1932589.12
+or affect the fire alarm system, the General Contractor must contact Landlord prior to commencing such activity.
+The General Contractor shall take any and all reasonable steps to prevent accidental triggering of the fire and
+smoke detection devices within or adjacent to the Premises. Such steps shall not include disconnecting any such
+devices, but rather shall involve the installation of dust barriers around smoke detectors, etc.
+All stairwell doors will remain closed at all times.
+(21)
+Light Bulbs and Ballasts: The General Contractor is responsible for ensuring that all light fixtures in the Premises
+are working properly and are fully lit upon job completion. This includes replacement of bulbs and ballasts as
+required in light fixtures that are replaced, added or repositioned.
+(22)
+Providing of Licenses: General Contractor will supply to the management office a copy of the General Contractor’s
+License, Certificate of Insurance, and a Letter of Competency.
+(23)
+Access: Intentionally omitted.
+(24)
+Non-Compliance: Non-compliance with these regulations will result in the possible barring of the General
+Contractor from current or future activities in the Building. Any costs incurred by Landlord in cleaning the Building
+or Premises or repairing damage resulting from the General Contractor’s activities (including the activities of any
+of the General Contractor’s employees or subcontractors) will be billed to the General Contractor or set off against
+future payments to the General Contractor.
+
+
+[PDF page 19]
+N05_enova | HTML reading copy
+Page 19
+23
+I-1932589.12
+Exhibit D
+West Jackson Signage
+24
+I-1932589.12
+Exhibit E
+Attornment Agreement
+[To be attached]
+25
+I-1932589.12

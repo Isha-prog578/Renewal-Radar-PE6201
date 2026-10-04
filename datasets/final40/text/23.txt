@@ -1,0 +1,113 @@
+[PDF page 1]
+E08_consulting | HTML reading copy
+Page 1
+VerifyMe – Pentant Consulting Amendment
+Reading copy of a publicly filed HTML contract exhibit. Original HTML is enclosed. Page numbers below belong to this reading
+copy.
+https://www.sec.gov/Archives/edgar/data/1104038/000121465924014333/ex10_3.htm
+EX-10.3
+3
+ex10_3.htm
+EXHIBIT 10.3
+Exhibit 10.3
+FIRST AMENDMENT TO
+CONSULTING AGREEMENT
+THIS FIRST AMENDMENT
+TO CONSULTING AGREEMENT (this “Amendment”) is entered into as of June 30, 2024, by and between VerifyMe,
+Inc., a Nevada corporation
+with its principal office at 801 International Parkway, Fifth Floor, Lake Mary, Florida 32746 (the “Company”) and
+Pentant
+LLC, a Connecticut limited liability corporation with its principal office at 680 E Main Street, Suite 626, Stamford,
+Connecticut 06901
+(“Consultant”).
+WHEREAS, the Company and Consultant
+entered into that certain Consulting Agreement effective as of November 15, 2023 (the “Agreement”) pursuant to
+which
+Consultant provides the Services to the Company set forth therein; and
+WHEREAS, the Company and Consultant
+mutually desire to amend the Agreement in accordance with the terms set forth herein.
+NOW, THEREFORE, in consideration
+of the mutual promises of the parties hereto and of the mutual benefits to be gained by the performance thereof,
+and for other good and
+valuable consideration, the respective receipt of which is hereby acknowledged by each of the parties hereto, the
+parties hereto agree
+as follows:
+1. That
+Section 1(a) of the Agreement is hereby deleted and restated in its entirety as follows:
+(a) Effective
+on the Effective Date, the Company hereby engages Consultant, and Consultant hereby agrees to provide the
+Services (defined below) to
+the Company pursuant to this Agreement. This Agreement shall continue for a period commencing on the Effective
+Date and continuing until
+
+
+[PDF page 2]
+E08_consulting | HTML reading copy
+Page 2
+June 30, 2025 (the “Initial Term”). If neither the Company nor Consultant provides a written note of non-renewal to
+the other party at least ninety (90) days prior to the end of the Initial Term, then this Agreement shall
+automatically renew on a quarterly,
+three (3) month basis until terminated as set forth below (each a “Renewal Term”). The entire period of
+Consultant’s
+engagement with the Company, including the Initial Term and each Renewal Term, is referred to herein as the
+“Consulting Term.”
+2. Schedule
+B of the Agreement is hereby deleted in its entirety and replaced with Attachment 1 of this Amendment.
+3. The
+parties agree that this Amendment and the Agreement shall be construed as a single document. In the event of a
+conflict between this Amendment
+and the Agreement, this Amendment shall control. In all other respects, the Agreement shall remain in full force
+and effect.
+4. The
+parties agree that this Amendment may be executed by facsimile or electronic transmission and that the same
+shall constitute an original.
+The parties further agree that this Amendment may be executed in counterparts, each of which shall be deemed
+an original.
+5. Except
+as set forth in this Amendment, the parties hereby ratify, confirm and approve all of the provisions of the
+Agreement and agree to be
+bound by the terms thereof as fully set forth therein.
+IN WITNESS WHEREOF, the parties have executed this
+Amendment as of the date first set forth above.
+| VerifyMe, Inc.
+| By:
+| /s/ Adam Stedham
+| Name:
+| Adam Stedham
+| Title:
+| Chief Executive Officer and President
+| Pentant LLC
+| By:
+| /s/ Nick Spencer
+| Name:
+| Nick Spencer
+| Title:
+| Managing Partner
+
+
+[PDF page 3]
+E08_consulting | HTML reading copy
+Page 3
+ATTACHMENT 1
+SCHEDULE B – FEES
+| | · | For Services rendered from the Effective Date through December 31, 2023, the Company granted Consultant
+100,000 shares of Common Stock
+on December 31, 2023.
+| | · | For Services rendered from January 1, 2024 through June 30, 2024, the Company granted Consultant an
+aggregate of 60,000 shares of
+Common Stock: 30,000 shares of Common Stock were granted on March 31, 2024, and 30,000 shares of Common
+Stock were granted on June 30,
+2024.
+| | · | Commencing with the quarter ending September 30, 2024, and for each quarter thereafter ending March 31,
+June 30, September 30, and
+December 31 during the Initial Term of this Agreement, the Company shall grant Consultant 60,000 shares of
+Common Stock on the last date
+of such quarterly period.
+| | · | During each Renewal Term, if any, the Company shall grant Consultant 30,000 shares of Common Stock on
+the last date of such Renewal
+Term.
+| | · | If at any time prior to June 30, 2026, regardless of whether the Agreement has been terminated, the price of
+the Common Stock trades
+above $2.21 for twenty (20) consecutive trading days, the Company shall grant Consultant 60,000 shares of
+Common Stock as soon as reasonably
+practicable after the 20th consecutive trading day.

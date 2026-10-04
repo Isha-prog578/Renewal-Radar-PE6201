@@ -1,0 +1,22 @@
+{
+  "created_on": "2026-10-02",
+  "count": 15,
+  "selection": "Purposive diagnostic sample selected on visible expiry and notice rules before model inference",
+  "prior_contracts_count": 84,
+  "deduplication_scope": "Compared original 74 filenames/document identities and previous 10 source URLs/HTML hashes; providers and contract templates can recur",
+  "no_document_identity_overlap_identified": true,
+  "model_run_status": "Not run",
+  "input_format": "Full downloaded HTML exhibit rendered to PDF reading copy; exact originals enclosed",
+  "category_counts": {
+    "Automatic": 9,
+    "Option": 5,
+    "By agreement/amendment": 1
+  },
+  "limitations": [
+    "Selected for clearer dates: not representative and not a replacement for original hold-out results.",
+    "Amendments can refer to unenclosed base agreements; review conditions may remain.",
+    "Initial/revised expiry only; actual current renewal cycles and later amendments not verified.",
+    "Fund administration/fee waiver templates are overrepresented and related providers recur.",
+    "Review receipt/delivery requirements separately from arithmetic boundaries."
+  ]
+}

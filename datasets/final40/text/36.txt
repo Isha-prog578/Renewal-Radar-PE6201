@@ -1,0 +1,112 @@
+[PDF page 1]
+N11_pimco | HTML reading copy
+Page 1
+PIMCO US Stocks PLUS Active Bond ETF – Fee Waiver
+Reading copy of a publicly filed HTML contract exhibit. Original HTML is enclosed. Page numbers below belong to this reading
+copy.
+https://content-archive.fast-edgar.com/20251202/AR2ZR22FZ22RQ2ZK222C2CYJRTDMZZ22Z872/d82521dex99h29.htm
+EX-99.(h)(29)
+FEE WAIVER AGREEMENT
+PIMCO ETF Trust
+650
+Newport Center Drive
+Newport Beach, California 92660
+November 19, 2025
+Pacific
+Investment Management Company LLC
+650 Newport Center Drive
+Newport Beach, California 92660
+| Re:
+PIMCO US Stocks PLUS Active Bond Exchange-Traded Fund (the “Fund”)
+Dear Sirs and Madams:
+This will confirm the agreement between PIMCO ETF Trust (the “Trust”) on behalf of the Fund and Pacific
+Investment
+Management Company LLC (“PIMCO”) as follows:
+1. The Trust is an
+open-end investment company which may offer separate investment portfolios. This Agreement shall pertain to
+the Fund, a series of the Trust.
+2. Pursuant to an Investment Management Agreement dated April 24, 2009, as supplemented from time to time
+(the “Investment Management Agreement”), between the Trust and PIMCO, the Trust has retained PIMCO to
+provide the Trust with investment advisory services and to provide or procure supervisory, administrative and
+other services to the
+Trust and its shareholders. Pursuant to the Investment Management Agreement, the Fund pays to PIMCO a
+monthly management fee at an annual rate set forth in Schedule A to the Investment Management Agreement
+(the “Management Fee”).
+3. Pursuant to a Second Amended and Restated Expense Limitation Agreement dated June 1, 2018, as
+supplemented from time to time (the “Expense Limitation Agreement”), between the Trust and PIMCO, PIMCO has
+agreed to waive or reduce the Management Fee of the Fund or reimburse the Fund if the payment or accrual of
+organizational
+expenses attributable to the Fund, payment of the Fund’s pro rata share of expenses related to obtaining or
+maintaining a Legal Entity Identifier (“LEI”) and/or payment of the Fund’s pro rata share of the Trust’s
+Trustees’ fees (collectively, the “Organizational, LEI and Trustee Fee Expenses”) in any fiscal year exceeds
+0.0049% of the Fund’s average net assets.
+
+
+[PDF page 2]
+N11_pimco | HTML reading copy
+Page 2
+4. PIMCO agrees that it shall waive the Fund’s Management Fee by 0.20% of the average daily net assets
+attributable to the Fund.
+5. If necessary, on or before the last day of the first month of the Fund’s
+fiscal year, an adjustment payment shall be made by the appropriate party in order that the amount of the fees
+waived or reduced with respect to the previous fiscal year shall equal the amounts provided for in this Agreement.
+6. In any month in which the Investment Management Agreement is
+in effect, PIMCO shall be entitled to reimbursement by the Fund of any portion of the Management Fees waived,
+reduced or reimbursed pursuant to this Agreement (the “Reimbursement Amount”) during the previous thirty-six
+months, provided that such amount paid to PIMCO will not: 1) together with any recoupment of Organizational, LEI
+and Trustee Fee Expenses pursuant to the Expense Limitation Agreement, exceed 0.0049% of
+the Fund’s average net assets; 2) exceed the total Reimbursement Amount; or 3) include any amounts previously
+reimbursed to PIMCO. The Reimbursement Amount will be reimbursed in the same manner as the reimbursement
+described in the Expense
+Limitation Agreement.
+7. This Agreement shall become effective on November 19, 2025 and shall have a
+term through October 31, 2027 and shall apply for each 12 month period thereafter so long as it is in effect.
+Thereafter, this Agreement shall automatically renew for one-year terms unless PIMCO provides
+written notice to the Trust at least thirty days prior to the end of the then current term. In addition, this Agreement
+shall terminate upon termination of the Investment Management Agreement, or it may be terminated by the Trust,
+without payment of
+any penalty, upon ninety days’ prior written notice to PIMCO at its principal place of business.
+8. Nothing herein contained shall be deemed to require the Trust or the Fund to take any action contrary to the
+Trust’s Declaration of Trust or By-Laws, or any applicable statutory or regulatory requirement to which it is subject
+or by which it is bound, or to relieve or deprive the Trust’s Board of Trustees
+of its responsibility for and control of the conduct of the affairs of the Trust or the Fund.
+9. Any
+question of interpretation of any term or provision of this Agreement, including but not limited to the Management
+Fee, the computations of net asset values, and the allocation of expenses, having a counterpart in or otherwise
+derived from the terms
+and provisions of the Investment Management Agreement or the Investment Company Act of 1940 (the “1940
+Act”), shall have the same meaning as and be resolved by reference to such Investment Management Agreement
+or the 1940 Act.
+10. If any one or more of the provisions of this Agreement shall be held to be invalid, illegal or unenforceable,
+the validity, legality or enforceability of the remaining provisions shall not be affected thereby.
+11. It
+is expressly agreed that the obligations of the Trust hereunder shall not be binding upon any of the Trustees,
+shareholders, nominees, officers, agents or employees of the Trust personally, but shall bind only the trust
+property of the Trust
+relating to the Fund. This Agreement has been signed and delivered by an officer of the Trust, acting as such, and
+such execution and delivery by such officer shall not be deemed to have been made by any Trustee or officer
+individually or to impose
+any liability on any of them personally, but shall bind only the trust property of the Trust relating to the Fund, as
+provided in the Trust’s Amended and Restated Declaration of Trust dated November 4, 2014, and as amended
+
+
+[PDF page 3]
+N11_pimco | HTML reading copy
+Page 3
+from time to
+time.
+12. This Agreement constitutes the entire agreement between the Trust on behalf of the Fund and PIMCO
+with respect to its subject matter and may be amended or modified only by a writing signed by duly authorized
+officers of both the Trust and PIMCO.
+If the foregoing correctly sets forth the agreement between the Trust and
+PIMCO, please so indicate by signing and returning to the Trust the enclosed copy hereof.
+Very truly yours,
+PIMCO ETF Trust
+By:
+Name: Bijal Parikh
+Title: Treasurer
+ACCEPTED AND AGREED:
+PACIFIC INVESTMENT MANAGEMENT COMPANY LLC
+By:
+Name: Peter Strelow
+Title: Managing Director, Co-Chief Operating Officer

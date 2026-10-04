@@ -1,0 +1,342 @@
+[
+  {
+    "set": "Development",
+    "filename": "CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate Agreement.pdf",
+    "pdf": "documents/01.pdf",
+    "pdf_sha256": "5ff941d3f3f1b098af57818d5b78fb6226a9f2abe6e910f6e22cdaab95a4f3bd",
+    "text": "text/01.txt",
+    "text_sha256": "1a2817cfdb0403d78a982955019eec70872890fb8dd909e4e0e0e5e0f0822bb0",
+    "pages": 16,
+    "text_chars": 39687
+  },
+  {
+    "set": "Development",
+    "filename": "2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement.pdf",
+    "pdf": "documents/02.pdf",
+    "pdf_sha256": "db445255a65067160b9e9a7cf23afbd3379a715d000b0576fa8e7f64982e523c",
+    "text": "text/02.txt",
+    "text_sha256": "70afac1c4ed293522978f3721473c42aa88a069491feafc6c84d66a1048bf0f3",
+    "pages": 9,
+    "text_chars": 29632
+  },
+  {
+    "set": "Development",
+    "filename": "PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement.pdf",
+    "pdf": "documents/03.pdf",
+    "pdf_sha256": "a36c0e93ad85a759bace823a2a888ec12f36c8fa09b8ab9d27258a7689df0e7f",
+    "text": "text/03.txt",
+    "text_sha256": "2e15372164e41e02ae136d210275a85b64d9d8c81b3fe731e6f7363d24434b4f",
+    "pages": 16,
+    "text_chars": 93142
+  },
+  {
+    "set": "Development",
+    "filename": "StampscomInc_20001114_10-Q_EX-10.47_2631630_EX-10.47_Co-Branding Agreement.pdf",
+    "pdf": "documents/04.pdf",
+    "pdf_sha256": "dba376bec8ed2e068df7609343b413005e2c0facb23ac2d3ed993d23c784ad9c",
+    "text": "text/04.txt",
+    "text_sha256": "fc470f827e97366c7452a363a85359d83d9c0282746e6f2c2ef7e41d61bf3774",
+    "pages": 19,
+    "text_chars": 87290
+  },
+  {
+    "set": "Development",
+    "filename": "TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.pdf",
+    "pdf": "documents/05.pdf",
+    "pdf_sha256": "79d7376a8d3961ab2e72632a919735da62e4bdc1d30aaf573ed24479980b7611",
+    "text": "text/05.txt",
+    "text_sha256": "a4414197bef20a0d1bd1a5b922d5e133280354f2795c450b785512f939b0995b",
+    "pages": 31,
+    "text_chars": 120860
+  },
+  {
+    "set": "Development",
+    "filename": "EmeraldHealthBioceuticalsInc_20200218_1-A_EX1A-6 MAT CTRCT_11987205_EX1A-6 MAT CTRCT_Development Agreement.pdf",
+    "pdf": "documents/06.pdf",
+    "pdf_sha256": "5404e9cbd3ffd2fff146af6d821388aca838a43d87d0128a7e385c930f8b403c",
+    "text": "text/06.txt",
+    "text_sha256": "501acdd7eb9542ec935b4a43ebd1b9832c7cb5ed96020066c6a6e03c1424e0f9",
+    "pages": 6,
+    "text_chars": 19108
+  },
+  {
+    "set": "Development",
+    "filename": "LiquidmetalTechnologiesInc_20200205_8-K_EX-10.1_11968198_EX-10.1_Development Agreement.pdf",
+    "pdf": "documents/07.pdf",
+    "pdf_sha256": "ecb8f17564e21a8ba541fc251bbc707dcbbfb86c3abedf7920377dd00c068c53",
+    "text": "text/07.txt",
+    "text_sha256": "a3d0fd5a1290eb8093535629807036c96c5acf78e628e12a47e7ae230da3a78e",
+    "pages": 27,
+    "text_chars": 100899
+  },
+  {
+    "set": "Development",
+    "filename": "InnerscopeHearingTechnologiesInc_20181109_8-K_EX-10.6_11419704_EX-10.6_Distributor Agreement.pdf",
+    "pdf": "documents/08.pdf",
+    "pdf_sha256": "ac0b23b019fabd43ccaef6b8e721604535888a5f8f98b77794af9c783aee3dc7",
+    "text": "text/08.txt",
+    "text_sha256": "88e84a9ea2cd9a300c09ebdfa76656e3775b01a635c239b3528ec48fb85be7f3",
+    "pages": 9,
+    "text_chars": 25670
+  },
+  {
+    "set": "Development",
+    "filename": "SmartRxSystemsInc_20180914_1-A_EX1A-6 MAT CTRCT_11351705_EX1A-6 MAT CTRCT_Distributor Agreement.pdf",
+    "pdf": "documents/09.pdf",
+    "pdf_sha256": "2d8c9a3fe7f8b4c864ed88ddd3e7d642e9f0ae356d31c8d8e3059d306362fe40",
+    "text": "text/09.txt",
+    "text_sha256": "22fb79e0aaf9cb549eb3d89cbe97fb696908b47ee8f7baeafaaffe33094b173f",
+    "pages": 18,
+    "text_chars": 44807
+  },
+  {
+    "set": "Development",
+    "filename": "EcoScienceSolutionsInc_20171117_8-K_EX-10.1_10956472_EX-10.1_Endorsement Agreement.pdf",
+    "pdf": "documents/10.pdf",
+    "pdf_sha256": "ffe63f581a42b207da816789a35816689d053dc5481168d2ef011fa2a7ff680f",
+    "text": "text/10.txt",
+    "text_sha256": "51562f60820ca966b835975e83a4875959d219aad2afca66e5a356e931b0575f",
+    "pages": 7,
+    "text_chars": 19369
+  },
+  {
+    "set": "Development",
+    "filename": "NakedBrandGroupInc_20150731_POS AM (on S-1)_EX-10.75_9196027_EX-10.75_Endorsement Agreement.pdf",
+    "pdf": "documents/11.pdf",
+    "pdf_sha256": "1e23197c52f7df6560111b727fa7d4a56b83a9a520563f77c75149da84baadea",
+    "text": "text/11.txt",
+    "text_sha256": "e989091d99950a94b3ce544141a806922587d5abd938d25de48a0d8e19988d31",
+    "pages": 19,
+    "text_chars": 52966
+  },
+  {
+    "set": "Development",
+    "filename": "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1.pdf",
+    "pdf": "documents/12.pdf",
+    "pdf_sha256": "fabe82ff8946649d5ad789d0ec3028efdcafe1f57e3e503abd0e3067a246dfa0",
+    "text": "text/12.txt",
+    "text_sha256": "ad63e849d25147aec0c6e257aab4aca3f8759ff17465e3e9d2c8ee9a2ed5a5ff",
+    "pages": 47,
+    "text_chars": 164181
+  },
+  {
+    "set": "Development",
+    "filename": "PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting Agreement.pdf",
+    "pdf": "documents/13.pdf",
+    "pdf_sha256": "72031417b50f6e52fef4056c57923b08f6d643413b5770a838aa9069a717aa47",
+    "text": "text/13.txt",
+    "text_sha256": "8407d39d5d2607f7b2e12114ada4afb78722ac2cfcfcc0d66ff502ed245b3f3d",
+    "pages": 30,
+    "text_chars": 80728
+  },
+  {
+    "set": "Development",
+    "filename": "EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.pdf",
+    "pdf": "documents/14.pdf",
+    "pdf_sha256": "ccff5be7dd06007d9f33c2b7da5eda90b2bf36113037aa01f033e1f3cab2c8dd",
+    "text": "text/14.txt",
+    "text_sha256": "9e7857add0287cf6fff67f9c4b05b4d6d590fbe44e7351b0d8473edfe84a8ab0",
+    "pages": 12,
+    "text_chars": 35316
+  },
+  {
+    "set": "Development",
+    "filename": "FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement.pdf",
+    "pdf": "documents/15.pdf",
+    "pdf_sha256": "6a030ed8d8f65605e86f7e6e48316aa823800a0b5ece674ad7fea0147e1a00ad",
+    "text": "text/15.txt",
+    "text_sha256": "21fd764dbed4045a780f481a10032c630fc4aa55476a4b71ac484c8b129e8fc6",
+    "pages": 8,
+    "text_chars": 21742
+  },
+  {
+    "set": "Development",
+    "filename": "GopageCorp_20140221_10-K_EX-10.1_8432966_EX-10.1_Content License Agreement.pdf",
+    "pdf": "documents/16.pdf",
+    "pdf_sha256": "e47c0a306605c8fe15d018a7adfbda09dd19d7995bd0e9693df363ee9a75d4dd",
+    "text": "text/16.txt",
+    "text_sha256": "7a7f7c86a93969321d6304c76c1084387779a30fd3e5de6cbc86c456438a8097",
+    "pages": 20,
+    "text_chars": 43745
+  },
+  {
+    "set": "Development",
+    "filename": "PlayboyEnterprisesInc_20090220_10-QA_EX-10.2_4091580_EX-10.2_Content License Agreement_ Marketing Agreement_ Sales-Purchase Agreement1.pdf",
+    "pdf": "documents/17.pdf",
+    "pdf_sha256": "48ebf5d163f8412d8cd20bfc9aa39de5ae0ede22dffa0337207b5e1ea30a43a9",
+    "text": "text/17.txt",
+    "text_sha256": "f05e1a86e578f1d5c0c887306878358d2bedc91e58973bdda2da0b0c37959ddb",
+    "pages": 45,
+    "text_chars": 124006
+  },
+  {
+    "set": "Development",
+    "filename": "CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement4.pdf",
+    "pdf": "documents/18.pdf",
+    "pdf_sha256": "0f94e16d4e894aea708da54cb7d133cb77179917fbdcfac66b1601a830e610b0",
+    "text": "text/18.txt",
+    "text_sha256": "8d94183a06934f36ce82b0a56a66a96411257e6df9e5d5299c16309719108219",
+    "pages": 4,
+    "text_chars": 7224
+  },
+  {
+    "set": "Development",
+    "filename": "UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement.pdf",
+    "pdf": "documents/19.pdf",
+    "pdf_sha256": "893909bf198d75e1b608756b10eea3b698b42cc0d5de30d984f0da48e797ecbb",
+    "text": "text/19.txt",
+    "text_sha256": "6d277e53f6be54918aa514c3d6f1cb893f1b165787f73d1b6cd133e02200c243",
+    "pages": 82,
+    "text_chars": 271534
+  },
+  {
+    "set": "Development",
+    "filename": "XpresspaGroupInc_20190401_10-K_EX-10.28_11599457_EX-10.28_Marketing Agreement.pdf",
+    "pdf": "documents/20.pdf",
+    "pdf_sha256": "f58e78e987e71bdb8c3756fa5d0980b04a667bb47ba016c4e5c435e3cd88745d",
+    "text": "text/20.txt",
+    "text_sha256": "c46936320c9fa460f41713b7f3d82221a0df1d1bbae88c7a0a7e970f78c90218",
+    "pages": 23,
+    "text_chars": 56807
+  },
+  {
+    "set": "Development",
+    "filename": "FerroglobePlc_20150624_F-4A_EX-10.20_9154746_EX-10.20_Outsourcing Agreement.pdf",
+    "pdf": "documents/21.pdf",
+    "pdf_sha256": "9d8734bf7d20fe8e2e2503c7608e5f19f4ebf5858c65a26ef38cb84bc79eeaa3",
+    "text": "text/21.txt",
+    "text_sha256": "55180a92ba6ed67b8c712ad97796ada7c5720eb4152b8d52e6af409d8bfa0806",
+    "pages": 19,
+    "text_chars": 39684
+  },
+  {
+    "set": "Development",
+    "filename": "VnueInc_20150914_8-K_EX-10.1_9259571_EX-10.1_Promotion Agreement.pdf",
+    "pdf": "documents/22.pdf",
+    "pdf_sha256": "1b714e036261180f8dced0853f50e554ade7c056e55a8fd2fb0ae94fc0193d72",
+    "text": "text/22.txt",
+    "text_sha256": "417e944f189508e3d7c153e6e90e2a540ec7614e69707e0162e4bf58485eec07",
+    "pages": 3,
+    "text_chars": 11123
+  },
+  {
+    "set": "Development",
+    "filename": "BravatekSolutionsInc_20170418_8-K_EX-10.1_10205739_EX-10.1_Reseller Agreement.pdf",
+    "pdf": "documents/23.pdf",
+    "pdf_sha256": "fa0947b28a7ac9a78dcb1f47c6090a2a173cb66db62d92fa05f4d017918744af",
+    "text": "text/23.txt",
+    "text_sha256": "10f7487713aa311d201d9ca251b69523c64e3f7d6391bd2e6608a76f1bb888d7",
+    "pages": 8,
+    "text_chars": 18541
+  },
+  {
+    "set": "Development",
+    "filename": "HealthcareIntegratedTechnologiesInc_20190812_8-K_EX-10.1_11776966_EX-10.1_Reseller Agreement.pdf",
+    "pdf": "documents/24.pdf",
+    "pdf_sha256": "7c8b2686abcb9c1418b46b6c6972ed676272965fb4bedb91a84f4dffa353e14b",
+    "text": "text/24.txt",
+    "text_sha256": "78403945d65f8dbc46fd92f5495ef10bfcc2074ec9d5e395cbf354c3acc1c788",
+    "pages": 5,
+    "text_chars": 27706
+  },
+  {
+    "set": "Development",
+    "filename": "IpassInc_20181203_8-K_EX-99.1_11445874_EX-99.1_Reseller Agreement.pdf",
+    "pdf": "documents/25.pdf",
+    "pdf_sha256": "c1eb7b17df6592490e5ec9a13f5356d52026f0fb86ab37bf6839cb0b4b10d105",
+    "text": "text/25.txt",
+    "text_sha256": "2ddbb997704d943af3b31cc5a783631710c28fd3ff9dfd4687b7f9e80814786b",
+    "pages": 22,
+    "text_chars": 82171
+  },
+  {
+    "set": "Development",
+    "filename": "IntegrityFunds_20200121_485BPOS_EX-99.E UNDR CONTR_11948727_EX-99.E UNDR CONTR_Service Agreement.pdf",
+    "pdf": "documents/26.pdf",
+    "pdf_sha256": "594765b113dee282b0daccfdf0e3402cce747d7012fb4ab9915382232fd1363a",
+    "text": "text/26.txt",
+    "text_sha256": "547ffc3309c02e160b967869ee10b639096b39e650093491d149be4cf4549056",
+    "pages": 8,
+    "text_chars": 24396
+  },
+  {
+    "set": "Development",
+    "filename": "AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement.pdf",
+    "pdf": "documents/27.pdf",
+    "pdf_sha256": "623d1896671b5e948c55988edc44cdd74d0a3e0056e54aa3a266ff4b1480bfb0",
+    "text": "text/27.txt",
+    "text_sha256": "57ac85e231f0878384e789db51ab3e22b21f306bb53f414cbb31e38bd1226f72",
+    "pages": 13,
+    "text_chars": 25509
+  },
+  {
+    "set": "Development",
+    "filename": "PenntexMidstreamPartnersLp_20150416_S-1A_EX-10.4_9042833_EX-10.4_Transportation Agreement.pdf",
+    "pdf": "documents/28.pdf",
+    "pdf_sha256": "2a5f3c4f00225f134976c2ca5a5a1923bb02a679a772a942792c45c77f978047",
+    "text": "text/28.txt",
+    "text_sha256": "0b6ad150243f358793c4472b821c960406e6078739752a5814995f3982d98cf8",
+    "pages": 20,
+    "text_chars": 56764
+  },
+  {
+    "set": "Development",
+    "filename": "RangeResourcesLouisianaInc_20150417_8-K_EX-10.5_9045501_EX-10.5_Transportation Agreement.pdf",
+    "pdf": "documents/29.pdf",
+    "pdf_sha256": "9ae3b024ee3a9d07bdd4bfc07df6a0da1e2aeddf735dbf8a0251543268d4052c",
+    "text": "text/29.txt",
+    "text_sha256": "4e4d3869142d5d6be4f1f6da71ec6e60f8059b54f2bab6bef113facdcad5b017",
+    "pages": 40,
+    "text_chars": 119472
+  },
+  {
+    "set": "Development",
+    "filename": "NETGEAR,INC_04_21_2003-EX-10.16-DISTRIBUTOR AGREEMENT.pdf",
+    "pdf": "documents/30.pdf",
+    "pdf_sha256": "2f83b02d99c36b40263984bf145f8401e104c6e406b73422bd3ba7c2f3e90fee",
+    "text": "text/30.txt",
+    "text_sha256": "d73a3bc629c28060d379b6053a092403cca2d5b669dee4eee0e892d8389e36d6",
+    "pages": 8,
+    "text_chars": 41668
+  },
+  {
+    "set": "Development",
+    "filename": "HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT (1).pdf",
+    "pdf": "documents/31.pdf",
+    "pdf_sha256": "a55ca7b2dca2d31487beb2e8022a49449a8f637a5e2c5933441e768e80546a80",
+    "text": "text/31.txt",
+    "text_sha256": "5de8657c5381717f12df330a1f2cd9c52b895922bd663e67bc005dcbd6c57bda",
+    "pages": 33,
+    "text_chars": 149500
+  },
+  {
+    "set": "Development",
+    "filename": "KUBIENT,INC_07_02_2020-EX-10.14-MASTER SERVICES AGREEMENT_Part1.pdf",
+    "pdf": "documents/32.pdf",
+    "pdf_sha256": "be3353c0e7564af58fb4039cf12e83254ba0ed97c0f8ca00cfe04be17f1f4835",
+    "text": "text/32.txt",
+    "text_sha256": "39059a74ea6933e6574f1dc723c3efee57006ce2615db6f2bf40e573cab5a886",
+    "pages": 5,
+    "text_chars": 26361
+  },
+  {
+    "set": "Development",
+    "filename": "NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_Amendment.pdf",
+    "pdf": "documents/33.pdf",
+    "pdf_sha256": "0cf1bb6b2d36c3bd989e23402718206c2fc7c9aa5e58b98f54aa90b20e194978",
+    "text": "text/33.txt",
+    "text_sha256": "05e95ddb76d9ef91607a3cdd9142d1f202005e16460b9acd74e7d654b079b99c",
+    "pages": 5,
+    "text_chars": 22022
+  },
+  {
+    "set": "Development",
+    "filename": "NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_New.pdf",
+    "pdf": "documents/34.pdf",
+    "pdf_sha256": "259c057c3177899d1cdf70fd77212537c07c8f31414ddd3bad21e8f5937e3e50",
+    "text": "text/34.txt",
+    "text_sha256": "57de2b45b2a5cbb1c49d53208e71c93c09f1a0662da0bdd28c28d1a85b71e8bf",
+    "pages": 12,
+    "text_chars": 61570
+  }
+]

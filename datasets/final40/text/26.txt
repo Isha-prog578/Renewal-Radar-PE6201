@@ -1,0 +1,103 @@
+[PDF page 1]
+N01_managed_portfolio | HTML reading copy
+Page 1
+City National Rochdale – SEI Administration
+Amendment
+Reading copy of a publicly filed HTML contract exhibit. Original HTML is enclosed. Page numbers below belong to this reading
+copy.
+https://www.sec.gov/Archives/edgar/data/1690996/000139834426009980/fp0098949-1_ex99252k2iii.htm
+EX-99.25
+2
+fp0098949-1_ex99252k2iii.htm
+Amendment no. 2 to
+ADMINISTRATION AGREEMENT
+THIS AMENDMENT NO. 2 TO ADMINISTRATION AGREEMENT (this
+“Amendment”), is made this 25th day of November, 2025 (the “Amendment Effective Date”),
+by and between City National Rochdale Select Strategies Fund, a statutory trust incorporated/formed under the
+laws of Delaware (the “Trust”),
+and SEI Investments Global Funds Services, a statutory trust formed under the laws of the State of Delaware (the
+“Administrator”).
+WHEREAS:
+| | A. | The Trust and Administrator entered into an Administration Agreement dated on or around March 1, 2017
+(the “Agreement”), as amended, pursuant to which, among other things, Administrator agreed to provide certain
+administration
+services on behalf of the Funds; and
+| | B. | The parties hereto desire to amend the Agreement on the terms and subject to the conditions provided
+herein.
+NOW THEREFORE, in consideration of the premises, covenants,
+representations and warranties contained herein and intending to be legally bound hereby, the parties hereto
+agree as follows:
+| | 1. | Defined Terms. Except as specifically
+set forth herein, defined terms used herein shall have their respective meanings as set forth in the Agreement.
+| | 2. | Section 9.01 (Term and Renewal). Section 9.01 (Term and Renewal) of the Agreement is hereby deleted in
+its entirety and replaced
+with the following:
+| | 9.01 | Term and Renewal. This Agreement shall become effective as of the Effective Date and shall remain
+in effect through and until March 31, 2028 (the “Initial Term”), and thereafter shall automatically renew for
+successive
+two year terms (each such period, a “Renewal Term”) unless terminated by any party giving written notice of
+non-renewal
+at least one hundred eighty days prior to the last day of the then current term to each other party hereto.
+| | 3. | New Section 9.02.04. A new Section 9.02.04 of the Agreement is hereby added to the Agreement as follows:
+
+
+[PDF page 2]
+N01_managed_portfolio | HTML reading copy
+Page 2
+| | 9.02.04 | Notwithstanding anything contained in this Agreement to the contrary, this Agreement may be
+terminated
+with respect to the Trust by either party, without the payment of any penalty, giving sixty (60) days prior notice in
+writing to the other
+party prior to the Liquidation (as hereinafter defined) of the Trust. For purposes of this paragraph, the term
+“Liquidation”
+shall mean a transaction in which all the assets of the Trust are sold or otherwise disposed of and proceeds there
+from are distributed
+in cash to the Interest holders in complete liquidation of the Interests of the Trust. A termination pursuant to this
+Section 9.02.04
+shall be effective as of the date of such Liquidation. Notwithstanding the foregoing, the right to terminate set forth
+in this Section
+9.02.04 shall not relieve the liquidating Trust of its obligation to pay the fees set forth on Schedule III for the
+remainder of
+the sixty (60) day period set forth in this Section 9.02.04, which amount shall be payable prior to the effective date
+of such Liquidation.
+| | 4. | Ratification of Agreement. Except
+as expressly amended and provided herein, all of the terms, conditions and provisions of the Agreement are
+hereby ratified and shall continue
+in full force and effect.
+| | 5. | Counterparts. This Amendment may
+be executed in two or more counterparts, all of which shall constitute one and the same instrument. Each such
+counterpart shall be deemed
+an original, and it shall not be necessary in making proof of this Amendment to produce or account for more than
+one such counterpart.
+This Amendment shall be deemed executed by each party when any one or more counterparts hereof or thereof,
+individually or taken together,
+bears the original, facsimile or scanned signatures of each of the parties.
+| | 6. | Binding Effect. This Amendment shall be binding upon, and shall inure to the benefit of the Administrator
+and the Funds and each of their respective permitted successors and assigns.
+| | 7. | Governing Law. This Amendment shall be governed by and construed in accordance with the laws of
+the Commonwealth of Pennsylvania without giving effect to any conflict of laws or choice of laws rules or principles
+thereof.
+IN WITNESS WHEREOF, the parties hereto have executed
+and delivered this Amendment as of the Amendment Effective Date.
+ADMINISTRATOR:
+TRUST:
+SEI INVESTMENTS GLOBAL FUNDS
+SERVICES
+CITY NATIONAL ROCHDALE SELECT STRATEGIES FUND
+| By:
+
+
+[PDF page 3]
+N01_managed_portfolio | HTML reading copy
+Page 3
+| /s/ Sean Lawlor
+| By:
+| /s/ Frank Bonsignore
+| Name:
+| Sean Lawlor
+| Name:
+| Frank Bonsignore
+| Title:
+| Vice President
+| Title:
+| Vice President & Secretary

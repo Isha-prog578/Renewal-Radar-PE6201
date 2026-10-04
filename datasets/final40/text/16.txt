@@ -1,0 +1,578 @@
+[PDF page 1]
+E01_hofv | HTML reading copy
+Page 1
+Hall of Fame Village – Global License
+Reading copy of a publicly filed HTML contract exhibit. Original HTML is enclosed. Page numbers below belong to this reading
+copy.
+https://www.sec.gov/Archives/edgar/data/1708176/000121390024079452/ea021440601ex10-1_halloffame.htm
+EX-10.1
+2
+ea021440601ex10-1_halloffame.htm
+AMENDED AND RESTATED GLOBAL LICENSE AGREEMENT, DATED SEPTEMBER 11, 2024, BETWEEN HOF VILLAGE
+NEWCO, LLC, AND NATIONAL FOOTBALL MUSEUM, INC
+Exhibit 10.1
+AMENDED AND RESTATED GLOBAL
+LICENSE AGREEMENT
+THIS AMENDED AND RESTATED GLOBAL
+LICENSE AGREEMENT (this “Agreement”) is made as of this 11th day of September 2024, which is also
+the date of the last signature hereto (the “Effective Date”), between NATIONAL FOOTBALL MUSEUM, INC.,
+an Ohio non-profit corporation, doing business as Pro Football Hall of Fame (hereinafter “PFHOF”) and HOF
+VILLAGE NEWCO, LLC, a Delaware limited liability company (hereinafter “HOFV”), each a “Party”
+and collectively, the “Parties”, and amends, restates, replaces, and supersedes in its entirety that certain
+Global License Agreement between NATIONAL FOOTBALL MUSEUM, INC., an Ohio non-profit corporation, doing
+business as Pro Football Hall of
+Fame, and HOF VILLAGE NEWCO, LLC, a Delaware limited liability company, dated April 8, 2022 (“Original Global
+Agreement”).
+RECITALS
+| | A. | Certain disputes have arisen between the Parties related to the Original Global Agreement including HOFV’s
+non-payment of the Annual License Fee in the amount of $600,000.
+| | B. | PFHOF has conditioned its willingness to waive non-payment of the Annual License Fee in the amount of
+$600,000 based on HOFV’s execution of this Agreement.
+| | C. | The Parties have determined that it is appropriate and in each of the Parties’ best interest to
+amend, restate, replace, and supersede the Original Global Agreement in its entirety with this Agreement.
+AGREEMENT
+NOW THEREFORE, based upon the foregoing and other
+good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, and intending to
+be legally bound hereby,
+the Parties agree as follows:
+| | 1. | DEFINITIONS
+| | 1.1 | “Affiliate” with respect to a Party shall mean any entity that is directly or
+
+
+[PDF page 2]
+E01_hofv | HTML reading copy
+Page 2
+indirectly controlled by, or is under common control with that Party. For purposes of this definition of Affiliate,
+“control”
+means an equity or income interest of fifty percent (50%) or more, or the possession of the power, directly or
+indirectly, to direct or
+cause the direction of the management and policies of the Affiliate, whether through the ownership of voting
+securities, by contract,
+or otherwise.
+| | 1.2 | “Exploit” or “Exploitation” means, except as set forth
+in this Agreement, to reproduce, distribute, digitally transmit, publish, publicly perform or otherwise display via
+any and all means
+of video or audio-visual media, or other means of distribution, as to manner, frequency or duration of use
+including, but not limited
+to: film, television, streaming, short-form streaming, social media, SVOD, IVOD, pay per view, OTT, physical media,
+theatrical professional/non-professional
+productions, location based entertainment, music, publishing (both physical and digital), holographic mediums,
+projection mapping, haptic
+mediums, non-fungible tokens, as well as any marketing, advertising, and promotional activities thereof in any
+medium currently existing
+or hereinafter created.
+| | 1.3 | “Information” means any and all ideas, concepts, data, know-how, discoveries,
+improvements, methods, techniques, technologies, systems, specifications, analyses, products, practices,
+processes, procedures, protocols,
+research, tests, trials, assays, controls, prototypes, formulas, descriptions, formulations, submissions,
+communications, skills, experience,
+knowledge, plans, objectives, algorithms, reports, results, conclusions and other information and materials,
+irrespective of whether or
+not copyrightable or patentable and in any form or medium (tangible, intangible, oral, written, electronic,
+observational or other) in
+which such Information may be communicated or subsist. Without limiting the foregoing sentence, Information
+includes any technological,
+engineering, manufacturing, scientific, business, legal, patent, organizational, commercial, operational, or financial
+materials or information.
+| | 1.4 | “Intellectual Property” means all patentable and un-patentable inventions, mask
+works, works of authorship or expression and their derivatives, including computer programs, data collections and
+databases, and trade
+secrets, and other Information, as well as any trademarks, trade dress, and any goodwill relating thereto.
+| | 1.5 | “Jointly Developed Intellectual Property” means all Intellectual Property authored,
+made, invented, developed, created, conceived, or reduced to practice jointly by the parties after the Effective
+Date as a result of joint-development
+sessions in which each Party materially contributes, and which incorporates aspects of both Intellectual Property of
+HOFV and Intellectual
+
+
+[PDF page 3]
+E01_hofv | HTML reading copy
+Page 3
+Property of PFHOF. For the avoidance of doubt, Jointly Developed Intellectual Property does not include derivative
+works or any enhancement,
+modification, adaptation or other improvement to Intellectual Property of HOFV and Intellectual Property of PFHOF,
+regardless of the source
+of such enhancement, modification, adaptation or other improvement.
+| | 1.6 | “Person” means any natural person, corporation, partnership, association, limited
+liability company, joint venture, trust, estate, joint stock company or other similar organization, government or
+political subdivision
+thereof, or any other entity.
+| | 1.7 | “PFHOF Marks” shall mean those trademarks, service marks, logos, and trade dress,
+owned by PFHOF, along with any registrations of the foregoing, and any amendments/modifications thereto, and
+any goodwill associated therewith
+as set forth in Exhibit A, as attached hereto and incorporated herein.
+2
+| | 1.8 | “PFHOF Works” or “PFHOF Work” shall mean the written,
+audio, visual, audiovisual, or choreographic works and their derivatives currently or hereafter owned by or freely
+sub-licensable by PFHOF.
+| | 1.9 | “President” shall mean James Arthur Porter or his successor(s), in his capacity
+as President of the National Football Museum, Inc.
+| | 1.10 | “Village” shall mean Hall of Fame Village located in Canton, Ohio, including
+but not limited to (i) Tom Benson Hall of Fame Stadium; (ii) Play Action Plaza; (iii) The Eleven, Hilton Tapestry
+Hotel; (iv) Constellation
+Center for Excellence; (v) Center for Performance; (vi) Hall of Fame Experience; (vii) Hall of Fame Water Park; (viii)
+Hall of Fame Retail
+Promenade (excluding tenants of the Hall of Fame Promenade); (ix) any and all parking facilities (both
+underground and surface); and (x)
+any and all additional components added therein, provided such components or additions are located in Canton,
+Ohio.
+| | 2. | GRANT OF RIGHTS - PFHOF MARKS AND PFHOF WORKS
+| | 2.1 | PFHOF Marks Use Rights on Request. If, during the Term, HOFV is considering a bona fide use of
+the PFHOF Marks in conjunction with (i) the Village, which for purposes of clarity shall include any hotel, restaurant,
+sports bar, or
+other similar general or specific location based entertainment within the Village campus, (ii) youth sports programs
+(excluding NFL-sponsored
+youth sports programs similar to those currently conducted in the City of Canton, Ohio using PFHOF Marks), (iii)
+e-gaming and/or video
+games, and (iv) such other fields of use that are not specifically set forth above (each use in connection with the
+categories (i) through
+(iv) shall be referred to individually as a “Proposed Project”), HOFV will promptly communicate such request
+for use of such PFHOF Marks in connection with a Proposed Project to representatives of PFHOF, and provide to
+PFHOF the specific terms,
+
+
+[PDF page 4]
+E01_hofv | HTML reading copy
+Page 4
+business plan, and any other relevant information requested by PFHOF relating to such Proposed Project. Following
+the receipt of such
+notice and information related to a Proposed Project, PFHOF shall have a period of fourteen (14) days (or such
+greater length of time
+which PFHOF believes is reasonably necessary under the circumstances) to review, consider, and accept such
+proposal from HOFV to use the
+PFHOF Marks in connection with a Proposed Project. The Parties acknowledge and agree that PFHOF has the
+absolute right to approve each
+Proposed Project, which approval will be in PFHOF’s sole, absolute, and subjective discretion. Upon PFHOF’s
+approval with
+respect to any such Proposed Project, HOFV (and its Affiliates and permitted licensees) may pursue the applicable
+approved Proposed Project
+so long as such use of the PFHOF Marks is in strict conformance with the Proposed Project as approved by PFHOF
+(including any proposed
+sublicenses in accordance with Section 2.3).
+3
+| | 2.2 | PFHOF Works License Rights on Request. If, during the Term, HOFV is considering a bona fide use
+to (a) Exploit the PFHOF Works and (b) edit, supplement or otherwise adapt, all subject to the approval of PFHOF
+(such approval shall
+be in the sole and absolute discretion of PFHOF ), incorporate or otherwise utilize, the PFHOF Works to create,
+produce and Exploit new,
+non-derivative original work(s) (each such non-derivative work in this clause (b), a “HOFV Work”) HOFV will
+promptly communicate such request for use of such PFHOF Works in connection with a HOFV Work to
+representatives of PFHOF, and provide
+to PFHOF the specific terms, business plan, and any other relevant information requested by PFHOF relating to
+such HOFV Work. Following
+the receipt of such notice and information related to a HOFV Work, PFHOF shall have a period of fourteen (14) days
+(or such greater length
+of time which PFHOF believes is reasonably necessary under the circumstances) to review, consider, and accept
+such proposal from HOFV
+to use the PFHOF Works in connection with a HOFV Work. The Parties acknowledge and agree that PFHOF has the
+absolute right to approve
+each use of the PFHOF Works in connection with the HOFV Work, which approval will be in PFHOF’s sole, absolute,
+and subjective discretion.
+Upon PFHOF’s approval with respect to any such use of the PFHOF Works in connection with the HOFV Work, HOFV
+(and its Affiliates
+and permitted licensees) may pursue the applicable approved use of the PFHOF Works in connection with the
+HOFV Work so long as such use
+of the PFHOF Works is in strict conformance with the proposed use of the PFHOF Works in connection with the
+HOFV Work. Any HOFV Works
+created pursuant to this Agreement shall exclusively be owned by HOFV or its Affiliates; provided, however, that,
+(i) PFHOF
+
+
+[PDF page 5]
+E01_hofv | HTML reading copy
+Page 5
+shall own all right, title, interest, and copyright in and to the underlying PFHOF Works, and (ii) HOFV and its
+Affiliates ownership is
+subject in all events to any rights restrictions and the terms of the license (including the term of such license)
+granted by PFHOF in
+connection with such HOFV Work. Notwithstanding the foregoing, to the extent any HOFV Work incorporates any
+HOFV trademarks, service marks,
+or trade dress (“HOFV Trademarks”), use of such HOFV Trademarks shall inure solely to HOFV’s benefit.
+PFHOF shall not, and shall cause its Affiliates, whether during the Term or thereafter, challenge (a) the rights of
+HOFV in and to any
+HOFV Work, (b) the validity of any HOFV Work, (c) HOFV’s right to grant rights or licenses relating to the HOFV
+Works, (d) the validity
+and HOFV’s right to any HOFV Trademarks, and (e) the validity, legality, or enforceability of this Agreement.
+| | 2.3 | Restriction Further Uses. If, in connection with a license grant in Section 2.1 or 2.2, HOFV or
+its Affiliates want to use the PFHOF Marks or PFHOF Works on websites, packaging materials, marketing,
+advertising, and promotional activities
+including HOFV- or Affiliate-controlled social media, HOFV or Affiliate mobile apps, and in HOFV’s and its Affiliates’
+online
+and offline marketing materials, packaging materials, and communications, HOFV shall specifically request such
+use(s) as part of its request
+under Section 2.1 or Section 2.2, which uses must be explicitly described with all relevant information. The Parties
+acknowledge and agree
+that PFHOF has the absolute right to approve each use described in this Section 2.3, which approval will be in
+PFHOF’s sole, absolute,
+and subjective discretion.
+4
+| | 2.4 | Sublicensing. The license granted
+in Section 2.1 or Section 2.2 may only be sublicensed with respect to a Proposed Project
+or proposed approved use of the PFHOF Works provided that such sublicensee has been preapproved
+in writing by PFHOF (which shall include any material changes or modifications to any previously
+approved Proposed Project or use of the PFHOF Works). The Parties acknowledge and agree that
+PFHOF has the absolute right to approve each sublicensee, which approval will be in PFHOF’s
+sole, absolute, and subjective discretion. Further, as part of the approval of a particular
+sublicensee, (i) HOFV shall provide
+to PFHOF such background, financial and other information available to HOFV related to each
+sublicensee as PFHOF may request; (ii) HOFV and its Affiliates shall cause each such
+sublicensee to comply with all terms and conditions of this Agreement; and (iii) neither
+HOFV nor its Affiliates shall be relieved of any of its obligations under this Agreement
+as a result of any such sublicense, and will be primarily responsible for any acts or omissions
+of each such sublicensees in connection with any such project.
+| | 2.5 | Indemnity.
+
+
+[PDF page 6]
+E01_hofv | HTML reading copy
+Page 6
+| | (a) | HOFV agrees to indemnify, defend, and hold harmless PFHOF, its Affiliates, and their respective employees,
+officers, directors, agents, representatives, and successors and assigns from and against any and all claims,
+demands, liabilities, losses,
+suits, damages, costs (including, without limitation, costs of investigation), and expenses, including reasonable
+attorneys’ fees,
+arising out of or related to HOFV’s, its Affiliates’, or its sublicensees’ (i) use of the PFHOF Marks or PFHOF Works,
+(ii) any breach by HOFV of any covenant, warranty, representation, obligation, or agreement made under this
+Agreement, or (iii) any claim
+of infringement of any intellectual property right arising out of the misuse or misappropriation of the PFHOF Marks
+or PFHOF Works.
+| | (b) | PFHOF agrees to indemnify, defend, and hold harmless HOFV, its Affiliates, and their respective employees,
+officers, directors, agents, representatives, and successors and assigns from and against any and all claims,
+demands, liabilities, losses,
+suits, damages, costs (including, without limitation, costs of investigation), and expenses, including reasonable
+attorneys’ fees,
+arising out of or relating to (i) HOFV’s or its Affiliates’ authorized use of the PFHOF Works, as permitted by, and in
+accordance
+with, the terms of this Agreement, (ii) any breach by PFHOF of any warranty, representation, obligation, or
+agreement made under this
+Agreement, or (iii) PFHOF’s use of the HOFV Works in breach of this Agreement, or any claim of infringement of
+any intellectual
+property right arising out of the misuse or misappropriation of the HOFV Works by PFHOF.
+5
+| | 2.6 | Limitations; Restrictions on Use; Non-Disparagement.
+| | (a) | Except for the rights granted under this Agreement in connection with a Proposed Project that has been
+approved by PFHOF under Section 2.1 or use of the PFHOF Works as approved under Section 2.2, HOFV and its
+Affiliates hereby acknowledge
+and agree that neither HOFV nor its Affiliates have any right, title, interest, or ownership in and to the PFHOF Marks
+or the PFHOF Works,
+and further agree that they will not claim any right, title, interest, or ownership in or to any of the PFHOF Marks or
+PFHOF Works. HOFV
+and its Affiliates agree not to challenge the validity of the PFHOF Marks or PFHOF Works. Further, HOFV and its
+Affiliates acknowledge
+and agree that PFHOF is the sole and exclusive owner of the PFHOF Marks and PFHOF Works and of all associated
+federal registrations and
+pending registrations and that HOFV and its Affiliates shall do nothing inconsistent with such ownership. All rights
+not expressly granted
+by PFHOF are hereby expressly reserved by PFHOF.
+| | (b) | HOFV and its Affiliates shall not disparage or in any way portray the PFHOF Marks or PFHOF Works in a
+negative light. HOFV and its Affiliates shall use all reasonable endeavors to ensure that in exercising their rights
+and carrying out
+
+
+[PDF page 7]
+E01_hofv | HTML reading copy
+Page 7
+their obligations under this Agreement they do nothing to injure, bring into disrepute, ridicule, or lessen the public
+reputation, goodwill,
+or favorable image of PFHOF. HOFV and its Affiliates shall not modify, alter, or change the PFHOF Marks or PFHOF
+Works in any manner.
+Upon request, PFHOF may request, and HOFV and its Affiliates must provide, samples of goods and advertisements
+for services offered under
+the PFHOF Marks or PFHOF Works for PFHOF’s inspection, review, and approval.
+| | (c) | HOFV and its Affiliates shall not use the PFHOF Marks or PFHOF Works except as expressly agreed pursuant
+to and in connection with a Proposed Project that has been approved by PFHOF under Section 2.1 or use of the
+PFHOF Works under Section
+2.2. HOFV and its Affiliates further agree that they shall not assign or otherwise transfer their rights to the PFHOF
+Marks or PFHOF Works
+under this Agreement to any other party whatsoever.
+| | 3. | JOINTLY DEVELOPED INTELLECTUAL PROPERTY
+All Jointly Developed Intellectual
+Property, whether or not patentable or copyrightable , shall be owned by PFHOF. The Parties shall only file
+applications directed to any
+Jointly Developed Intellectual Property upon mutual agreement of the Parties and only if such applications name
+both Parties as joint
+owners. In such event, the Parties agree to share equally in the costs of obtaining and maintaining such
+applications (both U.S. and foreign)
+and any issued patents and copyrights. The Parties agree to cooperate in determining whether to prepare and
+execute documents necessary
+to effect such patent and copyright filings, including where and if to foreign file. In the event of such Jointly
+Developed Intellectual
+Property, the Parties agree to negotiate in good faith regarding the commercialization of such Jointly Developed
+Intellectual Property,
+and agree further that neither Party shall have the right to make, to have made, use, sell, have sold, export and
+import products using
+or incorporating such Jointly Developed Intellectual Property or exploit such Jointly Developed Intellectual Property
+without the other
+Party’s written consent. The Parties agree to negotiate such commercialization and exploitation terms in good
+faith, taking into
+account their relative contributions to the development of the Jointly Developed Intellectual Property and the
+standards of the industry.
+6
+| | 4. | PRIOR NOTICE WITH REGARD TO HALL OF FAMERS
+To the extent HOFV or its
+Affiliates wish to communicate with those individuals inducted into the Pro Football Hall of Fame, HOFV shall give
+the President advanced
+written notice of their intentions to communicate with such parties.
+| | 5. | TERM AND TERMINATION
+
+
+[PDF page 8]
+E01_hofv | HTML reading copy
+Page 8
+| | 5.1 | Unless otherwise terminated as provided herein, the term of this Agreement shall commence on the
+Effective
+Date and shall terminate on December 31, 2024 (“Term”). Thereafter, the Agreement shall automatically renew
+for successive 1-year terms (each a “Term”), unless either Party gives written notice to the other Party of
+intent not to renew at least sixty (60) days prior to the expiration of the then current Term.
+| | 5.2 | Either Party shall have the right to terminate this Agreement at any time for an uncured material breach
+by the other Party, provided that the non-breaching Party provides prior written notice to the breaching Party,
+specifying the alleged
+material breach, and further provided that the breaching Party shall have fifteen (15) days after receipt of such
+notice to cure the material
+breach, to the reasonable satisfaction of the non-breaching Party.
+| | 5.3 | Either Party may terminate this Agreement immediately upon giving notice if the other Party ceases to
+conduct its operation in the normal course of business, including the inability to meet its obligations as they
+mature, or if any proceeding
+under the bankruptcy or insolvency laws is brought by or against the other Party, or a receiver or custodian is
+appointed or applied for
+by the other Party, or an assignment for the benefit of creditors or a sale or transfer of all or substantially all of its
+assets/property
+is made by the other Party.
+| | 5.4 | Upon the expiration or termination of this Agreement, the rights and obligations of the Parties under
+this Agreement shall be terminated, except as provided herein. Upon termination, HOFV and its Affiliates and
+sublicensees shall immediately
+cease any and all use of the PFHOF Marks and shall return all PFHOF Marks to PFHOF, and destroy any copies
+made.
+7
+| | 6. | FEES.
+In
+connection with any Proposed Project approved by PFHOF or use of any PFHOF Work as approved by PFHOF, HOFV
+and PFHOF shall mutually agree
+on the license fee and/or royalty to be paid to PFHOF in connection with such approved Proposed Project or use of
+any PFHOF Work taking
+into consideration all relevant factors and uses thereof. For the avoidance of doubt, upon execution of this
+Agreement PFHOF expressly
+waives HOFV’s non-payment of the Annual License Fee in the amount of $600,000 for 2024.
+| | 7. | FORCE MAJEURE
+In the event either Party
+is unable to comply fully with its obligations (other than payment obligations) under this Agreement because of
+laws, strikes, catastrophe,
+drought, shortage of water or other action of the elements, temporary or permanent shutdown due to regulatory or
+other governmental actions,
+
+
+[PDF page 9]
+E01_hofv | HTML reading copy
+Page 9
+or Acts of God or other matters beyond its control, such Party shall, while so affected, be relieved to the extent
+thus prevented from
+performing its obligations hereunder but in such event shall take reasonable measures to remove the disability
+and resume full performance
+hereunder at the earliest possible date.
+| | 8. | INSURANCE
+HOFV represents and warrants
+that it carries and maintains a policy of: (a) Commercial General Liability insurance and (b) Errors and Omissions
+Insurance (including,
+without limitation, Media Liability insurance). Each of the foregoing insurance policies shall have limits of no less
+than two million
+dollars ($2,000,000) per occurrence and in the aggregate. Such policies shall name PFHOF and its Affiliates as
+additional insureds on
+a primary and non-contributory basis thereunder and require the insurance company to endeavor to give the
+additional insured of at least
+thirty (30) days’ prior written notice of any cancellation thereof. HOVF agrees to furnish PFHOF with certificates of
+insurance
+evidencing the foregoing insurance coverage, upon written request. Such policy or policies shall be maintained
+with reputable insurers
+licensed to write such insurance in the State of Ohio and which are rated not lower than A-, VII by A.M. Best. The
+required policy limits
+can be provided by a combination of primary and excess liability satisfactory to PFHOF.
+| | 9. | GENERAL PROVISIONS
+| | 9.1 | Confidentiality.
+| | (a) | “Confidential Information” means all forms of confidential information, including
+technical information and business information, disclosed by one Party or its Affiliates (the “Disclosing Party”)
+to the other Party or its Affiliates (the “Receiving Party”) during the Term in connection with this Agreement,
+that is identified or marked as confidential or is information that is of a nature that is customarily regarded as
+confidential, whether
+disclosed in electronic, tangible, oral, or visual form; provided that oral or visual disclosures shall be deemed
+confidential only if
+they are confirmed as confidential in writing by the Disclosing Party prior to or at the time of disclosure or within
+thirty (30) days
+thereafter, or if the Receiving Party should reasonably know that such visual or oral disclosures are intended to be
+confidential. Confidential
+Information shall not include such information that: (i) as of the date of disclosure is known to the Receiving Party
+or its Affiliates,
+as shown by written documentation; (ii) was independently developed by the Receiving Party or its Affiliates
+without access to the Disclosing
+Party’s Confidential Information; (iii) as of the date of disclosure is in, or subsequently enters, the public domain,
+through no
+
+
+[PDF page 10]
+E01_hofv | HTML reading copy
+Page 10
+fault of the Receiving Party; or (iv) as of the date of disclosure or thereafter is obtained from a third party free from
+any obligation
+of confidentiality to the Disclosing Party.
+8
+| | (b) | Each Receiving Party agrees: (i) not to disclose, make public, or authorize any disclosure or publication
+of such Confidential Information of the Disclosing Party except as expressly permitted herein; (ii) to take
+reasonable measures to protect
+the confidentiality of the Disclosing Party’s Confidential Information exercising the same degree of care to
+preserve and safeguard
+the Disclosing Party’s Confidential Information as it uses to preserve and safeguard its own Confidential
+Information, but in no
+event less than a reasonable degree of care; (iii) to restrict access to such Confidential Information to only those
+officers, directors,
+or employees of the Receiving Party or its Affiliates or representatives who have a need to know such Confidential
+Information and who
+are bound by confidentiality obligations at least as restrictive as those contained in this Agreement; and (iv) not to
+remove any confidential
+or proprietary markings or designations placed by the Disclosing Party on such Confidential Information. The
+Receiving Party and its Affiliates
+shall not use the Disclosing Party’s Confidential Information for any purpose except as permitted by this
+Agreement.
+| | (c) | The confidentiality obligations contained herein shall not apply to the extent that the Receiving Party
+is required to disclose the information by law, order, or regulation of a governmental agency or a court of
+competent jurisdiction; provided
+that, in each such case, the Receiving Party shall give written notice thereof to the Disclosing Party and sufficient
+opportunity to prevent
+or limit any such disclosure or to request confidential treatment thereof; and provided further, that the Receiving
+Party shall give reasonable
+assistance to the Disclosing Party to preserve the information as confidential.
+| | (d) | Upon termination of this Agreement, each Receiving Party shall return to the Disclosing Party (or at the
+Disclosing Party’s direction, destroy) all Confidential Information of the Disclosing Party that is in the possession,
+custody,
+or control of the Receiving Party. HOFV shall be permitted to retain copies of PFHOF’s Confidential Information as
+necessary to
+allow HOFV to exercise its post-termination rights with respect to such information.
+9
+| | (e) | Each Party acknowledges that a breach or threatened breach of this Section on its part shall result in
+irreparable and incalculable damages to the other Party. Therefore, in addition to any action by either Party for
+collection of damages
+resulting from the breach of this Agreement, such Party shall also be entitled to immediate injunctive relief,
+restraining the other Party
+
+
+[PDF page 11]
+E01_hofv | HTML reading copy
+Page 11
+from continued or threatened breach of this Agreement. Each Party further agrees that, upon a finding of a breach
+of the terms of this
+Agreement on its part, such Party shall pay to the other Party the costs and expenses, including reasonable
+attorneys’ fees, which
+the other Party incurs in enforcing the terms of this Agreement.
+| | 9.2 | Notices. Any notice required or permitted by this Agreement will be in writing and delivered as
+follows with notice deemed given as indicated: (i) by personal delivery when delivered personally; (ii) by overnight
+courier upon written
+verification of receipt; (iii) by telecopy or facsimile transmission upon acknowledgement of receipt of electronic
+transmission; or (iv)
+by certified or registered mail, return receipt requested, upon verification of receipt. Notice will be sent to the
+appropriate address
+set forth below or such other address as to which the Parties have been notified hereunder.
+| | 9.3 | Compliance with Laws and Regulations. Each of HOFV, PFHOF, and their respective Affiliates as applicable,
+agrees to be in material compliance with all federal, state, and local laws, ordinances, and regulations applicable
+to its respective
+operations and to obtain and maintain all licenses and permits required by law necessary for each of their
+respective operations.
+| | 9.4 | Governing Law and Arbitration.
+| | (a) | This Agreement will be governed in all respects by the laws of the State of Ohio (without regard to conflicts
+of law provisions), as such laws are applied to agreements entered into and to be performed entirely within the
+State of Ohio between
+Ohio residents.
+| | (b) | Any dispute between the Parties concerning the scope or interpretation of this Agreement shall be
+submitted
+to binding arbitration in accordance with the Rules of Commercial Arbitration of the American Arbitration
+Association in effect on the
+date that a dispute is submitted to arbitration (the “Rules”). The arbitration shall be held in Canton, Ohio,
+and shall be before a panel of three arbitrators, one chosen by each of the Parties and a third chosen by the two
+arbitrators so chosen
+by the Parties. Not less than fifteen (15) days prior to the arbitration, each Party shall submit to the other the
+documents and a list
+of witnesses it intends to interview or call in the arbitration. The arbitrators shall apply the substantive law of the
+State of Ohio
+with regard to any dispute that becomes the subject of arbitration, and the arbitrators will be so instructed. The
+arbitrators shall issue
+a written opinion stating the findings of fact and the conclusions of law upon which the decision is based. The
+decision of the arbitrators
+shall be final and binding.
+10
+| | (c) | In any action, suit, proceeding, claim, or counterclaim brought to enforce this Agreement or any of its
+
+
+[PDF page 12]
+E01_hofv | HTML reading copy
+Page 12
+provisions, the Party that prevails in any such action, suit, proceeding, claim, or counterclaim (the “Prevailing
+Party”)
+shall recover its costs, fees, and expenses, including, but not limited to, the reasonable costs, fees, and expenses
+of attorneys and
+outside experts (collectively, “Expenses”), from the other Party (the “Non-Prevailing Party”),
+and the court or arbitration panel shall be so instructed to determine which Party is the Prevailing Party, to grant
+the recovery of the
+Expenses incurred by the Prevailing Party, and to order the Non-Prevailing Party to pay the Expenses of the
+Prevailing Party.
+| | 9.5 | Severability. Should any provision of this Agreement be held by a court of competent jurisdiction
+to be illegal, invalid, or unenforceable, the legality, validity, and enforceability of the remaining provisions of this
+Agreement will
+not be affected or impaired thereby.
+| | 9.6 | Waiver. The waiver by either Party of a breach of any provision of this Agreement by the other
+Party will not operate or be construed as a waiver of any other or subsequent breach by such other Party.
+| | 9.7 | Authority. Each Party warrants and represents that such Party’s execution and delivery of
+this Agreement has been duly authorized by proper corporate or limited liability company action and that this
+Agreement is a binding obligation
+of such Party enforceable in accordance with its terms.
+| | 9.8 | Independent Contracting Parties. The Parties are independent contracting parties and nothing in
+this Agreement shall make either Party the agent or legal representative of the other for any purpose whatsoever,
+nor does it grant either
+Party the authority to assume or create any obligation on behalf of or in the name of the other. Furthermore, the
+Parties shall remain
+separate and independent contracting parties and nothing in this Agreement shall make either Party subject to a
+joint venture agreement
+or other mutual arrangement between the Parties.
+| | 9.9 | Assignment. Neither Party may assign this Agreement or any interest herein, by operation of law
+or otherwise, without the prior written consent of the other Party.
+| | 9.10 | Frustration of Purpose. Neither Party shall avoid or seek
+to avoid the observance or performance of any of the terms to be observed or performed by it under this
+Agreement, but shall at all times
+in good faith cooperate in the carrying out of all the provisions of this Agreement.
+| | 9.11 | Entire Agreement. This Agreement constitutes the entire agreement between the Parties relating
+to this subject matter and supersedes all prior or contemporaneous oral or written agreements concerning such
+subject matter, including
+the Original License Agreement, First Amended and Restated License Agreement, and the Amended and Restated
+Media License Agreement. This
+Agreement may be changed only by mutual agreement of the Parties in writing.
+[signature page follows]
+
+
+[PDF page 13]
+E01_hofv | HTML reading copy
+Page 13
+11
+IN WITNESS WHEREOF, PFHOF
+and HOFV have caused this Agreement to be executed by their respective, duly authorized representatives,
+effective as of the Effective
+Date.
+| NATIONAL FOOTBALL MUSEUM, INC.
+| By:
+| /s/ James A. Porter
+| James A. Porter
+| President
+| Date:
+| September 11, 2024
+| Address:
+| 2121 George Halas Drive NW
+| Canton, Ohio 44708
+| HOF VILLAGE NEWCO, LLC
+| By:
+| /s/ Michael Crawford
+| Michael Crawford
+| President and Chief Executive Officer
+| Date:
+| September 11, 2024
+| Address:
+| 2626 Fulton Drive NW
+| Canton, Ohio 44718
+12
+Exhibit A
+PFHOF Marks
+13

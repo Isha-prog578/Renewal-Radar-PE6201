@@ -1,0 +1,82 @@
+[PDF page 1]
+N02_pacific_select | HTML reading copy
+Page 1
+Pacific Select Fund – Large-Cap Value Fee Waiver
+Reading copy of a publicly filed HTML contract exhibit. Original HTML is enclosed. Page numbers below belong to this reading
+copy.
+https://www.sec.gov/Archives/edgar/data/813900/000110465926050536/tm266464d3_ex99-xdx10xxix.htm
+EX-99.(D)(10)(XIX)
+3
+tm266464d3_ex99-xdx10xxix.htm
+EXHIBIT 99.(D)(10)(XIX)
+Exhibit 99.(d)(10)(xix)
+ADVISORY FEE WAIVER AGREEMENT
+LARGE-CAP VALUE PORTFOLIO
+OF PACIFIC SELECT FUND
+This
+ADVISORY FEE WAIVER AGREEMENT, by and between Pacific Life Fund Advisors LLC (the “Adviser”) and Pacific
+Select Fund (the “Trust”), on behalf of the Large-Cap Value Portfolio of the Trust (the “Fund”), is
+effective as of May 1, 2026.
+WHEREAS, the Trust
+is a Delaware statutory trust and is registered under the Investment Company Act of 1940, as amended (the “1940
+Act”), as
+an open-end management investment company of the series type;
+WHEREAS,
+the Fund is sub-advised by Newton Investment Management North America, LLC (“BNY Newton”); and
+WHEREAS,
+the Trust and the Adviser are parties to the Amended and Restated Investment Advisory Agreement, dated January
+1, 2005 (the “Advisory
+Contract”), as amended and novated, pursuant to which the Adviser provides investment advisory services to the
+Fund for compensation
+based on the value of the average daily net assets of the Fund;
+NOW
+THEREFORE, the parties hereto agree as follows:
+| | I. | Advisory Fee Waiver
+| | A. | Amount of Waiver. During the term of this Agreement, for so long as BNY Newton remains the sub-adviser
+of the Fund, the Adviser hereby agrees to waive 0.05% of its investment advisory fee for the Fund.
+| | II. | Term and Termination of Agreement
+| | A. | This Agreement shall have an initial term commencing on May 1, 2026 and ending April 30,
+2027. Thereafter, this Agreement shall automatically renew for successive one-year terms (each a one-year term)
+ending April 30th
+
+
+[PDF page 2]
+N02_pacific_select | HTML reading copy
+Page 2
+of each year, unless the Adviser provides 30 days’ written notice of the termination of this Agreement prior to the
+beginning of
+the next applicable one-year term.
+| | B. | Notwithstanding sub-paragraph (A) above, this Agreement shall terminate upon termination of the Advisory
+Contract, or it may be terminated by the Trust, without payment of any penalty, upon ninety (90) days’ prior
+written notice to the
+Adviser at its principal place of business.
+| | III. | Miscellaneous
+| | A. | Captions. The captions in this Agreement are included for convenience of reference only and in
+no other way define or delineate any provisions hereof or otherwise affect their construction or effect.
+| | B. | Definitions. Any question or interpretation of any term or provision of this Agreement, including
+but not limited to the investment advisory fee, the computations of net asset values, and the allocation of
+expenses, having a counterpart
+in or otherwise derived from
+| | | the terms and provisions of
+the Advisory Contract or the 1940 Act, shall have the same meaning as and be resolved by
+reference to such Advisory Contract or the 1940 Act.
+| | C. | Choice of Law. This Agreement shall be governed by the law of the State of Delaware, without regard
+to the conflict of law provision thereof.
+IN WITNESS WHEREOF, the parties
+have caused this Agreement to be signed by their respective officers thereunto duly authorized and their
+respective corporate seals be
+hereunto affixed, as of the day and year first above written.
+PACIFIC SELECT FUND
+| By:
+/s/ Howard T. Hirakawa
+| Name:
+Howard T. Hirakawa
+| Title:
+Senior Vice President
+PACIFIC LIFE FUND ADVISORS LLC
+| By:
+/s/ Howard T. Hirakawa
+| Name:
+Howard T. Hirakawa
+| Title:
+Senior Vice President

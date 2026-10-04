@@ -1,0 +1,153 @@
+[PDF page 1]
+N06_quantum | HTML reading copy
+Page 1
+Quantum Circuits – WE 150 Munson Lease
+Amendment
+Reading copy of a publicly filed HTML contract exhibit. Original HTML is enclosed. Page numbers below belong to this reading
+copy.
+https://www.sec.gov/Archives/edgar/data/1907982/000190798226000059/exhibit105-thirdamendment.htm
+EX-10.5
+3
+exhibit105-thirdamendment.htm
+EX-10.5
+Document
+Exhibit 10.5
+AMENDMENT NO. 3 TO LEASE
+THIS AMENDMENT NO. 3 TO LEASE (this “Third Amendment”) is made and entered into as of March 25th, 2026 (the
+“Effective Date”) between Landlord and Tenant named below:
+LANDLORD: WE 150 Munson LLC
+c/o Winstanley Enterprises LLC
+150 Baker Avenue Extension, Suite 303
+Concord, MA 01742
+TENANT: Quantum Circuits, LLC (formerly, Quantum Circuits, Inc.)
+25 Science Park
+New Haven, Connecticut 06511
+BUILDING: Science Park, Building 25
+150 Munson Street
+New Haven, Connecticut
+WHEREAS, Landlord and Tenant executed a Short Term Lease Agreement dated as of April 25, 2018 (as previously
+amended, and as herein further amended, the “Lease”), by which Tenant leased approximately 5,777 rentable
+square feet of space on the second floor of the Building known as “Suite 203”; and
+WHEREAS, Landlord and Tenant executed an Amendment No. 1 to Lease dated as of October 19, 2021 (the “First
+Amendment”) whereunder (i) the parties added 2,177 rentable square feet of space known as “Suite 240” to the
+Lease (previously licensed by Tenant under a now-expired license agreement), (ii) Tenant leased an additional
+5,876 rentable square feet of space known as “Suite 205” and an additional 702 rentable square feet of space
+known as “2G” and (iii) the parties extended the Lease through December 31, 2024; and
+WHEREAS, Landlord and Tenant executed an Amendment No. 2 to Lease dated as of December 30, 2024 (the
+“Second Amendment”) whereunder (i) Tenant leased an additional 3,666 rentable square feet of space known as
+“Suite 210” on the second floor of the Building, and (ii) the parties extended the Lease through March 31, 2026;
+and
+WHEREAS, Landlord and Tenant have agreed to further extend the term of the Lease; and
+WHEREAS, Quantum Circuits, Inc., the signatory of and tenant under the Lease, the First Amendment and the
+Second Amendment has been acquired by D-Wave Quantum Inc., with the resulting company being Quantum
+
+
+[PDF page 2]
+N06_quantum | HTML reading copy
+Page 2
+Circuits, LLC, which now owns all contracts entered into by Quantum Circuits, Inc. by operation of law upon
+completion of the acquisition; and
+WHEREAS, Tenant desires to assign the Lease and all rights and obligations thereunder (including the First
+Amendment and the Second Amendment) to D-Wave Commercial Inc.
+Certain identified information has been excluded from the exhibit because it is (i) not material and (ii) the type that
+the registrant treats as private or confidential. Redacted information is marked with a [*****].
+(“Assignee”), a wholly-owned subsidiary of D-Wave Quantum Inc. and an affiliate of Quantum Circuits, LLC, and
+Assignee has agreed to accept such Assignment and to enter into this Third Amendment as Tenant going forward,
+and Landlord has agreed to approve such assignment and transfer, all upon the terms set forth below.
+NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are hereby
+acknowledged, Landlord and Tenant hereby agree as follows:
+1.Capitalized terms used but not defined herein shall have the meaning ascribed to each in the Lease.
+2.Replacement Exhibit B of the First Amendment and Exhibit B-1 of the Second Amendment are hereby deleted
+and replaced with Replacement Exhibit B attached hereto and made a part hereof.
+3.The Term of the Lease is hereby extended to March 31, 2028, and the Termination Date of the Lease shall mean
+said date.
+4.The annual Base Rent for the period commencing on April 1, 2026 through the end of the Term shall be as
+follows:
+| Period | Annual Base Rent | Monthly Installments
+| 04/01/2026 – 03/31/2027 | $480,791.16 | $40,065.93
+| 04/01/2027 – 03/31/2028 | $490,406.98 | $40,867.25
+5.Provided that Tenant is not in default under the Lease beyond the expiration of applicable notice and cure
+periods on the date Tenant delivers Tenant’s Renewal Notice (as hereinafter defined) or at any time thereafter
+through the commencement date of the Renewal Term (as hereinafter defined), Tenant shall have one (1) option
+(the “Renewal Option”) to renew the Lease for an additional twelve (12) months. Tenant shall exercise its Renewal
+Option by delivering notice to Landlord (“Tenant’s Renewal Notice”) exercising the Renewal Option no later than
+one hundred eighty (180) days prior to the scheduled Termination Date. In the event Tenant does not timely and
+properly exercise a Renewal Option, Tenant shall, promptly following request by Landlord, execute and deliver a
+statement confirming that the Renewal Option has been waived (provided that failure to deliver said statement
+shall not be construed to mean that Tenant has properly exercised the Renewal Option). Upon Landlord’s receipt of
+Tenant’s Renewal Notice in accordance with the requirements of this Section, the Lease, subject to the provisions
+of this Article, shall be automatically extended for the Renewal Term with the same force and effect as if the
+Renewal Term had been originally included in the term of the Lease, except that the Base Rent under the Lease
+shall be as follows:
+2
+| Period | Annual Base Rent | Monthly Installments
+| 04/01/2028 – 03/31/2029 | $500,215.12 | $41,684.59
+There shall be no rent concessions or obligation of Landlord to perform or pay for any work during the Renewal
+Term. The Renewal Option shall automatically terminate and become null, void and of no force and effect upon the
+earlier to occur of (i) the expiration or termination of the Lease by Landlord or pursuant to law, (ii) the termination
+or surrender of Tenant’s right to possession of the Premises, (iii) the assignment of this Lease by Tenant or the
+sublease by Tenant of the Premises or any part thereof; or (iv) the failure of Tenant to timely and properly exercise
+any Renewal Option.
+6.Tenant hereby assigns, transfers and conveys the Lease, including the First Amendment and the Second
+Amendment, (the “Assignment”), to Assignee. Assignee hereby accepts such Assignment, and agrees to assume,
+
+
+[PDF page 3]
+N06_quantum | HTML reading copy
+Page 3
+observe, perform and discharge the obligations and liabilities of the Tenant under the Lease, as amended by the
+First Amendment, Second Amendment and this Third Amendment, arising from and after the Effective Date of this
+Third Amendment. All references to Tenant in the Lease, including in the First Amendment, the Second
+Amendment and this Third Amendment shall be interpreted to mean Assignee and not Quantum Circuits, LLC as of
+the Effective Date of this Third Amendment.
+7.Landlord hereby acknowledges and agrees to the Assignment of the Lease, as amended by the First
+Amendment, Second Amendment and this Third Amendment, from Tenant to Assignee as of the Effective Date of
+this Third Amendment.
+8.Landlord and Tenant represent and warrant to the other that each has full authority to enter into this Third
+Amendment and further agree to hold harmless, defend, and indemnify the other from any loss, costs (including
+reasonable attorneys' fees), damages, or claims arising from any lack of such authority.
+9.As modified herein, the Lease is hereby ratified and confirmed and shall remain in full force and effect.
+10.Landlord and Tenant hereby represent and warrant to the other that each has not dealt with any broker, finder
+or like agent in connection with this Third Amendment. Each party hereby agrees to indemnify, defend and hold
+the other, its agents and their officers, directors, shareholders, members, partners and employees, harmless of
+and from any claim of, or liability to, any other broker, finder or like agent claiming a commission or fee by reason
+of having dealt with either party in connection with the negotiation, execution or delivery of this Third Amendment,
+and all expenses related thereto, including, without limitation, reasonable attorneys’ fees and disbursements.
+11.This Third Amendment constitutes the entire agreement by and between the parties hereto and supersedes
+any and all previous agreements, written or oral, between the parties. No modification or amendment of this Third
+Amendment shall be effective unless the
+3
+same shall be in writing and signed by the parties hereto. The provisions of this Third Amendment shall inure to
+the benefit of, and be binding upon, the parties hereto and their respective legal representatives, successors and
+assigns.
+12.This Third Amendment may be executed in any number of counterparts, each of which shall be deemed to be
+an original, and all of such counterparts shall constitute one agreement. This Third Amendment shall become
+effective when duly executed and delivered by all parties hereto.
+(Signatures on following page)
+4
+IN WITNESS WHEREOF, Landlord and Tenant have signed this Third Amendment to Lease as of the day and year
+first above written.
+Landlord: WE 150 MUNSON LLC
+By: WE 150 Munson Manager LLC
+Its Manager
+By: Winstanley Enterprises LLC
+Its Manager
+By: /s/ Carter J. Winstanley
+Carter J. Winstanley
+Its Manager
+Tenant: QUANTUM CIRCUITS, LLC
+By: /s/ Alan Baratz
+Name: Alan Baratz
+
+
+[PDF page 4]
+N06_quantum | HTML reading copy
+Page 4
+Title: President
+Assignee: D-WAVE COMMERCIAL INC.
+By: /s/ Alan Baratz
+Name: Alan Baratz
+Title: President
+REPLACEMENT EXHIBIT B
+LEASED PREMISES
+[*****]

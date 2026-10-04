@@ -1,0 +1,831 @@
+[PDF page 1]
+E05_administration | HTML reading copy
+Page 1
+PGIM Partners Group – State Street Administration
+Reading copy of a publicly filed HTML contract exhibit. Original HTML is enclosed. Page numbers below belong to this reading
+copy.
+https://archive.fast-edgar.com/20260925/AW2ZLG2GZ22RGZZ222282ZYPMV99ZZ22N882/f46192d10.htm
+Administration Agreement
+Execution
+ADMINISTRATION AGREEMENT
+This Administration Agreement (“Agreement”) dated and effective as of February 24, 2026, is by and between
+STATE STREET BANK AND TRUST COMPANY, a Massachusetts trust company (the “Administrator”), and PGIM
+PARTNERS GROUP PRIVATE MARKETS MULTI-ASSET FUND, a Delaware statutory trust (the “Fund”).
+WHEREAS, the Fund is a closed-end management investment company that has filed (or will file) a Form N-8A with
+the U.S. Securities and Exchange Commission (“SEC”) to register as an investment company under the Investment
+Company Act of 1940 (as amended, the “1940 Act”) and has filed (or will file) a registration statement on Form N-2
+(the “Registration Statement”) with the SEC to register and publicly offer its common shares under the Securities
+Act of 1933 (as amended, the “1933 Act”); and
+WHEREAS, the Fund desires to retain the Administrator to furnish certain administrative services to the Fund, as
+set forth on Schedule A, as such schedule may be amended from time to time, and the Administrator is willing to
+furnish such services, on the terms and conditions set forth in this Agreement.
+NOW, THEREFORE, in consideration of the premises and mutual covenants herein contained, the parties hereto
+agree as follows:
+1.APPOINTMENT OF ADMINISTRATOR
+The Fund hereby appoints the Administrator to act as administrator with respect to the Fund for purposes of
+providing certain administrative services for the period and on the terms set forth in this Agreement. The
+Administrator accepts such appointment and agrees to render the services stated herein.
+2.DELIVERY OF DOCUMENTS
+The Fund will promptly deliver to the Administrator copies of each of the following documents with respect to the
+Fund and all future amendments and supplements, if any:
+a.The Fund’s Declaration of Trust and By-laws (“Governing Documents”);
+b.The Fund’s effective Registration Statement under the 1933 Act when available and all amendments and
+supplements thereto as in effect from time to time;
+c.Copies of the resolutions of the Board of Trustees of the Fund (the “Board”) certified by the Fund’s Secretary
+authorizing (1) the Fund to enter into this Agreement and (2) certain individuals on behalf of the Fund to (a) give
+instructions to the Administrator pursuant to this Agreement and (b) sign checks and pay expenses;
+d.Such other certificates, documents or opinions which the Administrator may, in its reasonable discretion, deem
+necessary or appropriate in the proper performance of its duties.
+3.REPRESENTATIONS AND WARRANTIES OF THE ADMINISTRATOR
+The Administrator represents and warrants to the Fund that:
+a.It is a Massachusetts trust company, duly organized and existing under the laws of The Commonwealth of
+Massachusetts;
+b.It has the requisite power and authority to carry on its business in The Commonwealth of Massachusetts;
+c.All requisite corporate proceedings have been taken to authorize it to enter into and perform this Agreement;
+
+
+[PDF page 2]
+E05_administration | HTML reading copy
+Page 2
+d.No legal or administrative proceedings have been instituted or threatened which would materially impair the
+Administrator’s ability to perform its duties and obligations under this Agreement; and
+e.Its entrance into this Agreement shall not cause a material breach or be in material conflict with any other
+agreement or obligation of the Administrator or any law or regulation applicable to it.
+4.REPRESENTATIONS AND WARRANTIES OF THE FUND
+The Fund represents and warrants to the Administrator that:
+a.It is a statutory trust, duly organized, validly existing and in good standing under the laws of its jurisdiction of
+formation;
+b.It has the requisite power and authority under applicable laws and by its Declaration of Trust and By-laws to
+enter into and perform this Agreement;
+c.All requisite proceedings have been taken to authorize it to enter into and perform this Agreement;
+d.It has elected, or will elect, to be registered as an investment company and an interval fund under the 1940 Act
+and it has elected, or will elect, to be treated for federal income tax purposes, and intends to qualify annually
+thereafter, as a regulated investment company under the Internal Revenue Code of 1986, as amended;
+e.The Registration Statement has been or will be filed by the Fund and is or will become effective and, once
+effective, will remain in effect, or will be replaced by a
+-2-
+new registration statement covering the Fund’s common shares, during the term of this Agreement;
+f.As of the effective date of this Agreement, all necessary filings under the securities laws of the states in which the
+Fund offers or sells its shares have been made; and
+g.As of the close of business on the date of this Agreement, the Fund is authorized to issue shares of beneficial
+interest.
+h.No legal or administrative proceedings have been instituted or threatened which would impair the Fund’s ability
+to perform its duties and obligations under this Agreement;
+i.Its entrance into this Agreement will not cause a material breach or be in material conflict with any other
+agreement or obligation of the Fund or any law or regulation applicable to it; and
+j.Where information provided by the Fund or the Fund’s Investors includes Personal
+Information (as defined in Section 20 below), the Fund represents and warrants that it has obtained all consents
+and approvals, as required by all applicable laws, regulations, by-laws and ordinances that regulate the collection,
+processing, use or disclosure of Personal Information, necessary to disclose such Personal Information to the
+Administrator, and as required for the Administrator to use and disclose such Personal Information in connection
+with the performance of the services hereunder. The Fund acknowledges that if pursuant to the terms of this
+Agreement the Administrator uses and discloses Personal Information outside of the jurisdiction in which it was
+initially collected by the Fund, including the United States, that information relating to the Fund (including Personal
+Information), to the extent necessary to perform the services under this agreement and otherwise as required by
+law or regulation, may be accessed by national security authorities, law enforcement and courts. The
+Administrator shall be kept indemnified by and be without liability to the Fund for any action taken or omitted by it
+in reliance upon this representation and warranty, including without limitation, any liability or costs in connection
+with claims or complaints for failure to comply with any applicable law that regulates the collection, processing,
+use or disclosure of Personal Information.
+5.ADMINISTRATION SERVICES
+The Administrator shall provide the services as listed on Schedule A, subject to the authorization and direction of
+the Fund and, in each case where appropriate, the review and comment by the Fund’s independent accountants
+and legal counsel and in accordance with procedures which may be established from time to time between the
+Fund and the Administrator.
+
+
+[PDF page 3]
+E05_administration | HTML reading copy
+Page 3
+The Administrator shall perform such other services for the Fund that are mutually agreed to in writing by the
+Administrator and Fund from time to time, for which the Fund will
+-3-
+pay such fees as may be mutually agreed upon, in writing, from time to time, including the Administrator’s
+reasonable out-of-pocket expenses. The provision of such services shall be subject to the terms and conditions of
+this Agreement.
+The Administrator shall provide, at its expense, unless otherwise agreed in a fee schedule, the office facilities and
+the personnel determined by it to perform the services contemplated herein.
+6.COMPENSATION OF ADMINISTRATOR; EXPENSE REIMBURSEMENT; FUND EXPENSES
+The Administrator shall be entitled to reasonable compensation for its services and expenses, as agreed upon from
+time to time in writing between the Fund and the Administrator.
+The Fund agrees promptly to reimburse the Administrator for any equipment and supplies specially ordered by or
+for the Fund through the Administrator and for any other expenses not contemplated by this Agreement that the
+Administrator may incur on the Fund’s behalf or at the Fund’s request or with the Fund’s consent.
+The Fund acknowledges and agrees that the Fund or an affiliate will bear all expenses that are incurred in the
+operation of the Fund and not specifically assumed by the Administrator. For the avoidance of doubt, Fund
+expenses not assumed by the Administrator include, but are not limited to: organizational expenses; cost of
+services of independent accountants and outside legal and tax counsel (including such counsel’s review of the
+Registration Statement, Form N-CSR, proxy materials, federal and state tax qualification as a regulated investment
+company and other notices, registrations, reports, filings and materials prepared by the Administrator under this
+Agreement); cost of any services contracted for by the Fund directly from parties other than the Administrator;
+cost of trading operations and brokerage fees, commissions and transfer taxes in connection with the purchase
+and sale of securities for the Fund; investment management fees; taxes, insurance premiums and other fees and
+expenses applicable to its operation; costs incidental to any meetings of shareholders including, but not limited to,
+legal and accounting fees, proxy filing fees and the costs of preparation (e.g., typesetting, XBRL-tagging, page
+changes and all other print vendor and EDGAR charges, collectively referred to herein as “Preparation”), printing,
+distribution and mailing of any proxy materials; costs incidental to Board meetings, including fees and expenses of
+Board members; the salary and expenses of any officer, director/trustee or employee of the Fund; costs of
+Preparation, printing, distribution and mailing, as applicable, of the Fund’s Registration Statements and any
+amendments and supplements thereto and shareholder reports; cost of Preparation and filing of the Fund’s tax
+returns, Registration Statement, Form N- CSR and proxy materials and all notices, registrations and amendments
+associated with applicable federal and state tax and securities laws; all applicable registration fees and filing fees
+required under federal and state securities laws; the cost of fidelity bond and D&O/E&O liability insurance; and the
+cost of independent pricing services used in computing the Fund(s)’ net asset value.
+7.INSTRUCTIONS AND ADVICE
+At any time, the Administrator may apply to any officer of the Fund or his or her designee for instructions or the
+independent accountants for the Fund, with respect to any matter arising in connection with the services to be
+performed by the Administrator under this Agreement. The
+-4-
+Administrator shall be entitled to rely on and may act upon advice of counsel (who may be counsel for the Fund)
+on all matters, and shall be without liability for any action reasonably taken or omitted pursuant to such advice.
+The Administrator shall not be liable, and shall be indemnified by the Fund, for any action taken or omitted by it in
+good faith in reliance upon any such instructions or advice or upon any paper or document reasonably believed by
+it to be genuine and to have been signed by the proper person or persons. The Administrator shall not be held to
+have notice of any change of authority of any person until receipt of written notice thereof from the Fund. Nothing
+in this section shall be construed as imposing upon the Administrator any obligation to seek such instructions or
+advice, or to act in accordance with such advice when received.
+
+
+[PDF page 4]
+E05_administration | HTML reading copy
+Page 4
+8.LIMITATION OF LIABILITY AND INDEMNIFICATION
+The Administrator shall be responsible for the performance only of such duties as are set forth in this Agreement
+and, except as otherwise provided under Section 14, shall have no responsibility for the actions or activities of any
+other party, including other service providers. The Administrator shall have no liability in respect of any loss,
+damage or expense suffered by the Fund insofar as such loss, damage or expense arises from the performance of
+the Administrator’s duties hereunder in reliance upon records that were maintained for the Fund by entities other
+than the Administrator prior to the Administrator’s appointment as administrator for the Fund. The Administrator
+shall have no liability for any error of judgment or mistake of law or for any loss or damage resulting from the
+performance or nonperformance of its duties hereunder except to the extent solely caused by or resulting from the
+negligence, fraud, or willful misconduct of the Administrator, its officers or employees.
+The Administrator shall not be liable for any special, indirect, incidental, punitive or consequential damages,
+including lost profits, of any kind whatsoever (including, without limitation, attorneys’ fees) under any provision of
+this Agreement or for any such damages arising out of any act or failure to act hereunder, each of which is hereby
+excluded by agreement of the parties regardless of whether such damages were foreseeable or whether either
+party or any entity had been advised of the possibility of such damages.
+In any event, the Administrator’s cumulative liability for each calendar year (a “Liability Period”) with respect to
+the services performed under this Agreement regardless of the form of action or legal theory shall be limited to its
+total annual compensation earned and fees payable hereunder during the preceding Compensation Period, as
+defined herein, for any liability or loss suffered by the Fund. “Compensation Period” shall mean the calendar year
+ending immediately prior to each Liability Period in which the event(s) giving rise to the Administrator’s liability for
+that period have occurred. Notwithstanding the foregoing, the Compensation Period for purposes of calculating the
+annual cumulative liability of the Administrator for the Liability Period commencing on the date of this Agreement
+and terminating on December 31, 2026 shall be the date of this Agreement through December 31, 2026,
+calculated on an annualized basis, and the Compensation Period for the Liability Period commencing January 1,
+2027 and terminating on December 31, 2027 shall be the date of this Agreement through December 31, 2026,
+calculated on an annualized basis.
+-5-
+The Administrator shall not be responsible or liable for any failure or delay in performance of its obligations under
+this Agreement arising out of or caused, directly or indirectly, by circumstances beyond its control, including
+without limitation, work stoppage, power or other mechanical failure, computer virus, natural disaster,
+governmental action or communication disruption.
+The Fund shall indemnify and hold the Administrator and its directors, officers, employees and agents harmless
+from all loss, cost, damage and expense, including reasonable fees and expenses for counsel, incurred by the
+Administrator resulting from any claim, demand, action or suit in connection with the Administrator’s acceptance
+of this Agreement, any action or omission by it in the performance of its duties hereunder, or as a result of acting
+upon any instructions reasonably believed by it to have been duly authorized by the Fund or upon reasonable
+reliance on information or records given or made by the Fund or the Fund’s investment manager, provided that
+this indemnification shall not apply to actions or omissions of the Administrator, its officers or employees in cases
+of its or their own fraud, negligence, or willful misconduct.
+The limitation of liability and indemnification contained herein shall survive the termination of this Agreement.
+9.CONFIDENTIALITY AND USE OF DATA
+9.1Confidentiality
+9.1.1Subject to Section 9.2 and Section 9.3, Confidential Information will not be disclosed by the Receiving Party to
+any third party without the prior consent of the Disclosing Party.
+9.1.2Except as expressly contemplated by this Agreement, nothing in this Section 9 will limit the confidentiality
+and data-protection obligations of the Administrator and its Affiliates under this Agreement and Law applicable to
+the Administrator.
+9.2Use of Confidential Information and Data
+
+
+[PDF page 5]
+E05_administration | HTML reading copy
+Page 5
+9.2.1Subject to this Section 9.2 and Section 9.3, all Confidential Information, including Data, will be used by the
+Receiving Party solely for the purpose of providing or receiving services, as applicable, pursuant to this Agreement
+or otherwise discharging its obligations under this Agreement.
+9.2.2The Administrator and its Affiliates may use Data to develop, publish or otherwise distribute to third parties
+certain investor behaviour “indicators” or “indices” that represent broad trends in the flow of investment funds
+into various markets, sectors or investment instruments (collectively, the “Indicators”), but only so long as (i) the
+Data is combined or aggregated with (A) information relating to other customers of the Administrator and/or (B)
+information derived from other sources, in each case such that the Indicators do not allow for attribution to or
+identification of such Data with the Fund, (ii) the Data represents less
+-6-
+than a statistically meaningful portion of all of the data used to create the Indicators and (iii) the Administrator
+publishes or otherwise distributes to third parties only the Indicators and under no circumstance publishes, makes
+available, distributes or otherwise discloses any of the Data to any third party, whether aggregated, anonymized or
+otherwise, except as expressly permitted under this Agreement.
+9.2.3The Fund acknowledges that the Administrator may seek and realize economic benefit from the publication or
+distribution of the Indicators.
+9.3Disclosure of Confidential Information and Data
+9.3.1The Receiving Party may disclose the Disclosing Party's Confidential Information without the Disclosing
+Party’s consent to its attorneys, accountants, auditors, consultants and other similar advisors that have a
+reasonable need to know such Confidential Information
+(“Representatives”), provided such Confidential Information is disclosed under obligations of confidentiality that
+prohibit the disclosure or use of such Confidential Information by the Representatives for any purpose other than
+the specific engagement with the Receiving Party for which the Representative has been retained and that are
+otherwise no less restrictive than the confidentiality obligations contained in this Agreement. The Parties
+acknowledge that use of Confidential Information by a Representative to represent its other clients in dealing with
+the Disclosing Party would constitute a breach of this Section 24.3. Where the Administrator is the
+Receiving Party, “Representatives” will include its Affiliates and Service Providers (as defined below).
+9.3.2The Administrator may disclose and permit use (as applicable) of Confidential
+Information of the Fund without the Fund’s consent:
+9.3.2.1to its Affiliates and any of its third-party agents and service providers
+(“Service Providers”) in connection with the provision of services, the discharge of its obligations under this
+Agreement or the carrying out of any Proper Instruction, including in accordance with the standard practices or
+requirements of any Financial Market Utility or in connection with the settlement, holding or administration of
+Cash, Securities or other instruments;
+9.3.2.2to its Affiliates in connection with the management of the businesses of the Administrator and its Affiliates,
+including, but not limited to, financial and operational management and reporting, risk management, legal and
+regulatory compliance and client service management and marketing.
+Where possible, such Confidential Information must be disclosed under obligations of confidentiality or in a manner
+consistent with industry practice.
+9.3.3Each party may store Confidential Information with third-party providers of information technology services,
+and permit access to Confidential Information by such
+-7-
+providers as reasonably necessary for the receipt of cloud computing and storage services and related hardware
+and software maintenance and support. Such Confidential Information must be disclosed under obligations of
+confidentiality.
+
+
+[PDF page 6]
+E05_administration | HTML reading copy
+Page 6
+9.3.4The Receiving Party may disclose the Disclosing Party's Confidential Information or portions thereof: (i) to
+comply with any legal requirement (including in response to court- issued orders, investigative demands,
+subpoenas or similar processes), (ii) to respond to a request by any governmental or regulatory body with
+authority over the Disclosing Party, (iii) as required by operation of law or regulation or as required to comply with
+the requirements of any market infrastructure that the Disclosing Party or its agents direct the Administrator or its
+Affiliates to employ or which is required in connection with the holding or settlement or instruments included in the
+assets subject to this Agreement, or (iv) to satisfy the requirements of any applicable regulatory authority.
+9.3.5Each party acknowledges that the disclosure to any non-authorized third party of Confidential Information or
+the use of Confidential Information in breach of this Agreement, may immediately give rise to continuing
+irreparable injury inadequately compensable in damages at law, and in such cases the Receiving Party agrees to
+waive any defense that an adequate remedy at law is available if the Disclosing Party seeks to obtain injunctive
+relief against any such breach or any threatened breach.
+9.3.6Each party will be responsible for any use or disclosure of Confidential Information of the Disclosing Party in
+breach of this Agreement by its Representatives as though such party had used or disclosed such Confidential
+Information itself
+9.3.7In no event will the Administrator allow representatives of its asset management division or Affiliates
+engaged in asset management to have access to or to use Confidential Information of the Fund, including Data.
+9.4Definitions
+9.4.1For purposes of this Section 9, “Confidential Information” means all information provided by or on behalf of a
+party (the “Disclosing Party”) to the other party (the “Receiving Party”), or collected by a Receiving Party, under or
+pursuant to this Agreement that is marked
+"confidential", "restricted", "proprietary" or with a similar designation, or that the Receiving Party knows or
+reasonably should know is confidential, proprietary or a trade secret. The terms and conditions of this Agreement
+(including any related fee schedule or arrangement) and any Fees will be treated as Confidential Information as to
+which each party is a Disclosing Party. Confidential Information will not include information that: (i) is publicly
+available when provided or thereafter becomes publicly available, other than through a breach of this Agreement:
+(ii) was known to the Receiving Party (without an obligation of confidentiality) prior to its disclosure; (iii) is
+independently developed by the Receiving Party without the use of other Confidential Information; (iv) is rightfully
+obtained on a non-confidential basis from a third- party source.
+-8-
+9.4.2For purposes of this Section 9, “Affiliate” means, with respect to any person, any other person Controlling,
+Controlled by, or under common Control with, such person at the time in question. For these purposes. “Control”
+and its derivatives “Controlled” and “Controlling” mean, with regard to any person: (i) the legal or beneficial
+ownership, directly or indirectly, of fifty percent (50%) or more of the issued share capital or capital stock of that
+person (or other ownership interest, if not a corporation); (ii) the ability to control, directly or indirectly, fifty per
+cent (50%) or more of the voting power in relation to that person; or (iii) the legal power to direct or cause the
+direction of the general management and policies of that person, provided that where Control is being determined
+with respect to a person that is a limited partnership, Control shall be determined by reference to the satisfaction
+of any of the above tests with respect to the general partner of the limited partnership.
+9.4.3For purposes of this Section 9, “Data” means any Confidential Information of the Fund relating to its holdings,
+transactions or other information that the Administrator obtains with respect to the Fund or a fund in connection
+with the provision of services under this Agreement or any other agreement.
+9.5Survival. The provisions of this Section 9 (Confidentiality and Use of Data) are continuing obligations and will
+survive termination of this Agreement for any reason.
+10.RESERVED
+11.COMPLIANCE WITH GOVERNMENTAL RULES AND REGULATIONS; RECORDS
+
+
+[PDF page 7]
+E05_administration | HTML reading copy
+Page 7
+The Fund assumes full responsibility for complying with all securities, tax, commodities and other laws, rules and
+regulations applicable to it.
+In compliance with the requirements of Rule 31a-3 under the 1940 Act, the Administrator agrees that all records
+which it maintains for the Fund shall at all times remain the property of the Fund, shall be readily accessible during
+normal business hours, and shall be promptly surrendered upon the termination of the Agreement or otherwise on
+written request except as otherwise provided in Section 13. The Administrator further agrees that all records that it
+maintains for the Fund pursuant to Rule 31a-1 under the 1940 Act will be preserved for the periods prescribed by
+Rule 31a-2 under the 1940 Act unless any such records are earlier surrendered as provided above. Records may
+be surrendered in either written or machine-readable form, at the option of the Administrator. In the event that the
+Administrator is requested or authorized by the Fund, or required by subpoena, administrative order, court order
+or other legal process, applicable law or regulation, or required in connection with any investigation, examination
+or inspection of the Fund by state or federal regulatory agencies, to produce the records of the Fund or the
+Administrator’s personnel as witnesses or deponents, the Fund agrees to pay the Administrator for the
+Administrator’s time and expenses, as well as the fees and expenses of the Administrator’s counsel incurred in
+such production.
+12.SERVICES NOT EXCLUSIVE
+The services of the Administrator are not to be deemed exclusive, and the Administrator shall be free to render
+similar services to others. The Administrator shall be deemed to be an
+-9-
+independent contractor and shall, unless otherwise expressly provided herein or authorized by the Fund from time
+to time, have no authority to act or represent the Fund in any way or otherwise be deemed an agent of the Fund.
+13.EFFECTIVE PERIOD AND TERMINATION
+This Agreement shall remain in full force and effect for an initial term ending December 31, 2028 (the “Initial
+Term”). After the expiration of the Initial Term, this Agreement shall automatically renew for successive one-year
+terms (each, a “Renewal Term”) unless a written notice of non-renewal is delivered by the non-renewing party no
+later than ninety (90) days prior to the expiration of the Initial Term or any Renewal Term, as the case may be.
+During the Initial Term and thereafter, either party may terminate this Agreement: (i) in the event of the other
+party’s material breach of a material provision of this Agreement that the other party has either
+(a)failed to cure or (b) failed to establish a remedial plan to cure that is reasonably acceptable, within 60 days’
+written notice of such breach, or (ii) in the event the other party becomes insolvent or is otherwise subject to a
+bankruptcy, receivership, conservatorship, administration or the equivalent. Upon termination of this Agreement
+pursuant to this paragraph, the Fund shall pay the Administrator its compensation due and shall reimburse the
+Administrator for any costs, expenses and disbursements due pursuant to this Agreement.
+In the event of: (i) the Fund’s termination of this Agreement for any reason other than as set forth in the
+immediately preceding paragraph or (ii) a transaction not in the ordinary course of business pursuant to which the
+Administrator is not retained to continue providing services hereunder to any Fund (or its respective successor),
+the Fund shall pay the Administrator its compensation due through the end of the then-current term (based upon
+the average monthly compensation previously earned by Administrator with respect to the Fund) and shall
+reimburse the Administrator for any costs, expenses and disbursements due pursuant to this Agreement. Upon
+receipt of such payment and reimbursement, the Administrator will deliver the Fund’s records as set forth herein.
+For the avoidance of doubt, no payment will be required pursuant to clause (ii) of this paragraph in the event of
+any transaction such (a) the liquidation or dissolution of the Fund and distribution of the Fund’s assets, (b) a
+merger of the Fund into, or the consolidation of the Fund with, another entity, or (c) the sale by the Fund of all, or
+substantially all, of the Fund’s assets to another entity, in each of (b) and (c) where the Administrator is retained to
+continue providing services to the Fund (or its respective successor) on substantially the same terms as this
+Agreement.
+14.DELEGATION
+
+
+[PDF page 8]
+E05_administration | HTML reading copy
+Page 8
+(a)The Administrator shall have the right, without the consent or approval of the Fund, to employ agents,
+subcontractors, consultants and other third parties, whether affiliated or unaffiliated, to provide or assist it in the
+provision of any part of the services stated herein other than services required by applicable law to be performed
+by the Administrator (each, a
+“Delegate” and collectively, the “Delegates”), without the consent or approval of the Fund. The Administrator shall
+be responsible for the services delivered by, and the acts and omissions of, any such Delegate as if the
+Administrator had provided such services and committed such acts and omissions itself. Unless otherwise agreed
+in a fee schedule, the Administrator shall be responsible for the compensation of its Delegates.
+-10-
+(b)The Administrator will provide the Fund with information regarding its global operating model for the delivery of
+the services on a quarterly or other periodic basis, which information shall include the identities of Delegates
+affiliated with the Administrator that perform or may perform parts of the services, and the locations from which
+such Delegates perform services, as well as such other information about its Delegates as the Fund may
+reasonably request from time to time.
+(c)Nothing in this Section 14 shall limit or restrict the Administrator’s right to use affiliates or third parties to
+perform or discharge, or assist it in the performance or discharge, of any obligations or duties under this
+Agreement other than the provision of the services.
+15.INTERPRETIVE AND ADDITIONAL PROVISIONS
+In connection with the operation of the Agreement, the Administrator and the Fund may from time to time agree
+on such provisions interpretive of or in addition to the provisions of this Agreement as may in their joint opinion be
+consistent with the general tenor of this Agreement. Any such interpretive or additional provisions shall be in a
+writing signed by all parties, provided that no such interpretive or additional provisions shall contravene any
+applicable laws or regulations or any provision of the Fund’s Governing Documents. No interpretive or additional
+provisions made as provided in the preceding sentence shall be deemed to be an amendment of the Agreement.
+16.NOTICES
+Any notice, instruction or other instrument required to be given hereunder will be in writing and may be sent by
+hand, or by facsimile transmission, or overnight delivery by any recognized delivery service, to the parties at the
+following address or such other address as may be notified by any party from time to time:
+If to the Fund:
+PGIM PARTNERS GROUP PRIVATE MARKETS MULTI-ASSET FUND
+655 Broad Street
+Newark, NJ 07102-4410
+Attn: Chris Kelly
+Telephone: (973) 367-1220
+with a copy to:
+PGIM Investments LLC – Legal Department
+655 Broad Street, 6th Floor
+Newark, NJ 07102-4410
+If to the Administrator:
+-11-
+STATE STREET BANK AND TRUST COMPANY
+State Street Financial Center
+One Congress Street
+
+
+[PDF page 9]
+E05_administration | HTML reading copy
+Page 9
+Boston, MA 02114
+Attention: Senior Vice President – Administrative Services Operations
+Telephone: (617) 662-4938
+with a copy to:
+STATE STREET BANK AND TRUST COMPANY
+Legal Division – Global Services Americas
+One Congress Street
+Boston, MA 02114
+Attention: Senior Vice President and Senior Managing Counsel
+17.AMENDMENT
+This Agreement may be amended at any time in writing by mutual agreement of the parties hereto.
+18.ASSIGNMENT
+The terms of this Agreement are binding on the parties’ representatives, successors and permitted assigns, and
+any rights or obligations under this Agreement may not be assigned or transferred by a party without the prior
+written consent of the other party. However, in the event that either party becomes insolvent or otherwise subject
+to a bankruptcy, receivership, conservatorship, administration or equivalent, then such party will have the right to
+transfer its rights and obligations under this Agreement to any entity to which the party transfers its business and
+assets and the other party irrevocably consents to such transfer.
+19.SUCCESSORS
+This Agreement shall be binding on and shall inure to the benefit of the Fund and the Administrator and their
+respective successors and permitted assigns.
+20.DATA PROTECTION
+The Administrator shall implement and maintain a comprehensive written information security program that
+contains appropriate security measures to safeguard the personal information of the Fund’s shareholders,
+employees, directors and/or officers that the Administrator receives, stores, maintains, processes or otherwise
+accesses in connection with the provision of services hereunder. For these purposes, “personal information” shall
+mean (i) an individual’s name (first initial and last name or first name and last name), address or telephone
+number plus (a) social security number, (b) driver’s license number, (c) state identification card number, (d) debit
+or credit card number, (e) financial account number or (f) personal identification number or password that would
+permit access to a person’s account or (ii) any combination of the foregoing
+-12-
+that would allow a person to log onto or access an individual’s account. Notwithstanding the foregoing “personal
+information” shall not include information that is lawfully obtained from publicly available information, or from
+federal, state or local government records lawfully made available to the general public.
+21.INTERNAL CONTROLS REVIEW AND REPORT
+The Administrator will retain a firm of independent auditors to perform an annual review of certain internal controls
+and procedures employed by the Administrator in provision of the services hereunder and issue a standard
+Systems and Organizational Controls 1 Report or equivalent report based on such review. The Administrator will
+provide a copy of the report to the Fund upon request.
+22.ENTIRE AGREEMENT
+This Agreement contains the entire understanding between the parties hereto with respect to the subject matter
+hereof and supersedes and terminates, as of the date hereof, all previous representations, warranties or
+commitments regarding the services to be performed hereunder whether oral or in writing.
+
+
+[PDF page 10]
+E05_administration | HTML reading copy
+Page 10
+23.WAIVER
+The failure of a party hereto to insist upon strict adherence to any term of this Agreement on any occasion shall
+not be considered a waiver nor shall it deprive such party of the right thereafter to insist upon strict adherence to
+that term or any term of this Agreement or the failure of a party hereto to exercise or any delay in exercising any
+right or remedy under this Agreement shall not constitute a waiver of any such term, right or remedy or a waiver
+of any other rights or remedies, and no single or partial exercise of any right or remedy under this Agreement shall
+prevent any further exercise of the right or remedy or the exercise or any other right or remedy. Any waiver must
+be in writing signed by the waiving party.
+24.SEVERABILITY
+If any provision or provisions of this Agreement shall be held to be invalid, unlawful or unenforceable, the validity,
+legality and enforceability of the remaining provisions shall not in any way be affected or impaired.
+25.GOVERNING LAW
+This Agreement shall be construed and the provisions thereof interpreted under and in accordance with the laws of
+The Commonwealth of Massachusetts, without regard to its conflicts of laws rules.
+26.REPRODUCTION OF DOCUMENTS
+-13-
+This Agreement and all schedules, exhibits, attachments and amendments hereto may be reproduced by any
+photographic, xerographic, photostatic, microfilm, micro-card, miniature photographic or other similar process.
+The parties hereto all/each agree that any such reproduction shall be admissible in evidence as the original itself in
+any judicial or administrative proceeding, whether or not the original is in existence and whether or not such
+reproduction was made by a party in the regular course of business, and that any enlargement, facsimile or further
+reproduction of such reproduction shall likewise be admissible in evidence.
+27.COUNTERPARTS
+This Agreement may be executed in several counterparts, each of which shall be deemed to be an original, and all
+such counterparts taken together shall constitute one and the same Agreement. Counterparts may be executed in
+either original or electronically transmitted form (e.g., faxes or emailed portable document format (PDF) form), and
+the parties hereby adopt as original any signatures received via electronically transmitted form.
+[Remainder of Page Intentionally Left Blank]
+-14-
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed by their officers designated
+below as of the date first written above.
+PGIM PARTNERS GROUP PRIVATE MARKETS MULTI-ASSET FUND
+By: /s/ Christian Kelly
+Name: Christian J. Kelly
+Title: Chief Financial Officer
+STATE STREET BANK AND TRUST COMPANY
+By: /s/ Timothy Bias
+Name: Timothy Bias
+Title: Managing Director
+Administration Agreement
+SCHEDULE A
+The Services
+
+
+[PDF page 11]
+E05_administration | HTML reading copy
+Page 11
+SCHEDULE A-1
+(Administrative Services for Private Fund Not Registered as an Investment Company Under the 1940 Act)
+I.Fund Accounting Services
+II.Financial Reporting Services
+III.General Administrative Services
+IV. Additional Work
+SCHEDULE A-2
+(Administrative Services for Fund Registered as an Investment Company Under the 1940 Act)
+I.Fund Accounting Services
+II.Financial Reporting Services
+III.Treasury Services
+IV.
+Post-Trade Investment Compliance Testing Services
+V.CFTC Services
+VI. Form N-PORT Services, Form N-CEN Services, and Quarterly Portfolio of Investments Services
+SCHEDULE A-1
+The Administrator shall perform the following services for the Fund during the time period when the Fund is a
+private fund that is not registered as an investment company under the 1940 Act:
+1.Fund Accounting Services
+•Maintain the books and records of the Fund in accordance with the terms of the applicable operating agreement
+and generally accepted accounting principles.
+•Maintain database detail of all portfolio investment transactions.
+•Compute capital call allocations by use of funds, as required.
+•Calculate management fees in accordance with the applicable operating agreement and arrange for payment as
+directed by the investment manager.
+•Host the annual audit at the Administrator’s offices, if requested; prepare and/or gather supporting
+documentation for audit review; and follow-up on questions and requests for additional information.
+2.Financial Reporting Services
+•Prepare the Fund’s annual audited financial statements (audited by the Fund’s auditor), including the statement
+of assets and liabilities, statement of operations, statement of changes in net assets, statement of cash flows,
+schedule of investments, footnotes to the financial statements, and the first, second, and third quarter unaudited
+financial statements of the Fund.
+•Facilitate the audit of the Fund’s annual financial statements by the Fund’s auditors.
+3.General Administrative Services
+•Administer bank accounts of the Fund on behalf of the Fund and arrange for such payments from such accounts
+as may be directed by the Fund.
+•Provision of fund trial balances and supporting financial information to the Fund’s tax advisers and liaising with
+tax advisers as necessary regarding any associated queries.
+4.Additional Work
+
+
+[PDF page 12]
+E05_administration | HTML reading copy
+Page 12
+•Work requested of the Administrator that is considered to be outside the scope of the accounting, reporting and
+investor services set forth above is subject to additional fees at the prevailing hourly rate. The Administrator shall
+perform such additional services as may be agreed from time to time.
+SCHEDULE A-2
+The Administrator shall perform the following services for the Fund when the Fund is registered as an investment
+company under the 1940 Act:
+1.Fund Accounting Services
+•Prepare and provide daily reconciliation report of cash, cash activity and positions to prime broker and custodian
+statements (where prime brokers or custodians are utilized) on T+1, subject to the receipt of required information
+from third parties. The Fund shall be responsible for the resolution of reconciliation issues.
+•Prepare and provide daily position, P&L and activity reporting on T+1, subject to the receipt of trade file
+information from the Fund in a format agreed to by the Administrator. Prices used will be based upon third party
+price sources approved by the Fund, pricing methodologies approved by the Fund, or as otherwise directed by the
+Fund and agreed to by the Administrator.
+•Gather prices for portfolio securities daily from third party pricing sources approved by the Fund, pursuant to
+pricing methodologies approved by the Fund, or as otherwise directed by the Fund and agreed to by the
+Administrator.
+•Prepare and provide daily net asset value (T+1) based upon third party price sources approved by Fund, pricing
+methodologies approved by the Fund, or as otherwise directed by the Fund and agreed to by the Administrator,
+and subject to the receipt of information from third parties.
+2.Financial Reporting Services
+•Prepare annual (audited by Fund’s auditor) and semi-annual unaudited financial statements of the Fund
+(including statement of assets and liabilities, statement of operations, statement of changes in net assets,
+statement of cash flows, schedule of investments, and footnotes to financial statements) for review by the
+designated officer(s) of the Fund. Prepare Part F (Schedule of investments and related footnotes) for the first and
+third fiscal quarter ends for review by the designated officer(s) of the Fund.
+•Coordinate the audit of the Fund’s annual financial statements by the Fund’s auditors.
+3.Treasury Services
+•Prepare for the review by designated officer(s) of the Fund annual fund expense budgets, perform accrual
+analyses and roll-forward calculations and recommend changes to fund expense accruals on a quarterly basis,
+arrange for payment of the Fund’s expenses, and obtain authorization of accrual changes and expense payments.
+•Prepare and coordinate the filing of Rule 24f-2 notices, including coordination of payment.
+•Prepare and furnish total return performance information for the Fund, including such information on an after tax
+basis, calculated in accordance with applicable U.S. securities laws and regulations, as may be reasonably
+requested by Fund.
+4.Post-Trade Investment Compliance Testing Services
+•Provide daily testing of the Fund with respect to compliance with the requirements of the 1940 Act and limitations
+for the Fund contained in the Registration Statement for the Fund, as mutually agreed upon by the Fund and the
+Administrator, including the Prospectus, Statement of Additional Information, and/or Investment Manager
+Guideline(s), as applicable.
+•Provide quarterly testing of the Fund with respect to compliance with the requirements of the Internal Revenue
+Code’s mandatory qualification requirements (subchapter M and/or
+L).
+5.CFTC Services
+
+
+[PDF page 13]
+E05_administration | HTML reading copy
+Page 13
+Subject to the authorization and direction of the Fund, the Administrator will provide the CFTC Services set forth
+herein (the “CFTC Services”) to assist the Fund and/or its affiliates in complying with applicable CFTC compliance
+testing and reporting requirements.
+Limitation of Responsibilities. With regard to the CFTC Services, the Administrator’s responsibilities are limited to
+the provision of the CFTC Services described in this section. These responsibilities do not include: (i) determination
+of the Fund’s status as a Commodity Pool Operator (a “CPO”), (ii) the determination of the Fund’s eligibility for an
+exclusion from classification as a CPO, or (iii) the completion and filing of the Form CPO-PQR. Where the Fund uses
+the CFTC Services to comply with any law, representation, agreement or other obligation, the Administrator makes
+no representation that any such CFTC Services comply with such law, representation, agreement, or other
+obligation, and the Administrator has no obligation of compliance with respect thereto. The Fund should contact its
+legal counsel for specific guidance on compliance with the Commodity Exchange Act of 1936, as amended (the
+“Commodity Exchange Act”). Unless the Fund currently subscribes to fund administration legal services with the
+Administrator, the CFTC Services do not include assisting the Fund with preparation of annual enhanced
+prospectus disclosures. Assistance with the registration of an entity as a CPO is not included as a CFTC Service.
+Responsibilities of the Fund. The Fund is responsible for providing authorization and direction to the Administrator
+with respect to the CFTC Services. The Fund is responsible for arranging, in each case where appropriate, for the
+review and comment by the Fund’s independent accountants and legal counsel of CFTC financial information,
+reports and any filings prepared by the Fund. In addition, the Fund is solely responsible for determining the Fund’s
+status as a CPO, and/or the Fund’s eligibility for an exclusion from classification as a CPO.
+The Fund shall be responsible for accurately and timely supplying the Administrator with complete financial,
+organizational and other information, and/or arranging for the provision of such information from third parties, as
+may be required in order for the Administrator to provide the CFTC Services, and any information requested by the
+Administrator in connection with the foregoing. The Administrator is authorized and instructed to rely upon the
+information it receives from the Fund or any third party (including, without limitation, the Fund’s third party
+administrator(s), custodian(s), prime broker(s), and other service providers to the Fund)
+authorized by the Fund to provide such information to the Administrator and on any instructions received from the
+Fund. The Fund and any third party from which the Administrator shall receive or obtain certain records, reports
+and other data included in the CFTC Services provided hereunder are solely responsible for the contents of such
+information, including, without limitation, the accuracy thereof, and the Administrator shall be entitled to rely on
+such records, reports and other data as provided to the Administrator by the Fund or any third party, and any
+instructions provided to the Administrator by the Fund, and shall have no responsibility for making any interpretive
+determinations with respect thereto. The Administrator has no responsibility to review, confirm or otherwise
+assume any duty with respect to the accuracy or completeness of any such information, or instructions, and shall
+be without liability for any loss or damage suffered by the Fund as a result of the Administrator’s reliance on and
+utilization of such information or instructions believed by it to be genuine and to have been properly issued by or
+on behalf of the Fund or such third party. The Administrator shall have no responsibility and shall be without
+liability for any loss or damage caused by the failure of the Fund or any third party to provide it with the
+information required.
+CFTC financial reporting, compliance testing and exclusion filing services
+Subject to the authorization and direction of the Fund and, in each case where appropriate, the review and
+comment by the Fund’s independent accountants and legal counsel, and in accordance with procedures that may
+be established from time to time between the Fund and the Administrator, the Administrator will:
+i.Perform daily testing for compliance with the CFTC initial margin test and the CFTC net notional test; and
+ii.As applicable, prepare the Fund’s initial and annual Rule 4.5 notice of exclusion from classification as a CPO
+under the Commodity Exchange Act and file such initial and annual notice with the National Futures Association.
+iii.Perform monthly testing for compliance with the CFTC 5% Initial Margin test and the CFTC 100% Net Notional
+test.
+6.Form N-PORT Services, Form N-CEN Services, and Quarterly Portfolio of Investments Services
+
+
+[PDF page 14]
+E05_administration | HTML reading copy
+Page 14
+Fund Administration Form N-PORT (the “Form N-PORT Services”) and Form N-CEN (the “Form N-CEN Services”)
+Support Services (collectively, the “Form N-PORT and Form N-CEN Support Services”) and Quarterly Portfolio of
+Investments Services (collectively, with the Form N-PORT and Form N-CEN Support Services, and for purposes of
+this Schedule A4, the “Services”)
+(a)Standard N-PORT and N-CEN Reporting Solution (Data and Filing):
+•Subject to the receipt of all required data, documentation, assumptions, information and assistance from the
+Fund (including from any third parties with whom the Fund will need to coordinate in order to produce such data,
+documentation, and information), the
+Administrator will use required data, documentation, assumptions, information and assistance from the Fund and
+the Administrator’s internal systems (collectively, the “Required Data”) to perform necessary data aggregations
+(including any applicable aggregation of risk metrics) and calculations and prepare, as applicable: (i) a monthly
+draft Form N-PORT standard template for review and approval by the Fund and (ii) annual updates of Form N-CEN
+for review and approval by the Fund.
+•The Fund acknowledges and agrees that it will be responsible for reviewing and approving each such draft
+N-PORT template and N-CEN update.
+•Following review and final approval by the Fund of each such draft Form N-PORT template and N-CEN update, and
+at the direction of and on behalf of the Fund, the Administrator will (i) produce an .XML formatted file of the
+completed Form N-PORT and Form N-CEN and (ii) electronically submit such filing to the SEC.
+(b)Quarterly Portfolio of Investments Services:
+•Subject to the receipt of all Required Data, and as a component of the Form N- PORT and Form N-CEN Support
+Services, the Administrator will use such
+Required Data from the Fund, the Administrator’s internal systems and other data providers to prepare a draft
+portfolio of investments (the “Portfolio of Investments”), compliant with GAAP, as of the Fund’s first and third fiscal
+quarter-ends.
+•Following review and final approval by the Fund of each such draft Portfolio of Investments, and at the direction of
+and on behalf of the Fund, the Administrator will attach each Portfolio of Investments to the first and third fiscal
+quarter-end N-PORT filing that is submitted electronically to the SEC.
+(c)Liquidity Risk Measurement Services :
+•Not Appliable
+Fund Duties, Representations and Covenants in Connection with (i) Form N-PORT and Form N-CEN Support
+Services, and (ii) Quarterly Portfolio of Investments Services.
+The provision of the Services to the Fund by the Administrator is subject to the following terms and conditions:
+1.The parties acknowledge and agree on the following matters:
+The Services depend, directly or indirectly, on: (i) Required Data and (ii) information concerning the Fund or its
+affiliates or any Fund, pooled vehicle, security or other investment or portfolio regarding which the Fund or its
+affiliates provide services or is otherwise associated (“Fund Entities”) that is generated or aggregated by the
+Administrator or its affiliates in connection with services performed on the Fund’s behalf or otherwise prepared by
+the Administrator (“State
+Street Data,” together with Required Data and Third Party Data (as defined below), “Services- Related Data”). The
+Administrator’s obligations, responsibilities and liabilities with respect to any State Street Data used in connection
+with other services received by the Fund shall be as provided in such respective other agreements between the
+Administrator or its affiliates and the Fund relating to such other services (e.g., administration and/or custody
+services, etc.) from which the State Street Data is derived or sourced (“Other Fund Agreements”). Nothing in this
+Agreement or any service schedule(s) shall limit or modify the Administrator’s or its affiliates’ obligations to the
+Fund under the Other Fund Agreements.
+
+
+[PDF page 15]
+E05_administration | HTML reading copy
+Page 15
+In connection with the provision of the Form N-PORT and Form N-CEN Support Services, and Quarterly Portfolio of
+Investments Services by the Administrator, the Fund acknowledges and agrees that it will be responsible for
+providing the Administrator with any information requested by the Administrator, including, but not limited to, the
+following:
+(A)Arranging for the regular provision of all Required Data (including State Street Data, where applicable) and
+related information to the Administrator, in formats compatible with Administrator-provided data templates
+including, without limitation, Required Data and the information and assumptions required by the Administrator in
+connection with a Fund reporting profile and onboarding checklist, as it, or the information or assumptions
+required, may be revised at any time by the Administrator, in its discretion (collectively, the “Onboarding
+Checklist”) and such other forms and templates as may be used by the
+Administrator for such purposes from time to time, for the Fund receiving services under this Agreement, including
+but not limited to those to be reported on Form N-PORT and Form N-CEN (as determined by the Fund), including,
+without limitation, arranging for the provision of data from the Fund, its affiliates, third party administrators, prime
+brokers, custodians, and other relevant parties. If and to the extent that Required Data is already accessible to the
+Administrator (or any of its affiliates) in its capacity as administrator to the Fund, the Administrator and the Fund
+will agree on the scope of the information to be extracted from the Administrator’s or any of its affiliate’s systems
+for purposes of the Administrator’s provision of Form N-PORT and Form N-CEN Support Services, and Quarterly
+Portfolio of Investments Services, subject to the discretion of the Administrator, and the Administrator is hereby
+expressly authorized to use any such information as necessary in connection with providing the Form N-PORT and
+Form N- CEN Support Services, and Quarterly Portfolio of Investments Services, hereunder; and
+(B)Providing all required information and assumptions not otherwise included in Fund data and assumptions
+provided pursuant to Section 1(A) above, including but not limited to the Required Data, as may be required in
+order for the Administrator to provide the Services.
+The following are examples of certain types of information that the Fund is likely to be required to provide
+pursuant to Sections 1(A) and 1(B) above, and the Fund hereby acknowledges and understands that the following
+categories of information are merely illustrative examples, are by no means an exhaustive list of all such required
+information, and are subject to change as a result of any amendments to Form N-PORT and Form N-CEN or any
+changes in requirements relating to the provision of Liquidity Risk Measurement Services:
+•SEC filing classification of the Fund (i.e., small or large filer);
+•Identification of any data sourced from third parties;
+•Identification of any securities reported as Miscellaneous; and
+•Any Explanatory Notes included in N-PORT Section E.
+2.The Fund acknowledges that it has provided to the Administrator all material assumptions used by the Fund or
+that are expected to be used by the Fund in connection with the completion of Form N-PORT and Form N-CEN, and
+Quarterly Portfolio of Investments Services, and that it has approved all material assumptions used by the
+Administrator in the provision of the Services prior to the first use of the Services. The Fund will also be responsible
+for promptly notifying the Administrator of any changes in any such material assumptions previously notified to
+the Administrator by the Fund or otherwise previously approved by the Fund in connection with the Administrator’s
+provision of the Services. The Fund acknowledges that the completion of Form N-PORT and Form N-CEN, and
+Quarterly Portfolio of Investments Services, and the data required thereby, requires the use of material
+assumptions in connection with many different categories of information and data, and the use and/or reporting
+thereof, including, but not limited to the following:
+•Investment classification of positions;
+•Assumptions necessary in converting data extracts;
+•General operational and process assumptions used by the Administrator in performing the Services; and
+•Assumptions specific to the Fund.
+
+
+[PDF page 16]
+E05_administration | HTML reading copy
+Page 16
+The Fund hereby acknowledges and understands that the foregoing categories of information that may involve the
+use of material assumptions are merely illustrative examples of certain subject matter areas in relation to which
+the Fund (and/or the Administrator on its behalf in connection with the Services) may rely on various material
+assumptions, and are by no means an exhaustive list of all such subject matter areas.
+3.The Fund acknowledges and agrees on the following matters:
+(A)The Fund has independently reviewed the Services (including, without limitation, the assumptions, market data,
+securities prices, securities valuations, tests and calculations used in the Services), and the Fund has determined
+that the Services are suitable for its purposes. None of the Administrator or its affiliates, nor their respective
+officers, directors, employees, representatives, agents or service providers (collectively, including the
+Administrator, “State Street Parties”) make any express or implied warranties or representations with respect to
+the
+Services or otherwise.
+(B)The Fund assumes full responsibility for complying with all securities, tax, commodities and other laws, rules
+and regulations applicable to it. The Administrator is not providing, and the Services do not constitute, legal, tax,
+investment, or regulatory advice, or accounting or auditing services advice. Unless otherwise agreed to in writing
+by the parties to this Agreement, the Services are of general application and the Administrator is not providing
+any customization, guidance, or recommendations. Where the Fund uses Services to comply with any law,
+regulation, agreement, or other Fund obligation, the Administrator makes no representation that any Service
+complies with such law, regulation, agreement, or other obligation, and the Administrator has no obligation of
+compliance with respect thereto.
+(C)The Fund may use the Services and any reports, charts, graphs, data, analyses and other results generated by
+the Administrator in connection with the Services and provided by the Administrator to the Fund (“Materials”) (a)
+for the internal business purpose of the Fund relating to the applicable Service or (b) for submission to the U.S.
+Securities and Exchange Commission, as required, of a Form N-PORT template and a Form N-CEN update, including
+any Portfolio of Investments, if applicable. The Fund may also redistribute the Materials, or an excerpted portion
+thereof, to its investment managers, investment advisers, agents, clients, investors or participants, as applicable,
+that have a reasonable interest in the Materials in connection with their relationship with the Fund (each a
+“Permitted Person”); provided, however, (i) the Fund may not charge a fee, profit, or otherwise benefit from the
+redistribution of Materials to Permitted Persons, (ii) data provided by third party sources such as but not limited to
+market or index data
+(“Third Party Data”) contained in the Materials may not be redistributed other than Third Party
+Data that is embedded in the calculations presented in the Materials and not otherwise identifiable as Third Party
+Data, except to the extent the Fund has separate license rights with respect to the use of such Third Party Data, or
+(iii) the Fund may not use the Services or Materials in any way to compete or enable any third party to compete
+with the Administrator. No Permitted Person shall have any further rights of use or redistribution with respect to, or
+any ownership rights in, the Materials or any excerpted portion thereof.
+Except as expressly provided in this Section 3(C), the Fund, any of its affiliates, or any of their respective officers,
+directors, employees, investment managers, investment advisers, agents or any other third party, including any
+client of, or investor or participant in the Fund or any Permitted Persons (collectively, including the Fund, “Fund
+Parties”), may not directly or indirectly, sell, rent, lease, license or sublicense, transmit, transfer, distribute or
+redistribute, disclose display, or provide, or otherwise make available or permit access to, all or any part of the
+Services or the Materials (including any State Street Data or Third Party Data contained therein, except with
+respect to Third Party Data to the extent the Fund has separate license rights with respect to the use of such Third
+Party Data). Without limitation, Fund Parties shall not themselves nor permit any other person to in whole or in
+part (i) modify, enhance, create derivative works, reverse engineer, decompile, decompose or disassemble the
+Services or the Materials; (ii) make copies of the Services, the Materials or portions thereof; (iii) secure any source
+code used in the Services, or attempt to use any portions of the Services in any form other than machine readable
+object code; (iv) commercially exploit or otherwise use the Services or the Materials for the benefit of any third
+party in a service bureau or software-as-a-service environment (or similar structure), or otherwise use the Services
+
+
+[PDF page 17]
+E05_administration | HTML reading copy
+Page 17
+or the Materials to perform services for any third party, including for, to, or with consultants and independent
+contractors; or
+(v)attempt any of the foregoing or otherwise use the Services or the Materials for any purpose other than as
+expressly authorized under this Agreement.
+(D)The Fund shall limit the access and use of the Services and the Materials by any Fund Parties to a need-to-know
+basis and, in connection with its obligations under this
+Agreement, the Fund shall be responsible and liable for all acts and omissions of any Fund Parties.
+(E)The Services, the Materials and all confidential information of the Administrator (as confidential information is
+defined in the Agreement and other than Third Party Data and Required Data), are the sole property of the
+Administrator. The Fund has no rights or interests with respect to all or any part of the Services, the Materials or
+the Administrator’s confidential information, other than its use and redistribution rights expressly set forth in
+Section 3(C) herein. The Fund automatically and irrevocably assigns to the Administrator any right, title or interest
+that it has, or may be deemed to have, in the Services, the Materials or the Administrator’s confidential
+information, including, for the avoidance of doubt and without limitation, any Fund Party feedback, ideas,
+concepts, comments, suggestions, techniques or know-how shared with the Administrator (collectively,
+“Feedback”) and the State Street Parties shall be entitled to incorporate any Feedback in the Services or the
+Materials or to otherwise use such Feedback for its own commercial benefit without obligation to compensate the
+Fund.
+(F)The Fund and any third party from which the Administrator shall receive or obtain certain records, reports and
+other data included in the Services provided hereunder are solely responsible for the contents of such information,
+including, without limitation, the accuracy thereof, and the Administrator shall be entitled to rely on such records,
+reports and other data as provided to the Administrator by the Fund or any third party, and any instructions
+provided to the Administrator by the Fund or behalf of the Fund, and shall have no responsibility for making any
+interpretive determinations with respect thereto. The Administrator has no responsibility to review, confirm or
+otherwise assume any duty with respect to the accuracy or completeness of any such information or instructions,
+and shall be without liability for any loss or damage suffered by the Fund as a result of the Administrator’s reliance
+on and utilization of such information or instructions believed by it to be genuine and to have been properly issued
+by or on behalf of the Fund or such third party. The Administrator shall have no responsibility and shall be without
+liability for any loss or damage caused by the failure of the Fund or any third party to provide it with the
+information required.
